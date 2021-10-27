@@ -1,0 +1,19 @@
+[audioclip_2875]
+title = "오디오클립 ─ 놓치면 후회할 영화"
+url = "https://audioclip.naver.com/channels/2875"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[audioclip_1857]
+title = "오디오클립 ─ 시네마 바"
+url = "https://audioclip.naver.com/channels/1857"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
