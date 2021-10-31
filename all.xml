@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 14:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 15:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['링'이 12세 관람가 영화라고요? (YCU 20화 with 서정준 기자 in 공들인 스튜디오) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/295</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/295</guid>
+            <pubDate>Sun, 31 Oct 2021 15:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211024_109/1635045378144NdhSl_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['라이온 킹' 이제 디즈니플러스로 본다고! (YCU 19화 with 서정준 기자 in 공들인 스튜디오) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/294</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/294</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/292</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210912_4/1631430794762mMYDy_JPEG/44efa29b9e47ab40e1cb0b6f92c3bedb-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['파라노말 액티비티'·'쏘우' 시리즈 보고 잠 못 잤습니다 (YCU 15화 with 뉴타입) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/286</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['노매드랜드' 양기자 추천으로 봤는데, 역시! (YCU 10화 with 언저리) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/285</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/285</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
     </channel>
 </rss>
