@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 김혜리의 필름클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[146회 2부 - 듄(Dune)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/186</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/186</guid>
+            <pubDate>Wed, 03 Nov 2021 06:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211103_75/16359164658111KEys_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[146회 1부 - 듄(Dune)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/185</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/182</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>132분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210831_168/1630363479806W504e_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[143회 - 갈매기 with 김미조 감독]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/177</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[139회 - 메이드 인 루프탑 with 김조광수 감독, 염문경 작가]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/176</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/176</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
         </item>
     </channel>
 </rss>
