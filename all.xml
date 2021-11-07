@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 14:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 15:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['그녀' 최고의 배드씬 영화! (YCU 21화 with 서정준 기자 in 공들인 스튜디오) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/296</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/296</guid>
+            <pubDate>Sun, 07 Nov 2021 15:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211024_12/1635045829935FayCH_JPEG/movie_image-%283%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['링'이 12세 관람가 영화라고요? (YCU 20화 with 서정준 기자 in 공들인 스튜디오) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/295</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/295</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/290</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210912_220/1631429807465hK0VE_JPEG/Dern-SpaceJam-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['누들누드'를 기억하시는 분? (YCU 16화 with 삼군) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/287</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로빈 윌리엄스·시얼샤 로넌·예수정, 이들의 공통점은? (YCU 11화 with 언저리) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/286</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/286</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
         </item>
     </channel>
 </rss>
