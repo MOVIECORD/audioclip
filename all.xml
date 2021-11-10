@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(수) - 영화 주제에 - 2021.11.10 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/1989</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/1989</guid>
+            <pubDate>Wed, 10 Nov 2021 07:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211110_122/1636524893606H0QHC_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2021.11.9 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/1988</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/1988</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1985</guid>
             <pubDate>Mon, 08 Nov 2021 03:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211108_115/1636339472277FVJ06_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 소통데이 (스페셜DJ 류수영) - 2021.11.5 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1980</guid>
             <pubDate>Mon, 01 Nov 2021 07:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 사연&신청곡 (스페셜DJ 주시은) - 2021.10.31 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1979</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1979</guid>
-            <pubDate>Mon, 01 Nov 2021 06:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(470화 2부) 라스트듀얼 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
