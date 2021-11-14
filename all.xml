@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['듄'을 추천하듄 (YCU 22화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/297</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/297</guid>
+            <pubDate>Sun, 14 Nov 2021 15:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211111_113/16366368206552wCAn_JPEG/e05bd39e524e91dcbcf19544438e25f3-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['그녀' 최고의 배드씬 영화! (YCU 21화 with 서정준 기자 in 공들인 스튜디오) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/296</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/296</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/293</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20210912_31/16314313823225ijNg_JPEG/movie_image-%2810%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스페이스 잼' 어린 시절 시카고에선 이 영화 모르면 간첩 (YCU 17화 with 뉴타입) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/288</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['타노스'가 최애 빌런 캐릭터였던 이유는? (YCU 12화 with 언저리) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/287</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/287</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
     </channel>
 </rss>
