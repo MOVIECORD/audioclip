@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(472화 2부) 이터널스]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/817</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/817</guid>
+            <pubDate>Mon, 15 Nov 2021 06:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211115_213/1636953378823Sn3NN_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(472화 1부) 목동 전화방]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/818</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/818</guid>
+            <pubDate>Mon, 15 Nov 2021 06:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211115_142/1636953379204NvsJ2_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(470화 2부) 라스트듀얼]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/814</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/812</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211022_114/1634892305503fzE9d_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(469화 1부) 돗톤보리의 전설]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/811</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211022_251/1634890589518nWIGn_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(468화 2부) 데이비드 핀쳐 특집]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/805</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(466화 1부) 극한의 밸런스게임, 당신의 선택은?]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/806</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/806</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(465화 2부) 샹치]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/803</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/803</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
         </item>
     </channel>
 </rss>
