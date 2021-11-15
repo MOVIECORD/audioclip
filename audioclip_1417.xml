@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(토) - 씨네맛 천국 (파란달) - 2021.11.13]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/1992</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/1992</guid>
+            <pubDate>Mon, 15 Nov 2021 02:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211115_173/1636942478333KBmpw_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(금) - 씬 & 쏭 (푸디토리움) - 2021.11.12]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/1991</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1988</guid>
             <pubDate>Tue, 09 Nov 2021 06:10:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211109_136/1636436673808dcza0_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 씨네초대석 (박강현) - 2021.11.8]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1983</guid>
             <pubDate>Thu, 04 Nov 2021 06:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 영화 주제에 (스페셜DJ 류수영) - 2021.11.3]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1982</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1982</guid>
-            <pubDate>Wed, 03 Nov 2021 13:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
     </channel>
 </rss>
