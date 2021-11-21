@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 시네마 바</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쌍화점'에 얽힌 고등학교 시절 추억 (YCU 23화 with 나니망)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/298</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/298</guid>
+            <pubDate>Sun, 21 Nov 2021 15:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211111_90/1636636989619vtkPA_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['듄'을 추천하듄 (YCU 22화 with 나니망)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/297</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/294</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211024_80/1635044813297oRWp5_JPEG/89a4f4aeb0170547e07b2cbfca7e0b97-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미니 여배우 이상형 월드컵, 승자는? (YCU 18화 with 삼군)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/291</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['도쿄 패럴림픽' 특집! 현장에서 일한 사람을 데려왔습니다 (YCU 13화 with 뉴타입)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/288</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/288</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
 </rss>
