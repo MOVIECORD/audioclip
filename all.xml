@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[영화 추천] 늦가을 감성 품은, 음악이 주인공인 영화들 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/124</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/124</guid>
+            <pubDate>Mon, 22 Nov 2021 15:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211122_106/1637558287254PxEQz_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천] '듄' 흥행 기념, '티모시 샬라메' 추천 영화 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/123</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/123</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/120</guid>
             <pubDate>Mon, 01 Nov 2021 16:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211102_29/16357805396175P6v7_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보이후드] 영화가 삶이 되는 마법 같은 순간(청취자 '방울'님 추천 영화) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/115</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 쌀쌀한 가을, 마음을 따뜻하게 해줄 '박정민' 출연작('변산', '시동', '그것만이 내 세상') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/114</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/114</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['쌍화점'에 얽힌 고등학교 시절 추억 (YCU 23화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
