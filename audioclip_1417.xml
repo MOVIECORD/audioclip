@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 씨네초대석 (함연지) - 2021.11.22]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2000</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2000</guid>
+            <pubDate>Tue, 23 Nov 2021 06:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211123_73/1637646298973fu5hC_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 사연&신청곡 - 2021.11.21]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/1999</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1996</guid>
             <pubDate>Thu, 18 Nov 2021 07:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211118_48/1637216112055L0dTS_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 우리가 영화롭다면 (이학주) - 2021.11.17]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1991</guid>
             <pubDate>Fri, 12 Nov 2021 06:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2021.11.11]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1990</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1990</guid>
-            <pubDate>Thu, 11 Nov 2021 06:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>
