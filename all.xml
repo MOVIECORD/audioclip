@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(화) - 씨네초대석 (조은지 감독, 무진성) - 2021.11.23 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2001</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2001</guid>
+            <pubDate>Tue, 23 Nov 2021 08:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211123_264/1637651700615OxruJ_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 씨네초대석 (함연지) - 2021.11.22 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2000</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2000</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1997</guid>
             <pubDate>Fri, 19 Nov 2021 08:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211119_284/1637306107284ECcbH_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2021.11.18 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1992</guid>
             <pubDate>Mon, 15 Nov 2021 02:23:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 씬 & 쏭 (푸디토리움) - 2021.11.12 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1991</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1991</guid>
-            <pubDate>Fri, 12 Nov 2021 06:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(473화 2부) 퍼펙트 케어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
