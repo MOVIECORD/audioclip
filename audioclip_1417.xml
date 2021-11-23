@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 00:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 01:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(토) - 씨네맛 천국 (파란달) - 2021.11.20]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/1998</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/1998</guid>
+            <pubDate>Tue, 23 Nov 2021 01:50:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211123_70/1637630103331N7GNz_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(금) - 씨네초대석 (손석구, 전종서) - 2021.11.19]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/1997</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1994</guid>
             <pubDate>Tue, 16 Nov 2021 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211116_115/1637043301428Toi3J_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 사연&신청곡 - 2021.11.14]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1989</guid>
             <pubDate>Wed, 10 Nov 2021 07:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2021.11.9]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1988</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1988</guid>
-            <pubDate>Tue, 09 Nov 2021 06:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
     </channel>
 </rss>
