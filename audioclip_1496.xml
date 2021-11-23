@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,20 @@
             <enclosure url="https://audio-phinf.pstatic.net/20211115_142/1636953379204NvsJ2_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[(471화 2부) 듄]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/815</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/815</guid>
+            <pubDate>Tue, 23 Nov 2021 07:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(471화 1부) 하와이에서 온 편지]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/816</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/816</guid>
+            <pubDate>Tue, 23 Nov 2021 07:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(470화 2부) 라스트듀얼]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/814</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/814</guid>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/811</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(468화 2부) 데이비드 핀쳐 특집]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/810</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/810</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(467화 2부) 007 노 타임 투 다이]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/807</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/807</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
     </channel>
 </rss>
