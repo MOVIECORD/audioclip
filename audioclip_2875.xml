@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화 추천]  당신에게 행복을 가져다 줄 사랑스러운 '독일 영화' 추천]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/125</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/125</guid>
+            <pubDate>Wed, 24 Nov 2021 15:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211124_276/1637763062557Q53en_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영화 추천] 늦가을 감성 품은, 음악이 주인공인 영화들]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/124</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/121</guid>
             <pubDate>Mon, 08 Nov 2021 15:09:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211108_221/1636380955127LwgFD_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[화양연화] 여러분에게 가장 아름다운 순간은 언제였나요?(청취자 '방울'님 추천 영화)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/116</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '스틸 워터' 개봉 기념, '맷 데이먼' 영화들('히어 애프터', '프라미스드 랜드', '브레이브')]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/115</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/115</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
     </channel>
 </rss>
