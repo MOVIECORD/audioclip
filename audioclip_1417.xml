@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 06:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 초희's의 초이스 (김초희 감독) - 2021.11.25]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2003</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2003</guid>
+            <pubDate>Thu, 25 Nov 2021 06:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211125_7/1637817286420tXYVe_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 꼬리에 꼬리를 무는 무비캐릭터 분석 (오진승) - 2021.11.24]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2002</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1999</guid>
             <pubDate>Tue, 23 Nov 2021 02:23:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211123_57/16376337079631DyVM_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 씨네맛 천국 (파란달) - 2021.11.20]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/1994</guid>
             <pubDate>Tue, 16 Nov 2021 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 사연&신청곡 - 2021.11.14]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1993</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1993</guid>
-            <pubDate>Mon, 15 Nov 2021 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
     </channel>
 </rss>
