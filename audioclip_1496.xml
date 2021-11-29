@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 06:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 07:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(474화 1부) 녹는실의 비밀]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/821</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/821</guid>
+            <pubDate>Mon, 29 Nov 2021 07:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_259/1638168301457jPxdB_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(473화 2부) 퍼펙트 케어]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/820</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/818</guid>
             <pubDate>Mon, 15 Nov 2021 06:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211115_142/1636953379204NvsJ2_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(471화 2부) 듄]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/812</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(469화 1부) 돗톤보리의 전설]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/811</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/811</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
         </item>
     </channel>
 </rss>

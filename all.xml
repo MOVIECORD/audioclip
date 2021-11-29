@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 06:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 07:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2021.11.29 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2007</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2007</guid>
+            <pubDate>Mon, 29 Nov 2021 07:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_151/1638168299768Db3by_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 - 2021.11.28 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2006</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2006</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2003</guid>
             <pubDate>Thu, 25 Nov 2021 06:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211125_7/1637817286420tXYVe_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 꼬리에 꼬리를 무는 무비캐릭터 분석 (오진승) - 2021.11.24 (오디오클립 ─ 씨네타운)]]></title>
@@ -149,11 +156,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(금) - 씨네초대석 (손석구, 전종서) - 2021.11.19 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1997</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1997</guid>
-            <pubDate>Fri, 19 Nov 2021 08:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <title><![CDATA[(474화 1부) 녹는실의 비밀 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/821</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/821</guid>
+            <pubDate>Mon, 29 Nov 2021 07:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_259/1638168301457jPxdB_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(473화 2부) 퍼펙트 케어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/818</guid>
             <pubDate>Mon, 15 Nov 2021 06:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211115_142/1636953379204NvsJ2_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(471화 2부) 듄 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/812</guid>
             <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(469화 1부) 돗톤보리의 전설 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/811</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/811</guid>
-            <pubDate>Wed, 27 Oct 2021 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[영화 추천]  당신에게 행복을 가져다 줄 사랑스러운 '독일 영화' 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
