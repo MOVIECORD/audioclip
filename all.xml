@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[스포트라이트] 냉정한 언론인들의 뜨거운 싸움(w. 언론 영화 추천) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/126</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/126</guid>
+            <pubDate>Mon, 29 Nov 2021 15:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211129_29/1638192467312aA9qI_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천]  당신에게 행복을 가져다 줄 사랑스러운 '독일 영화' 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/125</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/125</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/122</guid>
             <pubDate>Mon, 15 Nov 2021 15:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211115_149/1636987718209Cww3z_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아이 엠 샘] 마음을 울린 '다코타 패닝'의 한 마디, "오직 필요한 건 사랑뿐이에요" (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/117</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[기쿠지로의 여름] 영화의 제목은 왜 '기쿠지로'의 여름일까?(청취자 '미미부'님 추천 영화) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/116</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/116</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['매트릭스: 리저렉션'만 기다리고 있습니다! (YCU 24화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
