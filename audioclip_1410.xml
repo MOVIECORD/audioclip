@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1410</id>
-    <title>오디오클립 ─ 김혜리의 필름클럽</title>
-    <updated>2021-11-29T19:08:34.069Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 김혜리의 필름클럽</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 29 Nov 2021 20:10:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[147회 2부 - 퍼스트 카우(First Cow)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/188</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/188</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211118_118/1637207077424gyIMp_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[147회 1부 - 퍼스트 카우(First Cow)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/187</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/187</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211116_300/16370505125907yq8p_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[146회 2부 - 듄(Dune)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/186</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/186</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211103_75/16359164658111KEys_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[146회 1부 - 듄(Dune)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/185</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/185</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211102_96/1635830056227KGQFj_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 가을(방학)인사]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/184</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/184</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[145회 - 바쿠라우(Bacurau)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/183</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/183</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[144회 - 그린 나이트(The Green Knight)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/182</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/182</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>132분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[143회 - 갈매기 with 김미조 감독]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/181</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/181</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영화 속 클래식] 더 파더, 베이비티스, 북스마트, 프록시마 프로젝트]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/180</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/180</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[142회 - 킹덤 아신전]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/179</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/179</guid>
+            <pubDate>Mon, 29 Nov 2021 20:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
