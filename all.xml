@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(수) - 초희's의 초이스 (김초희 감독) - 2021.12.1 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2008</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2008</guid>
+            <pubDate>Wed, 01 Dec 2021 06:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211201_103/1638335709294vu3CA_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2021.11.30 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2009</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2009</guid>
+            <pubDate>Wed, 01 Dec 2021 06:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211201_35/1638335710546rz5eT_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2021.11.29 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2007</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2007</guid>
@@ -103,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2005</guid>
             <pubDate>Sun, 28 Nov 2021 12:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211128_136/16380998856744Pc7x_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2021.11.26 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +126,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2004</guid>
             <pubDate>Fri, 26 Nov 2021 05:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211126_245/1637901884356I9DGE_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 초희's의 초이스 (김초희 감독) - 2021.11.25 (오디오클립 ─ 씨네타운)]]></title>
@@ -140,20 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2000</guid>
             <pubDate>Tue, 23 Nov 2021 06:09:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 사연&신청곡 - 2021.11.21 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1999</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1999</guid>
-            <pubDate>Tue, 23 Nov 2021 02:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 씨네맛 천국 (파란달) - 2021.11.20 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/1998</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/1998</guid>
-            <pubDate>Tue, 23 Nov 2021 01:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(474화 2부) 지옥 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
