@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 시네마 바</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 기자도 '영태기'가 오나요? (YCU 25화 with 키노라이츠 장혜령 기자)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/300</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/300</guid>
+            <pubDate>Sun, 05 Dec 2021 15:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211205_222/16386465796056th8P_JPEG/movie_image-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['매트릭스: 리저렉션'만 기다리고 있습니다! (YCU 24화 with 나니망)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/299</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/296</guid>
             <pubDate>Sun, 07 Nov 2021 15:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211024_12/1635045829935FayCH_JPEG/movie_image-%283%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['링'이 12세 관람가 영화라고요? (YCU 20화 with 서정준 기자 in 공들인 스튜디오)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/292</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['파라노말 액티비티'·'쏘우' 시리즈 보고 잠 못 잤습니다 (YCU 15화 with 뉴타입)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/289</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/289</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
     </channel>
 </rss>
