@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 06:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 07:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(475화 2부) 재키의 링]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/823</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/823</guid>
+            <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211206_144/1638771304267soVFz_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(475화 1부) 최규석 리턴즈]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/824</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/824</guid>
+            <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211206_21/1638771305346yB2VI_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(474화 2부) 지옥]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/822</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/820</guid>
             <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211122_33/1637565291278SyVCk_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(473화 1부) 베니스의 철홍]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/819</guid>
             <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211122_120/1637563484096y7hjx_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(472화 2부) 이터널스]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/816</guid>
             <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(470화 2부) 라스트듀얼]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/814</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/814</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>114분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(470화 1부) 112의 진실]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/813</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/813</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
         </item>
     </channel>
 </rss>
