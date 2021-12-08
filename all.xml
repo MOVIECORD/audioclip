@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 14:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 15:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[영화 추천] '디즈니 플러스'에서 만날 수 있는 '인생 영화' 모아 보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/128</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
+            <pubDate>Wed, 08 Dec 2021 15:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211208_160/1638972838356ga06P_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천] '매트릭스: 리저렉션' 개봉 기념, 키아누 리브스 시리즈 영화 돌아보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/127</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/127</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/124</guid>
             <pubDate>Mon, 22 Nov 2021 15:09:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211122_106/1637558287254PxEQz_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] '듄' 흥행 기념, '티모시 샬라메' 추천 영화 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/119</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '듄' 개봉 기념, '드니 빌뇌브' 영화 모음.zip('그을린 사랑', '프리즈너스', '컨택트') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/118</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/118</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영화 기자도 '영태기'가 오나요? (YCU 25화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
