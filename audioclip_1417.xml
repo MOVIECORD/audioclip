@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 12:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2021.12.12]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2020</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2020</guid>
+            <pubDate>Mon, 13 Dec 2021 12:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211213_40/1639394128063Xkvd2_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2021.12.11]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2019</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2016</guid>
             <pubDate>Wed, 08 Dec 2021 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211208_181/1638953083759K7Pbz_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2021.12.7]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2011</guid>
             <pubDate>Fri, 03 Dec 2021 08:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 우리가 영화롭다면 (류경수) - 2021.12.2]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2010</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2010</guid>
-            <pubDate>Thu, 02 Dec 2021 10:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
