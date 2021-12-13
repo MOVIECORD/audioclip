@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 14:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[가위손] '그로테스크'의 동화화, '팀 버튼'의 놀라운 마법 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/129</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/129</guid>
+            <pubDate>Mon, 13 Dec 2021 15:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211213_298/1639403937668UlnHk_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천] '디즈니 플러스'에서 만날 수 있는 '인생 영화' 모아 보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/128</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/125</guid>
             <pubDate>Wed, 24 Nov 2021 15:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211124_276/1637763062557Q53en_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 늦가을 감성 품은, 음악이 주인공인 영화들 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/120</guid>
             <pubDate>Mon, 01 Nov 2021 16:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[보이후드] 영화가 삶이 되는 마법 같은 순간(청취자 '방울'님 추천 영화) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/119</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/119</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['쇼킹 아시아'를 기억하십니까? (YCU 26화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
