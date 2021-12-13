@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 03:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 04:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2021.12.11 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2019</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2019</guid>
+            <pubDate>Mon, 13 Dec 2021 04:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211213_202/1639365299360wmCkL_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 씨네초대석 (정문성) - 2021.12.10 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2018</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2018</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2015</guid>
             <pubDate>Tue, 07 Dec 2021 09:09:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211207_180/1638864901149YA6ro_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 퀴즈쇼 - 뮤직콜라보 (함연지) - 2021.12.6 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2010</guid>
             <pubDate>Thu, 02 Dec 2021 10:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 초희's의 초이스 (김초희 감독) - 2021.12.1 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2008</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2008</guid>
-            <pubDate>Wed, 01 Dec 2021 06:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(475화 2부) 재키의 링 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
