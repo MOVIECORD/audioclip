@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 01:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 씬 & 쏭 (푸디토리움) - 2021.12.13 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2021</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2021</guid>
+            <pubDate>Tue, 14 Dec 2021 01:57:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211214_234/1639446293448kbupB_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 - 2021.12.12 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2020</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2020</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2017</guid>
             <pubDate>Thu, 09 Dec 2021 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211209_123/1639025088365f1JR4_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2021.12.8 (오디오클립 ─ 씨네타운)]]></title>
@@ -149,11 +156,20 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2021.12.3 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2011</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2011</guid>
-            <pubDate>Fri, 03 Dec 2021 08:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <title><![CDATA[(477화 2부) 그린 나이트 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/827</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/827</guid>
+            <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211214_93/163944449071030XB8_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(477화 1부) 나인틴 폐지 카운트다운 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/828</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/828</guid>
+            <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211214_272/1639444491228qHeb7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(476화 2부) 파워 오브 도그 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -177,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/823</guid>
             <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211206_144/1638771304267soVFz_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(475화 1부) 최규석 리턴즈 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -185,7 +200,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/824</guid>
             <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211206_21/1638771305346yB2VI_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(474화 2부) 지옥 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -213,20 +227,6 @@
             <link>https://audioclip.naver.com/channels/1496/clips/819</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/819</guid>
             <pubDate>Mon, 22 Nov 2021 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(472화 2부) 이터널스 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/817</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/817</guid>
-            <pubDate>Mon, 15 Nov 2021 06:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(472화 1부) 목동 전화방 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/818</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/818</guid>
-            <pubDate>Mon, 15 Nov 2021 06:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
         <item>

@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 00:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 01:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(477화 2부) 그린 나이트]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/827</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/827</guid>
+            <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211214_93/163944449071030XB8_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(477화 1부) 나인틴 폐지 카운트다운]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/828</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/828</guid>
+            <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211214_272/1639444491228qHeb7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(476화 2부) 파워 오브 도그]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/825</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/823</guid>
             <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211206_144/1638771304267soVFz_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(475화 1부) 최규석 리턴즈]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/824</guid>
             <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211206_21/1638771305346yB2VI_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(474화 2부) 지옥]]></title>
@@ -64,20 +78,6 @@
             <title><![CDATA[(473화 1부) 베니스의 철홍]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/819</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/819</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(472화 2부) 이터널스]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/817</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/817</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(472화 1부) 목동 전화방]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/818</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/818</guid>
             <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
