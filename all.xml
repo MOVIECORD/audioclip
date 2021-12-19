@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['가장 따뜻한 색, 블루' 숨멎 베드씬의 향연, 그런데… (YCU 27화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/302</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/302</guid>
+            <pubDate>Sun, 19 Dec 2021 15:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211205_162/1638646831689kvHdR_JPEG/10593362516_2612556586_o-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['쇼킹 아시아'를 기억하십니까? (YCU 26화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/301</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/301</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/298</guid>
             <pubDate>Sun, 21 Nov 2021 15:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211111_90/1636636989619vtkPA_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['듄'을 추천하듄 (YCU 22화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/293</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['스페이스 잼' 어린 시절 시카고에선 이 영화 모르면 간첩 (YCU 17화 with 뉴타입) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/290</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/290</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
         </item>
     </channel>
 </rss>
