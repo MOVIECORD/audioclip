@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 00:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 01:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2021.12.18 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2026</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2026</guid>
+            <pubDate>Mon, 20 Dec 2021 01:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211220_49/1639964707130KuXBK_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2021.12.17 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2025</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2025</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2022</guid>
             <pubDate>Tue, 14 Dec 2021 08:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211214_128/1639467878387rmnic_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 씬 & 쏭 (푸디토리움) - 2021.12.13 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2017</guid>
             <pubDate>Thu, 09 Dec 2021 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2021.12.8 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2016</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2016</guid>
-            <pubDate>Wed, 08 Dec 2021 09:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(477화 2부) 그린 나이트 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
