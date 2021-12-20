@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 11:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 12:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,6 +333,7 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/299</guid>
             <pubDate>Sun, 28 Nov 2021 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211111_175/1636637147876RYrMe_JPEG/ucjFnfZb0p9AKixfOJ5LcVGHmTB-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쌍화점'에 얽힌 고등학교 시절 추억 (YCU 23화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
