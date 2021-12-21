@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 00:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 01:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 영화 퀴즈쇼 식스센스 - 2021.12.20]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2028</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2028</guid>
+            <pubDate>Tue, 21 Dec 2021 01:59:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211221_66/164005109471452Php_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2021.12.19]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2027</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2024</guid>
             <pubDate>Thu, 16 Dec 2021 09:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211216_132/1639642492032oH1Ha_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 초희's의 초이스 (김초희 감독) - 2021.12.15]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2019</guid>
             <pubDate>Mon, 13 Dec 2021 04:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 씨네초대석 (정문성) - 2021.12.10]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2018</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2018</guid>
-            <pubDate>Fri, 10 Dec 2021 16:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
         </item>
     </channel>
 </rss>
