@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 02:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 03:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[149회 - 2021 연말결산 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/191</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/191</guid>
+            <pubDate>Wed, 22 Dec 2021 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>124분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211222_229/1640141105001wh4lK_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[148회 2부 파워 오브 도그(The Power of the Dog) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/190</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/187</guid>
             <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211116_300/16370505125907yq8p_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[146회 2부 - 듄(Dune) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/182</guid>
             <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>132분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[143회 - 갈매기 with 김미조 감독 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/181</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/181</guid>
-            <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(화) - 뮤지컬라보 (함연지) - 2021.12.21 (오디오클립 ─ 씨네타운)]]></title>
