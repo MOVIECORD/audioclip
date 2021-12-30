@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 08:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화 추천] '디즈니' 원작 봤다면 꼭 봐야 할 쿠키 영상 같은 단편 애니메이션]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/132</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/132</guid>
+            <pubDate>Thu, 30 Dec 2021 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211230_110/1640790704273FtsAv_JPEG/bb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] 시간 순삭, 재미와 감동 보장! '디즈니 단편' 애니메이션 추천]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/131</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/131</guid>
+            <pubDate>Thu, 30 Dec 2021 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_267/1640615306264fXlsY_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[100회 특집] '놓치면 후회할 영화'를 기록하는 시간(연말 특집&파티)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/130</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
             <pubDate>Wed, 08 Dec 2021 15:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211208_160/1638972838356ga06P_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] '매트릭스: 리저렉션' 개봉 기념, 키아누 리브스 시리즈 영화 돌아보기]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/127</guid>
             <pubDate>Mon, 06 Dec 2021 15:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211206_53/1638775664327lK3WO_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스포트라이트] 냉정한 언론인들의 뜨거운 싸움(w. 언론 영화 추천)]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/123</guid>
             <pubDate>Wed, 17 Nov 2021 16:12:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '디즈니 플러스' 오픈 기념! 꼭 봐야 할 드라마 추천]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/122</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/122</guid>
-            <pubDate>Mon, 15 Nov 2021 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[아이 엠 샘] 마음을 울린 '다코타 패닝'의 한 마디, "오직 필요한 건 사랑뿐이에요"]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/121</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/121</guid>
-            <pubDate>Mon, 08 Nov 2021 15:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
     </channel>
 </rss>

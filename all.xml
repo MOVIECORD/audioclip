@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 08:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[150회 - 5주년 특집 "클러버가 뽑은 베스트 에피소드" (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/192</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/192</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_78/1640578515094yny9g_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[149회 - 2021 연말결산 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/191</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/188</guid>
             <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211118_118/1637207077424gyIMp_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[147회 1부 - 퍼스트 카우(First Cow) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -75,11 +82,36 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[144회 - 그린 나이트(The Green Knight) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/182</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/182</guid>
-            <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>132분]]></content:encoded>
+            <title><![CDATA[(화) - 씨네초대석 (민진웅) - 2021.12.28 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2036</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2036</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211228_55/1640684722360yE6gD_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2021.12.27 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2035</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2035</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211228_36/1640618155066OqOeD_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2021.12.26 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2034</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2034</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_63/1640614507739L5NXW_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2021.12.25 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2033</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2033</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_152/1640573122005zGwKS_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 초희's의 초이스 (김초희 감독) - 2021.12.24 (오디오클립 ─ 씨네타운)]]></title>
@@ -87,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2032</guid>
             <pubDate>Fri, 24 Dec 2021 05:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211224_146/1640319309690lV3de_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2021.12.23 (오디오클립 ─ 씨네타운)]]></title>
@@ -95,7 +126,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2031</guid>
             <pubDate>Thu, 23 Dec 2021 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211223_44/16402472852441BOmm_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (원진아) - 2021.12.22 (오디오클립 ─ 씨네타운)]]></title>
@@ -103,7 +133,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2030</guid>
             <pubDate>Wed, 22 Dec 2021 09:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211222_82/16401626859134wXbo_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 뮤지컬라보 (함연지) - 2021.12.21 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +140,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2029</guid>
             <pubDate>Tue, 21 Dec 2021 08:10:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211221_189/1640072688611chtHu_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 영화 퀴즈쇼 식스센스 - 2021.12.20 (오디오클립 ─ 씨네타운)]]></title>
@@ -128,32 +156,20 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2021.12.18 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2026</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2026</guid>
-            <pubDate>Mon, 20 Dec 2021 01:57:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <title><![CDATA[(478화 2부) 2021연말결산 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/829</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/829</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_119/1640582146562rCMHs_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2021.12.17 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2025</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2025</guid>
-            <pubDate>Fri, 17 Dec 2021 05:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 씨네초대석 (유세윤) - 2021.12.16 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2024</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2024</guid>
-            <pubDate>Thu, 16 Dec 2021 09:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 초희's의 초이스 (김초희 감독) - 2021.12.15 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2023</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2023</guid>
-            <pubDate>Wed, 15 Dec 2021 08:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <title><![CDATA[(478화 1부) 경축!! 세레타이의 추억 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/830</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/830</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_295/1640582148198UOni7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(477화 2부) 그린 나이트 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -177,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/825</guid>
             <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211213_179/1639374282383O8roX_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(476화 1부) 신촌 메가박스의 비밀 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -185,7 +200,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/826</guid>
             <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211213_227/1639374282879krwH4_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(475화 2부) 재키의 링 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -216,18 +230,20 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(473화 2부) 퍼펙트 케어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/820</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/820</guid>
-            <pubDate>Mon, 22 Nov 2021 08:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <title><![CDATA[[영화 추천] '디즈니' 원작 봤다면 꼭 봐야 할 쿠키 영상 같은 단편 애니메이션 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/132</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/132</guid>
+            <pubDate>Thu, 30 Dec 2021 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211230_110/1640790704273FtsAv_JPEG/bb.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[(473화 1부) 베니스의 철홍 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/819</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/819</guid>
-            <pubDate>Mon, 22 Nov 2021 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <title><![CDATA[[영화 추천] 시간 순삭, 재미와 감동 보장! '디즈니 단편' 애니메이션 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/131</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/131</guid>
+            <pubDate>Thu, 30 Dec 2021 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_267/1640615306264fXlsY_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[100회 특집] '놓치면 후회할 영화'를 기록하는 시간(연말 특집&파티) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -251,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
             <pubDate>Wed, 08 Dec 2021 15:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211208_160/1638972838356ga06P_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] '매트릭스: 리저렉션' 개봉 기념, 키아누 리브스 시리즈 영화 돌아보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -259,7 +274,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/127</guid>
             <pubDate>Mon, 06 Dec 2021 15:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211206_53/1638775664327lK3WO_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스포트라이트] 냉정한 언론인들의 뜨거운 싸움(w. 언론 영화 추천) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -290,18 +304,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[영화 추천] '디즈니 플러스' 오픈 기념! 꼭 봐야 할 드라마 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/122</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/122</guid>
-            <pubDate>Mon, 15 Nov 2021 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[아이 엠 샘] 마음을 울린 '다코타 패닝'의 한 마디, "오직 필요한 건 사랑뿐이에요" (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/121</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/121</guid>
-            <pubDate>Mon, 08 Nov 2021 15:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <title><![CDATA[2021년 베스트 영화 TOP 50 ① '모가디슈' 한국 블록버스터의 힘 (YCU 28화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/304</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/304</guid>
+            <pubDate>Thu, 30 Dec 2021 06:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211225_261/1640417966495VHNDw_JPEG/movie_image-%2814%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가장 따뜻한 색, 블루' 숨멎 베드씬의 향연, 그런데… (YCU 27화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/299</guid>
             <pubDate>Sun, 28 Nov 2021 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211111_175/1636637147876RYrMe_JPEG/ucjFnfZb0p9AKixfOJ5LcVGHmTB-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쌍화점'에 얽힌 고등학교 시절 추억 (YCU 23화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/294</guid>
             <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미니 여배우 이상형 월드컵, 승자는? (YCU 18화 with 삼군) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/293</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/293</guid>
-            <pubDate>Wed, 27 Oct 2021 03:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 08:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(478화 2부) 2021연말결산]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/829</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/829</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_119/1640582146562rCMHs_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(478화 1부) 경축!! 세레타이의 추억]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/830</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/830</guid>
+            <pubDate>Thu, 30 Dec 2021 06:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211227_295/1640582148198UOni7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(477화 2부) 그린 나이트]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/827</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/825</guid>
             <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211213_179/1639374282383O8roX_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(476화 1부) 신촌 메가박스의 비밀]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/826</guid>
             <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211213_227/1639374282879krwH4_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(475화 2부) 재키의 링]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/821</guid>
             <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(473화 2부) 퍼펙트 케어]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/820</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/820</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(473화 1부) 베니스의 철홍]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/819</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/819</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
     </channel>
 </rss>
