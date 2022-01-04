@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(479화 2부) 돈룩업]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/831</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/831</guid>
+            <pubDate>Tue, 04 Jan 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>96분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220104_227/1641287683342cQwSk_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(479화 1부) 결산의 추억]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/832</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/832</guid>
+            <pubDate>Tue, 04 Jan 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220104_296/1641287683853goxSj_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(478화 2부) 2021연말결산]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/829</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/827</guid>
             <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211214_93/163944449071030XB8_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(477화 1부) 나인틴 폐지 카운트다운]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/828</guid>
             <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211214_272/1639444491228qHeb7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(476화 2부) 파워 오브 도그]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/824</guid>
             <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(474화 2부) 지옥]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/822</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/822</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>100분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(474화 1부) 녹는실의 비밀]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/821</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/821</guid>
-            <pubDate>Thu, 02 Dec 2021 17:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
         </item>
     </channel>
 </rss>
