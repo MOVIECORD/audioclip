@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2022.1.5]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2044</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2044</guid>
+            <pubDate>Wed, 05 Jan 2022 08:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220105_229/1641370542049NWREp_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2022.1.4]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2043</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2040</guid>
             <pubDate>Sun, 02 Jan 2022 14:16:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220102_110/1641132893965sqiPV_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2021.12.31]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2035</guid>
             <pubDate>Thu, 30 Dec 2021 06:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 - 2021.12.26]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2034</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2034</guid>
-            <pubDate>Thu, 30 Dec 2021 06:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
