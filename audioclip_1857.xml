@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 시네마 바</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 14:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 15:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년 베스트 영화 TOP 50 ③ '스파이더맨: 노 웨이 홈'이 여기에! (YCU 30화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/306</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/306</guid>
+            <pubDate>Sun, 09 Jan 2022 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20211225_111/1640420088303pSKhI_JPEG/movie_image-%2816%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 베스트 영화 TOP 50 ② '코다'와 '틱, 틱... 붐!', 아카데미 노리는 음악영화 (YCU 29화)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/305</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/301</guid>
             <pubDate>Sun, 12 Dec 2021 15:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211205_165/1638646712825ln90v_JPEG/20211205_043018-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 기자도 '영태기'가 오나요? (YCU 25화 with 키노라이츠 장혜령 기자)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/296</guid>
             <pubDate>Sun, 07 Nov 2021 15:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['링'이 12세 관람가 영화라고요? (YCU 20화 with 서정준 기자 in 공들인 스튜디오)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/295</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/295</guid>
-            <pubDate>Sun, 31 Oct 2021 15:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
