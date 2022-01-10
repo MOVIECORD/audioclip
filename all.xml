@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2022.1.9 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2048</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2048</guid>
+            <pubDate>Mon, 10 Jan 2022 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_161/1641804249283Cwzyw_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.1.8 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2047</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2047</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2044</guid>
             <pubDate>Wed, 05 Jan 2022 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220105_229/1641370542049NWREp_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2022.1.4 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2039</guid>
             <pubDate>Fri, 31 Dec 2021 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 씨네초대석 (권율, 이규만감독) - 2021.12.30 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2037</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2037</guid>
-            <pubDate>Thu, 30 Dec 2021 07:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(480화 2부) 스파이더맨 노웨이홈 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
