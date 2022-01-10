@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 14:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 15:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화 추천] '웨스트 사이드 스토리' 개봉 기념, 눈과 귀를 사로잡는 뮤지컬 영화들]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/134</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/134</guid>
+            <pubDate>Mon, 10 Jan 2022 15:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_28/1641824295260D6kF1_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[원스] 왜 주인공들의 이름은 불려지지 않았을까('존 카니'의 마법)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/133</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/130</guid>
             <pubDate>Mon, 20 Dec 2021 15:09:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211220_296/1639990529827UajAe_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가위손] '그로테스크'의 동화화, '팀 버튼'의 놀라운 마법]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/125</guid>
             <pubDate>Wed, 24 Nov 2021 15:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 늦가을 감성 품은, 음악이 주인공인 영화들]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/124</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/124</guid>
-            <pubDate>Mon, 22 Nov 2021 15:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
     </channel>
 </rss>
