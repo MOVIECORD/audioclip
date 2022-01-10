@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(480화 2부) 스파이더맨 노웨이홈]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/833</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/833</guid>
+            <pubDate>Mon, 10 Jan 2022 06:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_141/1641795258061Wu3WG_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(480화 1부) 방콕의 추억]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/834</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/834</guid>
+            <pubDate>Mon, 10 Jan 2022 06:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_16/16417952594517w66v_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(479화 2부) 돈룩업]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/831</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/829</guid>
             <pubDate>Thu, 30 Dec 2021 06:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211227_119/1640582146562rCMHs_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(478화 1부) 경축!! 세레타이의 추억]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/830</guid>
             <pubDate>Thu, 30 Dec 2021 06:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211227_295/1640582148198UOni7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(477화 2부) 그린 나이트]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/826</guid>
             <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(475화 2부) 재키의 링]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/823</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/823</guid>
-            <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(475화 1부) 최규석 리턴즈]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/824</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/824</guid>
-            <pubDate>Mon, 06 Dec 2021 07:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
         </item>
     </channel>
 </rss>
