@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 04:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,30 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(목) - 우리가 영화롭다면 (강훈) - 2022.1.13 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2050</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2050</guid>
+            <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220113_23/1642049067749LDDDQ_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(수) - 씨네초대석 (김선영, 이무생) - 2022.1.12 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2051</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2051</guid>
+            <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220113_210/1642049068067jh6I6_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 소통데이 - 2022.1.11 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2052</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2052</guid>
+            <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220113_62/1642049068413MuMvV_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 뮤지컬라보 (함연지) - 2022.1.10 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2049</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2049</guid>
@@ -95,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2048</guid>
             <pubDate>Mon, 10 Jan 2022 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220110_161/1641804249283Cwzyw_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.1.8 (오디오클립 ─ 씨네타운)]]></title>
@@ -103,7 +126,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2047</guid>
             <pubDate>Mon, 10 Jan 2022 03:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220110_163/1641784456459MUicq_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 씨네맛 천국 (파란달) - 2022.1.7 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +133,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2046</guid>
             <pubDate>Fri, 07 Jan 2022 12:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220107_108/1641555831770q3W1K_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (김의성, 송새벽) - 2022.1.6 (오디오클립 ─ 씨네타운)]]></title>
@@ -133,27 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2043</guid>
             <pubDate>Tue, 04 Jan 2022 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 뮤지컬라보 (함연지) - 2022.1.3 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2042</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2042</guid>
-            <pubDate>Tue, 04 Jan 2022 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 - 2022.1.2 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2041</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2041</guid>
-            <pubDate>Mon, 03 Jan 2022 04:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 새해특집 좋아하면 들리는 퀴즈 - 2022.1.1 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2040</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2040</guid>
-            <pubDate>Sun, 02 Jan 2022 14:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(480화 2부) 스파이더맨 노웨이홈 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
