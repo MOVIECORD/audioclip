@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 06:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2022.1.17]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2055</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2055</guid>
+            <pubDate>Mon, 17 Jan 2022 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220117_148/1642400048604CBrOc_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2022.1.16]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2056</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2056</guid>
+            <pubDate>Mon, 17 Jan 2022 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220117_64/1642400048970Sny0T_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.1.15]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2054</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2050</guid>
             <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220113_23/1642049067749LDDDQ_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (김선영, 이무생) - 2022.1.12]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2051</guid>
             <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220113_210/1642049068067jh6I6_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 소통데이 - 2022.1.11]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2047</guid>
             <pubDate>Mon, 10 Jan 2022 03:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 씨네맛 천국 (파란달) - 2022.1.7]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2046</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2046</guid>
-            <pubDate>Fri, 07 Jan 2022 12:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 씨네초대석 (김의성, 송새벽) - 2022.1.6]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2045</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2045</guid>
-            <pubDate>Thu, 06 Jan 2022 07:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
         </item>
     </channel>
 </rss>
