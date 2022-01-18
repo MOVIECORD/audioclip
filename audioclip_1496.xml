@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 07:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 08:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(481-2부) 아이즈 와이드 셧]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/835</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/835</guid>
+            <pubDate>Tue, 18 Jan 2022 08:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220118_80/1642493674277MyG7E_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(481-1부) 걸어서 세계속으로 feat.폐인]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/836</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/836</guid>
+            <pubDate>Tue, 18 Jan 2022 08:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220118_5/16424936757392KEIl_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(480화 2부) 스파이더맨 노웨이홈]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/833</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/831</guid>
             <pubDate>Tue, 04 Jan 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>96분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220104_227/1641287683342cQwSk_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(479화 1부) 결산의 추억]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/832</guid>
             <pubDate>Tue, 04 Jan 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220104_296/1641287683853goxSj_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(478화 2부) 2021연말결산]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/828</guid>
             <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(476화 2부) 파워 오브 도그]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/825</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/825</guid>
-            <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(476화 1부) 신촌 메가박스의 비밀]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/826</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/826</guid>
-            <pubDate>Mon, 13 Dec 2021 06:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
         </item>
     </channel>
 </rss>
