@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 11:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 12:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,6 +228,80 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/828</guid>
             <pubDate>Tue, 14 Dec 2021 01:57:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[라이온 킹] 시간이 지나도 색이 바래지 않는 '심바'의 모험(feat. 디즈니 만화동산) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/136</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/136</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220117_75/1642429146918mzM9O_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] 겨울의 온도를 올려줄 '프랑스 멜로' 영화 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/135</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/135</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220112_1/164197305796338b5l_JPEG/bbb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] '웨스트 사이드 스토리' 개봉 기념, 눈과 귀를 사로잡는 뮤지컬 영화들 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/134</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/134</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220110_28/1641824295260D6kF1_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[원스] 왜 주인공들의 이름은 불려지지 않았을까('존 카니'의 마법) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/133</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/133</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220104_280/16412223287494d5Or_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] '디즈니' 원작 봤다면 꼭 봐야 할 쿠키 영상 같은 단편 애니메이션 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/132</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/132</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] 시간 순삭, 재미와 감동 보장! '디즈니 단편' 애니메이션 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/131</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/131</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[100회 특집] '놓치면 후회할 영화'를 기록하는 시간(연말 특집&파티) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/130</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/130</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[가위손] '그로테스크'의 동화화, '팀 버튼'의 놀라운 마법 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/129</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/129</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] '디즈니 플러스'에서 만날 수 있는 '인생 영화' 모아 보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/128</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] '매트릭스: 리저렉션' 개봉 기념, 키아누 리브스 시리즈 영화 돌아보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/127</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/127</guid>
+            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['베네데타' 2021년 가장 성스럽고 충격적인 영화 (YCU 31화) (오디오클립 ─ 시네마 바)]]></title>
