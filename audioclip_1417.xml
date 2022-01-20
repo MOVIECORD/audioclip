@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 뮤지컬라보 (함연지) - 2022.1.20]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2059</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2059</guid>
+            <pubDate>Thu, 20 Jan 2022 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220120_116/1642657435691SXLeU_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (서지석, 백진희) - 2022.1.19]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2057</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2056</guid>
             <pubDate>Mon, 17 Jan 2022 06:22:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220117_64/1642400048970Sny0T_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.1.15]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2052</guid>
             <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 뮤지컬라보 (함연지) - 2022.1.10]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2049</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2049</guid>
-            <pubDate>Mon, 10 Jan 2022 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
     </channel>
 </rss>
