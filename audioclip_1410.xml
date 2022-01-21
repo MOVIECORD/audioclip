@@ -4,11 +4,19 @@
         <title>오디오클립 ─ 김혜리의 필름클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[152회 - 웨스트 사이드 스토리 1부]]></title>
+            <title><![CDATA[152회 2부 - 웨스트 사이드 스토리]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/195</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/195</guid>
+            <pubDate>Fri, 21 Jan 2022 04:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220121_220/1642736645913IrDvB_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[152회 1부 - 웨스트 사이드 스토리]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/194</link>
             <guid>https://audioclip.naver.com/channels/1410/clips/194</guid>
             <pubDate>Wed, 19 Jan 2022 06:20:11 GMT</pubDate>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/191</guid>
             <pubDate>Wed, 22 Dec 2021 03:12:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>124분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211222_229/1640141105001wh4lK_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[148회 2부 파워 오브 도그(The Power of the Dog)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/186</guid>
             <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[146회 1부 - 듄(Dune)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/185</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/185</guid>
-            <pubDate>Tue, 21 Dec 2021 21:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
     </channel>
 </rss>
