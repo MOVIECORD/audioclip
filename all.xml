@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 14:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 15:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.1.22 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2061</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2061</guid>
+            <pubDate>Sun, 23 Jan 2022 15:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220124_277/1642950828669gGvhc_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 초희's의 초이스 (김초희 감독) - 2022.1.21 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2060</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2060</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2058</guid>
             <pubDate>Wed, 19 Jan 2022 06:20:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220119_200/1642571078157fxksA_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2022.1.17 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2050</guid>
             <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 씨네초대석 (김선영, 이무생) - 2022.1.12 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2051</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2051</guid>
-            <pubDate>Thu, 13 Jan 2022 05:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(481-2부) 아이즈 와이드 셧 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['파워 오브 도그' 베네딕트 컴버배치 첫 오스카 받나? (YCU 32화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/308</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/308</guid>
+            <pubDate>Sun, 23 Jan 2022 15:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220115_143/16422396747196zPeH_JPEG/movie_image-%284%29-re.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['베네데타' 2021년 가장 성스럽고 충격적인 영화 (YCU 31화) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/307</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/307</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/304</guid>
             <pubDate>Thu, 30 Dec 2021 06:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211225_261/1640417966495VHNDw_JPEG/movie_image-%2814%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가장 따뜻한 색, 블루' 숨멎 베드씬의 향연, 그런데… (YCU 27화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/298</guid>
             <pubDate>Sun, 21 Nov 2021 15:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['듄'을 추천하듄 (YCU 22화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/297</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/297</guid>
-            <pubDate>Sun, 14 Nov 2021 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
 </rss>
