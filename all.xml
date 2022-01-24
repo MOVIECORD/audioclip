@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 14:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 15:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[영화 추천] 볼 때마다 새롭다? 이별을 마주하는 멜로 영화 모음.Zip (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/137</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/137</guid>
+            <pubDate>Mon, 24 Jan 2022 15:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220124_199/1643034948656ynGbW_JPEG/d.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[라이온 킹] 시간이 지나도 색이 바래지 않는 '심바'의 모험(feat. 디즈니 만화동산) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/136</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/136</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/133</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220104_280/16412223287494d5Or_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] '디즈니' 원작 봤다면 꼭 봐야 할 쿠키 영상 같은 단편 애니메이션 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '매트릭스: 리저렉션' 개봉 기념, 키아누 리브스 시리즈 영화 돌아보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/127</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/127</guid>
-            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['파워 오브 도그' 베네딕트 컴버배치 첫 오스카 받나? (YCU 32화) (오디오클립 ─ 시네마 바)]]></title>
