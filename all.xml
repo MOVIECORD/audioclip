@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 15:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 16:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[영화 추천] 와인 한 잔 생각날 때 보기 좋은 영화 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/138</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/138</guid>
+            <pubDate>Wed, 26 Jan 2022 16:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220127_129/1643211355629gf3jI_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천] 볼 때마다 새롭다? 이별을 마주하는 멜로 영화 모음.Zip (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/137</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/137</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/134</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220110_28/1641824295260D6kF1_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[원스] 왜 주인공들의 이름은 불려지지 않았을까('존 카니'의 마법) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/129</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '디즈니 플러스'에서 만날 수 있는 '인생 영화' 모아 보기 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/128</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/128</guid>
-            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['파워 오브 도그' 베네딕트 컴버배치 첫 오스카 받나? (YCU 32화) (오디오클립 ─ 시네마 바)]]></title>
