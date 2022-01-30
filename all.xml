@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 14:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['드라이브 마이 카' 2021년 최고의 예술 영화, 어땠나? (YCU 33화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/309</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/309</guid>
+            <pubDate>Sun, 30 Jan 2022 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220115_66/1642239798046rIPcn_JPEG/movie_image-%283%29-re.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['파워 오브 도그' 베네딕트 컴버배치 첫 오스카 받나? (YCU 32화) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/308</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/308</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/305</guid>
             <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20211225_112/1640419671302YhdIC_JPEG/movie_image-%2815%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 베스트 영화 TOP 50 ① '모가디슈' 한국 블록버스터의 힘 (YCU 28화) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/299</guid>
             <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['쌍화점'에 얽힌 고등학교 시절 추억 (YCU 23화 with 나니망) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/298</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/298</guid>
-            <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
         </item>
     </channel>
 </rss>
