@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 05:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 06:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(화) - 설 교통특집 함께하는 설, 나누는 기쁨 <코로나 물렀거라, 어흥!> - 2022.2.1 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2071</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2071</guid>
+            <pubDate>Tue, 01 Feb 2022 06:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220201_280/1643694240458cySu2_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 설특집 가족영화 BTS - 2022.1.31 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2070</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2070</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2067</guid>
             <pubDate>Fri, 28 Jan 2022 05:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_174/1643345070380NC4Ap_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (이주승) - 2022.1.27 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2062</guid>
             <pubDate>Mon, 24 Jan 2022 06:23:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.1.22 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2061</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2061</guid>
-            <pubDate>Sun, 23 Jan 2022 15:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(483-4부) 설특선호외 가-족같은영화 특집 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
