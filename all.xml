@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 14:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[지금 우리 학교는] 불패신화 K-좀비물, 넷플릭스가 또? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/140</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/140</guid>
+            <pubDate>Mon, 07 Feb 2022 15:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220207_254/1644239336110CSEfk_JPEG/1.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[라이프 오브 파이] 당신은 어떤 이야기를 선택할 건가요? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/139</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/139</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/136</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220117_75/1642429146918mzM9O_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 겨울의 온도를 올려줄 '프랑스 멜로' 영화 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/131</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[100회 특집] '놓치면 후회할 영화'를 기록하는 시간(연말 특집&파티) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/130</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/130</guid>
-            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['배트맨 포에버' 첫 극장 관람의 추억, 하지만… (YCU 34화) (오디오클립 ─ 시네마 바)]]></title>
