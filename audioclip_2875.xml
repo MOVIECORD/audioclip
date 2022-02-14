@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 14:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비포 선라이즈] '비포 트릴로지'로 돌아본 시간, 그리고 사랑에 관하여]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/141</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/141</guid>
+            <pubDate>Mon, 14 Feb 2022 15:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220214_182/1644849726077GXghp_JPEG/b.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[지금 우리 학교는] 불패신화 K-좀비물, 넷플릭스가 또?]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/140</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/137</guid>
             <pubDate>Mon, 24 Jan 2022 15:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220124_199/1643034948656ynGbW_JPEG/d.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라이온 킹] 시간이 지나도 색이 바래지 않는 '심바'의 모험(feat. 디즈니 만화동산)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/132</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 시간 순삭, 재미와 감동 보장! '디즈니 단편' 애니메이션 추천]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/131</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/131</guid>
-            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
