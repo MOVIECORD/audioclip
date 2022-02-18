@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 초희's의 초이스 (김초희 감독) - 2022.2.18 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2088</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2088</guid>
+            <pubDate>Fri, 18 Feb 2022 06:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220218_140/1645163054296LYjwC_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 우리가 영화롭다면 (윤찬영) - 2022.2.17 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2087</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2087</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2084</guid>
             <pubDate>Mon, 14 Feb 2022 05:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220214_207/1644815700829NXNIv_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.2.13 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2079</guid>
             <pubDate>Wed, 09 Feb 2022 06:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네초대석 (김동완) - 2022.2.8 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2078</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2078</guid>
-            <pubDate>Tue, 08 Feb 2022 05:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(483-4부) 설특선호외 가-족같은영화 특집 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
