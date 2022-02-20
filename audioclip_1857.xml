@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 시네마 바</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 15:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['테넷' 홍보 담당자의 아쉬움 "코로나만 아니었어도" (YCU 36화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/312</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/312</guid>
+            <pubDate>Sun, 20 Feb 2022 15:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220202_6/1643774335675gtQbU_JPEG/movie_image-%283%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['배트맨 2' 인생 최고의 오프닝 장면! (YCU 35화)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/311</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/308</guid>
             <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220115_143/16422396747196zPeH_JPEG/movie_image-%284%29-re.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['베네데타' 2021년 가장 성스럽고 충격적인 영화 (YCU 31화)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/302</guid>
             <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['쇼킹 아시아'를 기억하십니까? (YCU 26화 with 키노라이츠 장혜령 기자)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/301</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/301</guid>
-            <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
     </channel>
 </rss>
