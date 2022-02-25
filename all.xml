@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 07:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 08:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(484화 2부) 프렌치 디스패치 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/843</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/843</guid>
+            <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_46/1645776843756EC62m_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(484화 1부) 오빠가 돌아왔다! (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/844</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/844</guid>
+            <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_53/1645776844016CbBzR_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(483-4부) 설특선호외 가-족같은영화 특집 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/841</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/841</guid>
@@ -177,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/837</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>144분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_115/1643337849314BdvlE_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(483-1부) 최고의 감독 특별출연 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -185,7 +200,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/838</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_54/1643337851384lOgyN_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(482-2부) 하우스 오브 구찌 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -214,20 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/836</guid>
             <pubDate>Tue, 18 Jan 2022 08:23:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(480화 2부) 스파이더맨 노웨이홈 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/833</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/833</guid>
-            <pubDate>Mon, 10 Jan 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(480화 1부) 방콕의 추억 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/834</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/834</guid>
-            <pubDate>Mon, 10 Jan 2022 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[드라마 추천] 구독했으면 봐야지? 지금 핫한 OTT별 드라마 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
