@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['돈 룩 업' 6개월 후 혜성이 지구에 충돌한다면? (YCU 37화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/313</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/313</guid>
+            <pubDate>Sun, 27 Feb 2022 15:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220226_164/1645841234078AY7Sj_JPEG/movie_image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['테넷' 홍보 담당자의 아쉬움 "코로나만 아니었어도" (YCU 36화) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/312</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/312</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/309</guid>
             <pubDate>Sun, 30 Jan 2022 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220115_66/1642239798046rIPcn_JPEG/movie_image-%283%29-re.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['파워 오브 도그' 베네딕트 컴버배치 첫 오스카 받나? (YCU 32화) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/304</guid>
             <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['가장 따뜻한 색, 블루' 숨멎 베드씬의 향연, 그런데… (YCU 27화 with 키노라이츠 장혜령 기자) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/302</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/302</guid>
-            <pubDate>Sun, 30 Jan 2022 02:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
 </rss>
