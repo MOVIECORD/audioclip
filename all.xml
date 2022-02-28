@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 20:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 21:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[포레스트 검프] 주어진 길을 묵묵히 달리면 정말 행복해질까? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/144</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/144</guid>
+            <pubDate>Mon, 28 Feb 2022 21:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220301_213/1646067941613ujo8H_JPEG/110b.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[드라마 추천] 구독했으면 봐야지? 지금 핫한 OTT별 드라마 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/143</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/143</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/140</guid>
             <pubDate>Mon, 07 Feb 2022 15:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220207_254/1644239336110CSEfk_JPEG/1.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[라이프 오브 파이] 당신은 어떤 이야기를 선택할 건가요? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/135</guid>
             <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '웨스트 사이드 스토리' 개봉 기념, 눈과 귀를 사로잡는 뮤지컬 영화들 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/134</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/134</guid>
-            <pubDate>Wed, 19 Jan 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['돈 룩 업' 6개월 후 혜성이 지구에 충돌한다면? (YCU 37화) (오디오클립 ─ 시네마 바)]]></title>
