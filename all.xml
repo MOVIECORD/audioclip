@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 13:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 14:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(화) - 위클리매거진 (박혜은 편집장) - 2022.3.1 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2099</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2099</guid>
+            <pubDate>Tue, 01 Mar 2022 14:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220301_73/1646142266431nafn5_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2022.2.28 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2098</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2098</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2095</guid>
             <pubDate>Fri, 25 Feb 2022 07:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_277/1645773237683j41Ba_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.2.24 (오디오클립 ─ 씨네타운)]]></title>
@@ -146,13 +153,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2090</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2090</guid>
             <pubDate>Sun, 20 Feb 2022 14:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.2.19 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2089</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2089</guid>
-            <pubDate>Sat, 19 Feb 2022 13:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
