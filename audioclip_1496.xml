@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 04:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(485화 2부) 지금 우리 학교는]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/845</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/845</guid>
+            <pubDate>Fri, 04 Mar 2022 05:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220304_92/1646369039751JXGAQ_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(485화 1부) 아니라고~(feat.영없)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/846</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/846</guid>
+            <pubDate>Fri, 04 Mar 2022 05:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220304_259/1646369040610ljeFR_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(484화 2부) 프렌치 디스패치]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/843</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/841</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_239/1643339645084TCFBX_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(483-3부) 스페셜호외 나의촛불]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/842</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_215/164333964603222MgI_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(483-2부) 언포기버블]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/840</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(481-2부) 아이즈 와이드 셧]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/835</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/835</guid>
-            <pubDate>Tue, 18 Jan 2022 08:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(481-1부) 걸어서 세계속으로 feat.폐인]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/836</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/836</guid>
-            <pubDate>Tue, 18 Jan 2022 08:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
     </channel>
 </rss>
