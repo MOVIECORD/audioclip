@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 08:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 09:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,12 +82,28 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2022.3.6 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2103</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2103</guid>
+            <pubDate>Sun, 06 Mar 2022 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220306_252/1646558044670xMzPq_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.3.5 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2102</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2102</guid>
             <pubDate>Sat, 05 Mar 2022 12:27:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220305_13/1646482446411f1PsX_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.3.4 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2104</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2104</guid>
+            <pubDate>Sun, 06 Mar 2022 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220306_285/1646558045127vEatl_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 꼬꼬무TMI뉴스 - 2022.3.3 (오디오클립 ─ 씨네타운)]]></title>
@@ -103,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2100</guid>
             <pubDate>Wed, 02 Mar 2022 07:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220302_133/1646205252761jYgkN_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 위클리매거진 (박혜은 편집장) - 2022.3.1 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +126,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2099</guid>
             <pubDate>Tue, 01 Mar 2022 14:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220301_73/1646142266431nafn5_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2022.2.28 (오디오클립 ─ 씨네타운)]]></title>
@@ -140,20 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2095</guid>
             <pubDate>Fri, 25 Feb 2022 07:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.2.24 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2094</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2094</guid>
-            <pubDate>Thu, 24 Feb 2022 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 퀴즈쇼 - 식스센스 - 2022.2.23 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2093</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2093</guid>
-            <pubDate>Wed, 23 Feb 2022 07:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(485화 2부) 지금 우리 학교는 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
