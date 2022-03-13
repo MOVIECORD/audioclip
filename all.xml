@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 09:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 10:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2022.3.13 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2111</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2111</guid>
+            <pubDate>Sun, 13 Mar 2022 10:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220313_264/1647164641645kwbR0_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.3.12 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2110</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2110</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2107</guid>
             <pubDate>Wed, 09 Mar 2022 12:29:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220309_87/1646828066462eCz1u_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 뮤지컬라보 (함연지) - 2022.3.8 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2104</guid>
             <pubDate>Sun, 06 Mar 2022 09:16:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 꼬꼬무TMI뉴스 - 2022.3.3 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2101</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2101</guid>
-            <pubDate>Thu, 03 Mar 2022 09:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(485화 2부) 지금 우리 학교는 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
