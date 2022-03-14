@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 14:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 15:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>110분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[소울] 나에게 두 번째 삶이 주어진다면? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/146</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/146</guid>
+            <pubDate>Mon, 14 Mar 2022 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220314_269/16472590401307mOP3_JPEG/112a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[소년심판] 판사님, 주말을 훔친 이 드라마는 유죄입니다(feat. 넷플릭스) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/145</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/145</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/142</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220221_263/1645455039611kY9Im_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비포 선라이즈] '비포 트릴로지'로 돌아본 시간, 그리고 사랑에 관하여 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/137</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[라이온 킹] 시간이 지나도 색이 바래지 않는 '심바'의 모험(feat. 디즈니 만화동산) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/136</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/136</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['크루엘라' 영화에서 악인에게 서사를 주면 어때? (YCU 39화) (오디오클립 ─ 시네마 바)]]></title>
