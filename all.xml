@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2022.3.14 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2112</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2112</guid>
+            <pubDate>Mon, 14 Mar 2022 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220314_35/1647240247841LMgbe_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.3.13 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2111</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2111</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2108</guid>
             <pubDate>Thu, 10 Mar 2022 06:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220310_252/1646892857394w9K1v_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 초희's 초이스 (김초희 감독) - 2022.3.9 (오디오클립 ─ 씨네타운)]]></title>
@@ -149,11 +156,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.3.4 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2104</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2104</guid>
-            <pubDate>Sun, 06 Mar 2022 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <title><![CDATA[(486화 1부) 무제 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/847</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/847</guid>
+            <pubDate>Mon, 14 Mar 2022 07:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220314_234/164724025009001jej_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(485화 2부) 지금 우리 학교는 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/844</guid>
             <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_53/1645776844016CbBzR_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(483-4부) 설특선호외 가-족같은영화 특집 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/839</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>110분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(482-1부) 이선균 특별 출연 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/840</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/840</guid>
-            <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[소년심판] 판사님, 주말을 훔친 이 드라마는 유죄입니다(feat. 넷플릭스) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
