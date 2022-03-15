@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(486화 2부) 킹메이커 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/848</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/848</guid>
+            <pubDate>Tue, 15 Mar 2022 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220315_87/1647335639465jErJH_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(486화 1부) 무제 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/847</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/847</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/843</guid>
             <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_46/1645776843756EC62m_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(484화 1부) 오빠가 돌아왔다! (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/838</guid>
             <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(482-2부) 하우스 오브 구찌 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/839</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/839</guid>
-            <pubDate>Fri, 28 Jan 2022 03:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>110분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[소울] 나에게 두 번째 삶이 주어진다면? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
