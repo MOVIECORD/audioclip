@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[그리드] 인류를 구한 영웅, 살인마가 되어 돌아오다(feat. 디즈니플러스)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/147</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/147</guid>
+            <pubDate>Mon, 21 Mar 2022 15:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220321_190/1647849215952NCvg5_JPEG/2b.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소울] 나에게 두 번째 삶이 주어진다면?]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/146</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/143</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220223_215/1645627359251PmxFI_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 지금 꼭 챙겨봐야 할 '디즈니플러스' 신작 영화('프리 가이', '라스트 듀얼', '프렌치 디스패치')]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[[영화 추천] 와인 한 잔 생각날 때 보기 좋은 영화 추천]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/138</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/138</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 볼 때마다 새롭다? 이별을 마주하는 멜로 영화 모음.Zip]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/137</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/137</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
