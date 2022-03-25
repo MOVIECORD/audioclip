@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(488화 2부) 소년심판]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/853</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/853</guid>
+            <pubDate>Fri, 25 Mar 2022 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>148분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220325_38/1648183450966C5p8S_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(488화 1부) 거없이 서대문으로 가는 이유는?]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/852</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/851</guid>
             <pubDate>Fri, 18 Mar 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_263/1647596644755ReHEL_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(486화 2부) 킹메이커]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/843</guid>
             <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(484화 1부) 오빠가 돌아왔다!]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/844</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/844</guid>
-            <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
         </item>
     </channel>
 </rss>
