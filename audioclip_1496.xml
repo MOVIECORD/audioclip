@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호외 - 드라이브마이거없]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/854</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/854</guid>
+            <pubDate>Thu, 31 Mar 2022 05:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220331_233/1648701860864uOsJb_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[호외 - 간만의타이거피어-완창?]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/855</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/855</guid>
+            <pubDate>Thu, 31 Mar 2022 05:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220331_107/1648701862512Gy3nr_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(488화 2부) 소년심판]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/853</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/849</guid>
             <pubDate>Fri, 18 Mar 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_209/1647596641485ziKeF_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(487화 2부) 드라이브 마이 카]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/850</guid>
             <pubDate>Fri, 18 Mar 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>111분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_182/1647596643330rxY8l_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(487화 1부) 당신의 맛집은]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/845</guid>
             <pubDate>Fri, 04 Mar 2022 05:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(485화 1부) 아니라고~(feat.영없)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/846</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/846</guid>
-            <pubDate>Fri, 04 Mar 2022 05:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(484화 2부) 프렌치 디스패치]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/843</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/843</guid>
-            <pubDate>Fri, 25 Feb 2022 08:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
         </item>
     </channel>
 </rss>
