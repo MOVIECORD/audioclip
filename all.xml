@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 13:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 14:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://audioclip.naver.com/channels/1410/clips/196</link>
             <guid>https://audioclip.naver.com/channels/1410/clips/196</guid>
             <pubDate>Thu, 24 Feb 2022 18:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220127_11/1643247859260LLQFo_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://audioclip.naver.com/channels/1410/clips/195</link>
             <guid>https://audioclip.naver.com/channels/1410/clips/195</guid>
             <pubDate>Thu, 24 Feb 2022 18:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[152회 1부 - 웨스트 사이드 스토리 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.4.2 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2131</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2131</guid>
+            <pubDate>Sat, 02 Apr 2022 14:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220402_89/16489088622975TSIa_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.4.1 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2130</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2130</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2127</guid>
             <pubDate>Tue, 29 Mar 2022 07:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220329_284/1648538044611Tpgvd_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2022.3.28 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2122</guid>
             <pubDate>Thu, 24 Mar 2022 07:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 우리가 영화롭다면 (김민규) - 2022.3.23 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2121</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2121</guid>
-            <pubDate>Wed, 23 Mar 2022 07:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[호외 - 드라이브마이거없 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
