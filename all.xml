@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 14:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['나이트메어 앨리'X'인민을 위해 복무하라' 비교체험 극과극 (YCU 42화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/318</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/318</guid>
+            <pubDate>Sun, 03 Apr 2022 15:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220317_103/1647450398502AVnH9_JPEG/movie_image-%2812%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['리코리쉬 피자' 거장, 폴 토마스 앤더슨 감독의 청춘 로맨스 (YCU 41화) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/317</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/317</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/314</guid>
             <pubDate>Sun, 06 Mar 2022 15:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220226_99/16458419586784bRGh_JPEG/movie_image-%282%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['돈 룩 업' 6개월 후 혜성이 지구에 충돌한다면? (YCU 37화) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/309</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['파워 오브 도그' 베네딕트 컴버배치 첫 오스카 받나? (YCU 32화) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/308</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/308</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
         </item>
     </channel>
 </rss>
