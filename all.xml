@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 13:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 14:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://audioclip.naver.com/channels/1410/clips/199</link>
             <guid>https://audioclip.naver.com/channels/1410/clips/199</guid>
             <pubDate>Thu, 31 Mar 2022 01:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>103분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>104분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220331_135/1648689251718BXhdI_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://audioclip.naver.com/channels/1410/clips/196</link>
             <guid>https://audioclip.naver.com/channels/1410/clips/196</guid>
             <pubDate>Thu, 24 Feb 2022 18:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220127_11/1643247859260LLQFo_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -168,7 +168,7 @@
             <link>https://audioclip.naver.com/channels/1496/clips/855</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/855</guid>
             <pubDate>Thu, 31 Mar 2022 05:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220331_107/1648701862512Gy3nr_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -176,7 +176,7 @@
             <link>https://audioclip.naver.com/channels/1496/clips/853</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/853</guid>
             <pubDate>Fri, 25 Mar 2022 05:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>147분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>148분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220325_38/1648183450966C5p8S_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
