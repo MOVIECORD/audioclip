@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 01:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,12 +230,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[OTT 추천] 이번 달 구독 각, 최고의 가성비 '디즈니플러스' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <title><![CDATA[[문나이트] 새로운 마블 히어로? 이번 달 '디즈니플러스'를 구독해야만 하는 이유('문나이트', '타미 페이의 눈') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/149</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/149</guid>
             <pubDate>Mon, 04 Apr 2022 15:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_125/1649067800426vnpFo_JPEG/%BD%E6%B3%D7%C0%CFb.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <enclosure url="https://audio-phinf.pstatic.net/20220406_23/1649205111847kU1Ls_JPEG/%B9%AE%B3%AA%C0%CC%C6%AE-%BD%E6%B3%D7%C0%CF.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[우린폭망했다] 현직 '스타트업' 대표가 본 '위워크' 창업자 폭망 스토리 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
