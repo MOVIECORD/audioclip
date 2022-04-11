@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 씨네초대석 (윤찬영) - 2022.4.11 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2140</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2140</guid>
+            <pubDate>Mon, 11 Apr 2022 06:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220411_216/1649657649295uRWhB_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.4.10 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2139</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2139</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2136</guid>
             <pubDate>Thu, 07 Apr 2022 07:18:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220407_135/1649313846338W42OP_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (김영옥) - 2022.4.6 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2131</guid>
             <pubDate>Sat, 02 Apr 2022 14:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.4.1 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2130</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2130</guid>
-            <pubDate>Fri, 01 Apr 2022 06:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(489화 2부) 아카데미 시상식 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -230,7 +230,7 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[돼지의 왕/파친코] 연상호 감독이 독한 세계 V 한국 역사 속 이민자의 억척스러운 삶 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <title><![CDATA[[돼지의 왕/파친코] 연상호 감독의 독한 세계 V 한국 역사 속 이민자의 억척스러운 삶 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/150</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/150</guid>
             <pubDate>Wed, 06 Apr 2022 16:26:27 GMT</pubDate>
