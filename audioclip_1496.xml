@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(490화 2부) 동사서독]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/858</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/858</guid>
+            <pubDate>Tue, 12 Apr 2022 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220412_124/1649745836131F7qQ4_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(490화 1부) 사연 좀 보내주세요]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/859</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/859</guid>
+            <pubDate>Tue, 12 Apr 2022 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220412_117/1649745837422Rqm5U_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(489화 2부) 아카데미 시상식]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/856</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/854</guid>
             <pubDate>Thu, 31 Mar 2022 05:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220331_233/1648701860864uOsJb_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[호외 - 간만의타이거피어-완창?]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/855</guid>
             <pubDate>Thu, 31 Mar 2022 05:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220331_107/1648701862512Gy3nr_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(488화 2부) 소년심판]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/850</guid>
             <pubDate>Fri, 18 Mar 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>111분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(487화 1부) 당신의 맛집은]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/851</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/851</guid>
-            <pubDate>Fri, 18 Mar 2022 10:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(486화 2부) 킹메이커]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/848</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/848</guid>
-            <pubDate>Tue, 15 Mar 2022 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
         </item>
     </channel>
 </rss>
