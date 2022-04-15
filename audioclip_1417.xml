@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 씨네맘(心)카페 (박솔미) - 2022.4.15]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2144</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2144</guid>
+            <pubDate>Fri, 15 Apr 2022 06:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220415_7/1650001439952EG17h_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.4.14]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2143</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2140</guid>
             <pubDate>Mon, 11 Apr 2022 06:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220411_216/1649657649295uRWhB_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.4.10]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2135</guid>
             <pubDate>Wed, 06 Apr 2022 07:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네초대석 (손호준, 권수경 감독) - 2022.4.5]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2134</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2134</guid>
-            <pubDate>Tue, 05 Apr 2022 07:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
         </item>
     </channel>
 </rss>
