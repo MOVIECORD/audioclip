@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(수) - 뮤지컬라보 (함연지) - 2022.4.20]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2149</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2149</guid>
+            <pubDate>Wed, 20 Apr 2022 06:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220420_177/1650433451510euuuW_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(화) - 씨네초대석 (김민하) - 2022.4.19]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2148</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2145</guid>
             <pubDate>Sat, 16 Apr 2022 13:25:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220416_206/1650114848236xPTW5_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 씨네맘(心)카페 (박솔미) - 2022.4.15]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2140</guid>
             <pubDate>Mon, 11 Apr 2022 06:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 - 2022.4.10]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2139</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2139</guid>
-            <pubDate>Sun, 10 Apr 2022 14:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
     </channel>
 </rss>
