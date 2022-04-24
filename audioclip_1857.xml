@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 시네마 바</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 3부 (YCU 45화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/321</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/321</guid>
+            <pubDate>Sun, 24 Apr 2022 15:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_7/1649522807830LOcVn_JPEG/movie_image-%284%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 2부 (YCU 44화)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/320</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/317</guid>
             <pubDate>Sun, 27 Mar 2022 15:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220317_125/1647450172426NeBh8_JPEG/movie_image-%2811%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['시라노' 준비했는데, 아카데미 작품상 후보 이야기만 했어요 (YCU 40화)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/312</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['배트맨 2' 인생 최고의 오프닝 장면! (YCU 35화)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/311</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/311</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
         </item>
     </channel>
 </rss>
