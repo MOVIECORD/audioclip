@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 15:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[노트북] 우리는 이런 사랑을 할 수 있을까? '영화' 같은 로맨스의 교과서! (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/154</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/154</guid>
+            <pubDate>Mon, 25 Apr 2022 15:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220425_151/1650896684113muRbg_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천] 봄의 감성을 닮은 다양한 장르의 영화들 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/153</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/153</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/150</guid>
             <pubDate>Wed, 06 Apr 2022 16:26:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220407_134/1649258633965tiYDO_JPEG/2b.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[문나이트] 새로운 마블 히어로? 이번 달 '디즈니플러스'를 구독해야만 하는 이유('문나이트', '타미 페이의 눈') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/145</guid>
             <pubDate>Mon, 07 Mar 2022 15:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포레스트 검프] 주어진 길을 묵묵히 달리면 정말 행복해질까? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/144</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/144</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 3부 (YCU 45화) (오디오클립 ─ 시네마 바)]]></title>
