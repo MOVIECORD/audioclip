@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1410</id>
-    <title>오디오클립 ─ 김혜리의 필름클럽</title>
-    <updated>2022-04-29T07:19:34.918Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 김혜리의 필름클럽</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 29 Apr 2022 08:26:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[158회 - 메이의 새빨간 비밀 (Turning Red)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/201</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/201</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>101분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220422_170/1650588265891q6oRl_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[157회 - 축제의 여름 (Summer Of Soul)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/200</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/200</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220415_150/1650010503202QB7SQ_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[156회 - 94회 아카데미 시상식 (오스카) 특집]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/199</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/199</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>103분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220331_135/1648689251718BXhdI_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[155회 - 스펜서(Spencer)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/198</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/198</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>121분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220318_16/1647566059650MhWNb_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[154회 - 미싱타는 여자들, 임신한 나무와 도깨비]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/197</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/197</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[153회 - 특송]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/196</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/196</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[152회 2부 - 웨스트 사이드 스토리]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/195</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/195</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[152회 1부 - 웨스트 사이드 스토리]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/194</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/194</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>71분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[151회 - 언프레임드 with 최희서 감독 겸 배우]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/193</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/193</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>127분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[150회 - 5주년 특집 "클러버가 뽑은 베스트 에피소드"]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/192</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/192</guid>
+            <pubDate>Fri, 29 Apr 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
