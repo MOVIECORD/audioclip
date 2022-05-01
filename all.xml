@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/322</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/322</guid>
+            <pubDate>Sun, 01 May 2022 15:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_89/1649522936861ugsGU_JPEG/movie_image-%285%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 3부 (YCU 45화) (오디오클립 ─ 시네마 바)]]></title>
             <link>https://audioclip.naver.com/channels/1857/clips/321</link>
             <guid>https://audioclip.naver.com/channels/1857/clips/321</guid>
@@ -333,7 +341,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/318</guid>
             <pubDate>Sun, 03 Apr 2022 15:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220317_103/1647450398502AVnH9_JPEG/movie_image-%2812%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['리코리쉬 피자' 거장, 폴 토마스 앤더슨 감독의 청춘 로맨스 (YCU 41화) (오디오클립 ─ 시네마 바)]]></title>
@@ -369,13 +376,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/313</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['테넷' 홍보 담당자의 아쉬움 "코로나만 아니었어도" (YCU 36화) (오디오클립 ─ 시네마 바)]]></title>
-            <link>https://audioclip.naver.com/channels/1857/clips/312</link>
-            <guid>https://audioclip.naver.com/channels/1857/clips/312</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
     </channel>
 </rss>
