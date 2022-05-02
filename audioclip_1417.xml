@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2022.5.2]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2161</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2161</guid>
+            <pubDate>Mon, 02 May 2022 07:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220502_55/1651473866950W8q29_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.5.1]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2160</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2157</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220428_283/1651128277133mX2wj_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2022.4.27]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2152</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.4.22]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2151</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2151</guid>
-            <pubDate>Fri, 29 Apr 2022 08:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
     </channel>
 </rss>
