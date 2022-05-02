@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 20:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 21:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기묘한 이야기] 이번 달 '넷플릭스'를 구독해야만 하는 이유(기묘한 이야기, 클라르크, 안나라수마나라)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/155</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/155</guid>
+            <pubDate>Mon, 02 May 2022 21:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220503_217/1651507867610NN0Pr_PNG/a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[노트북] 우리는 이런 사랑을 할 수 있을까? '영화' 같은 로맨스의 교과서!]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/154</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/151</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220413_143/1649832775592ssVGK_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돼지의 왕/파친코] 연상호 감독의 독한 세계 V 한국 역사 속 이민자의 억척스러운 삶]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/146</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[소년심판] 판사님, 주말을 훔친 이 드라마는 유죄입니다(feat. 넷플릭스)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/145</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/145</guid>
-            <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
         </item>
     </channel>
 </rss>
