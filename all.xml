@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 07:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(수) - 초희's 초이스 (김초희 감독) - 2022.5.4 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2163</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2163</guid>
+            <pubDate>Wed, 04 May 2022 07:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220504_223/1651646662549gOhPT_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(화) - 뮤지컬라보 (함연지) - 2022.5.3 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2162</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2162</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2159</guid>
             <pubDate>Sat, 30 Apr 2022 14:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220430_225/1651326254634Gtjw5_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.4.29 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2154</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 - 2022.4.24 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2153</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2153</guid>
-            <pubDate>Fri, 29 Apr 2022 08:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(493화) 더 배트맨 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
