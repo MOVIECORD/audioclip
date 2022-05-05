@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[영화 추천] 이게 벌써? '디즈니플러스'에서 볼 수 있는 핫한 신작(킹스맨, 웨스트사이드 스토리, 나이트메어 앨리) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/156</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/156</guid>
+            <pubDate>Thu, 05 May 2022 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220505_182/1651753619133o7dN2_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기묘한 이야기] 이번 달 '넷플릭스'를 구독해야만 하는 이유(기묘한 이야기, 클라르크, 안나라수마나라) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/155</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/155</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/152</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220418_30/16502921049046BNF3_JPEG/3b.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위대한 쇼맨] 바넘이 말한 '예술'은 도대체 뭐야? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/147</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[소울] 나에게 두 번째 삶이 주어진다면? (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/146</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/146</guid>
-            <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
