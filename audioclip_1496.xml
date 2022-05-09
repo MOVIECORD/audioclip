@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://audioclip.naver.com/channels/1496/clips/860</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/860</guid>
             <pubDate>Mon, 18 Apr 2022 03:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(491화 1부) 긴급설문 '만약 당신이...']]></title>
@@ -58,7 +58,7 @@
             <link>https://audioclip.naver.com/channels/1496/clips/858</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/858</guid>
             <pubDate>Tue, 12 Apr 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(490화 1부) 사연 좀 보내주세요]]></title>
@@ -72,14 +72,14 @@
             <link>https://audioclip.naver.com/channels/1496/clips/856</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/856</guid>
             <pubDate>Fri, 08 Apr 2022 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(489화 1부) 다시 완전체]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/857</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/857</guid>
             <pubDate>Fri, 08 Apr 2022 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
