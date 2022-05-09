@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(494화 1부) 오빠가 꿈에 나왔어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/865</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/865</guid>
+            <pubDate>Mon, 09 May 2022 04:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_122/1652070753235JTaRd_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(493화) 더 배트맨 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/864</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/864</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/860</guid>
             <pubDate>Mon, 18 Apr 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220418_120/1650248037044cg1Gv_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(491화 1부) 긴급설문 '만약 당신이...' (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/857</guid>
             <pubDate>Fri, 08 Apr 2022 07:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[호외 - 드라이브마이거없 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/854</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/854</guid>
-            <pubDate>Thu, 31 Mar 2022 05:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 이게 벌써? '디즈니플러스'에서 볼 수 있는 핫한 신작(킹스맨, 웨스트사이드 스토리, 나이트메어 앨리) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
