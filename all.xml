@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>127분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 소통데이 - 2022.5.9 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2168</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2168</guid>
+            <pubDate>Mon, 09 May 2022 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_197/1652078652396bnG9v_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.5.8 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2167</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2167</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2164</guid>
             <pubDate>Thu, 05 May 2022 22:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220506_100/1651788868395mzlv2_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 초희's 초이스 (김초희 감독) - 2022.5.4 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2159</guid>
             <pubDate>Sat, 30 Apr 2022 14:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.4.29 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2158</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2158</guid>
-            <pubDate>Fri, 29 Apr 2022 08:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(494화 1부) 오빠가 꿈에 나왔어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
