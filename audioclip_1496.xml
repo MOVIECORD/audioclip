@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인틴 블랙 1화 라스트 듀얼 WITH 썬킴]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/868</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/868</guid>
+            <pubDate>Tue, 24 May 2022 02:50:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220520_199/1653023670019FjLs1_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(495화) 김과장과 서주임]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/867</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/867</guid>
+            <pubDate>Tue, 24 May 2022 02:50:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220517_180/1652755453413cawAH_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(494화 2부) 영화 없는 영화 팟캐]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/866</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/864</guid>
             <pubDate>Mon, 02 May 2022 09:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220502_226/1651481061065P0yt1_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(492화 2부) 나이트메어 앨리]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/863</guid>
             <pubDate>Mon, 25 Apr 2022 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220425_76/1650878043229s5ivo_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(492화 1부) 탕웨이의 비밀?]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/858</guid>
             <pubDate>Tue, 12 Apr 2022 07:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(490화 1부) 사연 좀 보내주세요]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/859</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/859</guid>
-            <pubDate>Tue, 12 Apr 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(489화 2부) 아카데미 시상식]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/856</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/856</guid>
-            <pubDate>Fri, 08 Apr 2022 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
     </channel>
 </rss>
