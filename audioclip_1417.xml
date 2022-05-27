@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 06:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.5.27]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2186</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2186</guid>
+            <pubDate>Fri, 27 May 2022 07:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220527_131/1653635656366WpAD2_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (이정은) - 2022.5.26]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2185</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2182</guid>
             <pubDate>Tue, 24 May 2022 02:49:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220523_180/1653288263882oEuWE_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.5.22]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2177</guid>
             <pubDate>Tue, 24 May 2022 02:49:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2022.5.17]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2176</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2176</guid>
-            <pubDate>Tue, 24 May 2022 02:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
