@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 22:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 23:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스 신작] 이번 달 '넷플릭스'를 구독해야만 하는 이유(인터셉터, 허슬, 스파이더헤드) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/163</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/163</guid>
+            <pubDate>Mon, 30 May 2022 23:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220531_166/1653951055616P44E0_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오마주] 현장에서 감독으로 불렸던 '이정은'?, 필름에 새긴 여성 영화인의 꿈 '오마주'(w.'신수원' 감독) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/162</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/162</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/159</guid>
             <pubDate>Tue, 24 May 2022 02:50:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220518_165/1652855138595fbLlh_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 여름의 청량함을 잔뜩 느낄 수 있는 음악 영화(코다, 싱 스트리트, 맘마미아) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/154</guid>
             <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 봄의 감성을 닮은 다양한 장르의 영화들 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/153</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/153</guid>
-            <pubDate>Fri, 29 Apr 2022 08:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
