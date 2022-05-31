@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 06:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 07:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(화) - 씨네초대석 (서현진) - 2022.5.31]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2190</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2190</guid>
+            <pubDate>Tue, 31 May 2022 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220531_123/1653979475836Pb7Y6_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(월) - 소통데이 - 2022.5.30]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2189</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2186</guid>
             <pubDate>Fri, 27 May 2022 07:19:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220527_131/1653635656366WpAD2_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (이정은) - 2022.5.26]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2181</guid>
             <pubDate>Tue, 24 May 2022 02:49:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.5.21]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2180</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2180</guid>
-            <pubDate>Tue, 24 May 2022 02:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
