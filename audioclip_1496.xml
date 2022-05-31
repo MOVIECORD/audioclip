@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인틴 블랙 2화 김씨표류기 WITH 김성규]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/869</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/869</guid>
+            <pubDate>Tue, 31 May 2022 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220531_67/16539848464940qRtm_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[나인틴 블랙 1화 라스트 듀얼 WITH 썬킴]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/868</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/865</guid>
             <pubDate>Mon, 09 May 2022 04:33:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220509_122/1652070753235JTaRd_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(493화) 더 배트맨]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/861</guid>
             <pubDate>Mon, 18 Apr 2022 03:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(490화 2부) 동사서독]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/858</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/858</guid>
-            <pubDate>Tue, 12 Apr 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
         </item>
     </channel>
 </rss>
