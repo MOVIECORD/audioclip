@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 06:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 07:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.6.3]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2193</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2193</guid>
+            <pubDate>Fri, 03 Jun 2022 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220603_145/1654238651262mQFMT_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 퀴즈쇼 - 식스센스 - 2022.6.2]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2192</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2189</guid>
             <pubDate>Mon, 30 May 2022 07:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220530_39/1653894833530g75AK_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.5.29]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2184</guid>
             <pubDate>Wed, 25 May 2022 07:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네초대석 (윤계상) - 2022.5.24]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2183</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2183</guid>
-            <pubDate>Tue, 24 May 2022 07:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
