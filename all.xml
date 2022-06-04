@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 12:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 13:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.6.4 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2194</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2194</guid>
+            <pubDate>Sat, 04 Jun 2022 13:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220604_92/16543484604158EVxh_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.6.3 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2193</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2193</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2190</guid>
             <pubDate>Tue, 31 May 2022 07:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220531_123/1653979475836Pb7Y6_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 소통데이 - 2022.5.30 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2185</guid>
             <pubDate>Thu, 26 May 2022 07:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2022.5.25 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2184</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2184</guid>
-            <pubDate>Wed, 25 May 2022 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 2화 김씨표류기 WITH 김성규 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
