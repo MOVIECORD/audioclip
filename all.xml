@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 20:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 21:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이터널 선샤인] 기억이 지워져도 그 사람을 잊을 수 없는 이유 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/165</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/165</guid>
+            <pubDate>Mon, 06 Jun 2022 21:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220607_61/1654540693716xdVdI_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[SF 영화] A.I와 복제인간을 새롭게 바라본 영화 추천(블레이드 러너, 엑스 마키나, 알리타) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/164</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/164</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/161</guid>
             <pubDate>Tue, 24 May 2022 02:50:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220524_189/165332481639689mkC_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[범죄도시2] 1편보다 더 재밌다? 진실의 방으로!(잠시 쉬었다 가는 '영화잡썰') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/156</guid>
             <pubDate>Thu, 05 May 2022 15:20:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[기묘한 이야기] 이번 달 '넷플릭스'를 구독해야만 하는 이유(기묘한 이야기, 클라르크, 안나라수마나라) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/155</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/155</guid>
-            <pubDate>Mon, 02 May 2022 21:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
