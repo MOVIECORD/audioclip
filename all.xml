@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 소통데이 - 2022.6.13 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2203</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2203</guid>
+            <pubDate>Mon, 13 Jun 2022 07:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220613_157/1655102642918Adr2o_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.6.12 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2202</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2202</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2199</guid>
             <pubDate>Thu, 09 Jun 2022 07:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220609_37/1654758838605TxIJR_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 꼬꼬무 TMI뉴스 - 2022.6.8 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2194</guid>
             <pubDate>Sat, 04 Jun 2022 13:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.6.3 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2193</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2193</guid>
-            <pubDate>Fri, 03 Jun 2022 07:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 2화 김씨표류기 WITH 김성규 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
