@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.6.17]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2207</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2207</guid>
+            <pubDate>Fri, 17 Jun 2022 07:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220617_120/1655450126526lkWNp_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (온주완) - 2022.6.16]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2206</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2203</guid>
             <pubDate>Mon, 13 Jun 2022 07:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220613_157/1655102642918Adr2o_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.6.12]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2198</guid>
             <pubDate>Wed, 08 Jun 2022 07:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네초대석 (이주영) - 2022.6.7]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2197</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2197</guid>
-            <pubDate>Tue, 07 Jun 2022 07:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
         </item>
     </channel>
 </rss>
