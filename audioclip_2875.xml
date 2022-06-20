@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 14:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 15:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브로커] '고레에다 히로카즈'는 왜 한국에서 이 영화를 만들었을까?(w.허남웅 평론가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/168</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/168</guid>
+            <pubDate>Mon, 20 Jun 2022 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220620_206/1655737021840AXA3N_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[고레에다 히로카즈] '브로커' 개봉 기념, 다시 챙겨보면 좋을 '고레에다 히로카즈' 영화 추천]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/167</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/164</guid>
             <pubDate>Wed, 01 Jun 2022 15:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220602_114/1654095745155WeNwL_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스 신작] 이번 달 '넷플릭스'를 구독해야만 하는 이유(인터셉터, 허슬, 스파이더헤드)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/159</guid>
             <pubDate>Tue, 24 May 2022 02:50:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 여름의 청량함을 잔뜩 느낄 수 있는 음악 영화(코다, 싱 스트리트, 맘마미아)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/158</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/158</guid>
-            <pubDate>Tue, 24 May 2022 02:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>
