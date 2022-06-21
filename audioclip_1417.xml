@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 06:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(화) - 소통데이 - 2022.6.21]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2211</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2211</guid>
+            <pubDate>Tue, 21 Jun 2022 06:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220621_97/1655792084174J2f68_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2022.6.20]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2210</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2207</guid>
             <pubDate>Fri, 17 Jun 2022 07:18:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220617_120/1655450126526lkWNp_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (온주완) - 2022.6.16]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2202</guid>
             <pubDate>Sun, 12 Jun 2022 11:15:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.6.11]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2201</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2201</guid>
-            <pubDate>Sat, 11 Jun 2022 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
     </channel>
 </rss>
