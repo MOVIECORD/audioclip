@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1496</id>
-    <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
-    <updated>2022-06-21T13:50:26.136Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Jun 2022 14:18:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(496화 2부) 나의 해방일지 2]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/870</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/870</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220614_203/1655181854899ccRom_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(496화 1부) 나의 해방일지]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/871</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/871</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220614_222/1655181855493JNVFo_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나인틴 블랙 2화 김씨표류기 WITH 김성규]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/869</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/869</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220531_67/16539848464940qRtm_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나인틴 블랙 1화 라스트 듀얼 WITH 썬킴]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/868</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/868</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220520_199/1653023670019FjLs1_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(495화) 김과장과 서주임]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/867</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/867</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(494화 2부) 영화 없는 영화 팟캐]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/866</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/866</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(494화 1부) 오빠가 꿈에 나왔어]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/865</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/865</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(493화) 더 배트맨]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/864</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/864</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(492화 2부) 나이트메어 앨리]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/863</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/863</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(492화 1부) 탕웨이의 비밀?]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/862</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/862</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

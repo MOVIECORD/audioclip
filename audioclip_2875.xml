@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/2875</id>
-    <title>오디오클립 ─ 놓치면 후회할 영화</title>
-    <updated>2022-06-21T13:50:26.092Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 놓치면 후회할 영화</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Jun 2022 14:18:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브로커] '고레에다 히로카즈'는 왜 한국에서 이 영화를 만들었을까?(w.허남웅 평론가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/168</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/168</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220620_206/1655737021840AXA3N_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[고레에다 히로카즈] '브로커' 개봉 기념, 다시 챙겨보면 좋을 '고레에다 히로카즈' 영화 추천]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/167</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/167</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220615_280/1655266604903LnJqL_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] 씨네필들에겐 소문난 제작사, 'A24'의 명작 영화]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/166</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/166</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220613_67/1655077335009Lph0H_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이터널 선샤인] 기억이 지워져도 그 사람을 잊을 수 없는 이유]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/165</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/165</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220607_61/1654540693716xdVdI_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SF 영화] A.I와 복제인간을 새롭게 바라본 영화 추천(블레이드 러너, 엑스 마키나, 알리타)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/164</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/164</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스 신작] 이번 달 '넷플릭스'를 구독해야만 하는 이유(인터셉터, 허슬, 스파이더헤드)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/163</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/163</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[오마주] 현장에서 감독으로 불렸던 '이정은'?, 필름에 새긴 여성 영화인의 꿈 '오마주'(w.'신수원' 감독)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/162</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/162</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[업] 가정의 달, 온 가족이 모여 꿈을 그려볼 수 있는 명작 애니메이션]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/161</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/161</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[범죄도시2] 1편보다 더 재밌다? 진실의 방으로!(잠시 쉬었다 가는 '영화잡썰')]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/160</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/160</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[영화 추천] '닥터 스트레인지', 베네딕트 컴버배치가 출연한 실화 영화]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/159</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/159</guid>
+            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
