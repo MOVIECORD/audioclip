@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 01:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 03:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,30 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(497화 3부) 브로커 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/872</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/872</guid>
+            <pubDate>Wed, 22 Jun 2022 03:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>102분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_249/1655864055769z5Rhc_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(497화 2부) 당근의 비밀 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/873</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/873</guid>
+            <pubDate>Wed, 22 Jun 2022 03:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_86/1655864056295xAhe7_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(497화 1부) 나인틴가족여러분감사합니다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/874</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/874</guid>
+            <pubDate>Wed, 22 Jun 2022 03:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_263/1655864056878onSkr_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(496화 2부) 나의 해방일지 2 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/870</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/870</guid>
@@ -169,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/871</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220614_222/1655181855493JNVFo_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 2화 김씨표류기 WITH 김성규 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -177,7 +200,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/869</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220531_67/16539848464940qRtm_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 1화 라스트 듀얼 WITH 썬킴 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -185,7 +207,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/868</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220520_199/1653023670019FjLs1_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(495화) 김과장과 서주임 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -207,27 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/865</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(493화) 더 배트맨 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/864</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/864</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(492화 2부) 나이트메어 앨리 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/863</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/863</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(492화 1부) 탕웨이의 비밀? (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/862</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/862</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[브로커] '고레에다 히로카즈'는 왜 한국에서 이 영화를 만들었을까?(w.허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
