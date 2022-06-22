@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 16:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 우리가 '탑건: 매버릭'을 꼭 봐야 하는 이유(ft.허남웅 평론가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/169</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/169</guid>
+            <pubDate>Wed, 22 Jun 2022 16:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_207/1655909744530NFBEX_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 고레에다 히로카즈는 왜 한국에서 '브로커'를 만들었을까?(ft.허남웅 평론가)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/168</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/165</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220607_61/1654540693716xdVdI_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SF 영화] A.I와 복제인간을 새롭게 바라본 영화 추천(블레이드 러너, 엑스 마키나, 알리타)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/160</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] '닥터 스트레인지', 베네딕트 컴버배치가 출연한 실화 영화]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/159</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/159</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
