@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 20:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 21:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[세 얼간이] '꿈'과 '성공' 사이에서 고민해본 적 있는 모든 청춘에게... (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/170</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/170</guid>
+            <pubDate>Mon, 27 Jun 2022 21:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220628_165/1656349309194sj9TA_JPEG/130c.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 우리가 '탑건: 매버릭'을 꼭 봐야 하는 이유(ft.허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/169</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/169</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/166</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220613_67/1655077335009Lph0H_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이터널 선샤인] 기억이 지워져도 그 사람을 잊을 수 없는 이유 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/161</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[범죄도시2] 1편보다 더 재밌다? 진실의 방으로!(잠시 쉬었다 가는 '영화잡썰') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/160</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/160</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
