@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 20:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 21:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화잡썰] '스타트업' 대표가 말하는 최악의 스타트업 대표가 나온 드라마]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/171</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/171</guid>
+            <pubDate>Thu, 30 Jun 2022 21:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220701_27/1656606451086NwGn9_JPEG/131a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[세 얼간이] '꿈'과 '성공' 사이에서 고민해본 적 있는 모든 청춘에게...]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/170</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/167</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220615_280/1655266604903LnJqL_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 씨네필들에겐 소문난 제작사, 'A24'의 명작 영화]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/162</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[업] 가정의 달, 온 가족이 모여 꿈을 그려볼 수 있는 명작 애니메이션]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/161</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/161</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
         </item>
     </channel>
 </rss>
