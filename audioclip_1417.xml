@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 씨네초대석 (서영희) - 2022.7.1]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2221</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2221</guid>
+            <pubDate>Fri, 01 Jul 2022 08:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220701_241/1656657831607Cwltr_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 뮤지컬라보 (박준면) - 2022.6.30]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2220</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2217</guid>
             <pubDate>Mon, 27 Jun 2022 07:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220627_208/1656312260060g3kw5_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.6.26]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2212</guid>
             <pubDate>Wed, 22 Jun 2022 07:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 소통데이 - 2022.6.21]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2211</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2211</guid>
-            <pubDate>Tue, 21 Jun 2022 06:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
     </channel>
 </rss>
