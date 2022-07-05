@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 01:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(499화 2부) 마녀2 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/880</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/880</guid>
+            <pubDate>Tue, 05 Jul 2022 01:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220705_154/1656985490587RAj56_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(499화 1부) 거없네 집에는 뭐가 있을까 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/879</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/879</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/875</guid>
             <pubDate>Thu, 23 Jun 2022 01:44:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220623_225/1655946882433VT2al_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 3화 1부 오르막길 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/870</guid>
             <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(496화 1부) 나의 해방일지 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/871</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/871</guid>
-            <pubDate>Tue, 21 Jun 2022 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[키스 식스 센스] 이번 달 '디즈니플러스'를 구독해야만 하는 이유 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
