@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 10:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 11:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이상한 변호사 우영우] 최근 신작 이야기 및 '놓후영' 댓글 읽기]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/175</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/175</guid>
+            <pubDate>Sun, 10 Jul 2022 11:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220710_288/1657450056583lghNP_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[잔고: 분노의 적자] '백승기' 감독의 한국판 서부극 도전기(부천국제영화제 특집)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/174</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/171</guid>
             <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220701_27/1656606451086NwGn9_JPEG/131a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세 얼간이] '꿈'과 '성공' 사이에서 고민해본 적 있는 모든 청춘에게...]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/166</guid>
             <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이터널 선샤인] 기억이 지워져도 그 사람을 잊을 수 없는 이유]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/165</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/165</guid>
-            <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
     </channel>
 </rss>
