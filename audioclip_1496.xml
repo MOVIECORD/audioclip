@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 01:59:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(500화 2부) 아재들의 오페라]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/882</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/882</guid>
+            <pubDate>Tue, 12 Jul 2022 01:58:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220712_149/1657586642396BEGmv_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(500화 1부) 퍼즐]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/881</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/877</guid>
             <pubDate>Thu, 30 Jun 2022 05:25:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>96분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220630_227/16565642493712qUCG_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(498화 1부) 잭디가 긴자로 간 까닭은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/873</guid>
             <pubDate>Wed, 22 Jun 2022 03:37:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(497화 1부) 나인틴가족여러분감사합니다]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/874</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/874</guid>
-            <pubDate>Wed, 22 Jun 2022 03:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
         </item>
     </channel>
 </rss>
