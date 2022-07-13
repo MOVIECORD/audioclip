@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2022.7.13]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2233</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2233</guid>
+            <pubDate>Wed, 13 Jul 2022 07:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220713_73/1657696432491ngQnm_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(화) - 씨네체크인 (럭키) - 2022.7.12]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2232</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2229</guid>
             <pubDate>Sat, 09 Jul 2022 14:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220709_32/1657374243430wkRTn_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.7.8]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2224</guid>
             <pubDate>Mon, 04 Jul 2022 07:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 - 2022.7.3]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2223</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2223</guid>
-            <pubDate>Sun, 03 Jul 2022 14:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
