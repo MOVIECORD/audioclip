@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 02:00:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(500화 4부) 헤어질 결심]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/884</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/884</guid>
+            <pubDate>Thu, 14 Jul 2022 02:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220714_282/1657759457175TqLox_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(500화 3부) 농장주님은 이걸 언제 들으려나?]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/883</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/880</guid>
             <pubDate>Tue, 05 Jul 2022 01:49:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220705_154/1656985490587RAj56_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(499화 1부) 거없네 집에는 뭐가 있을까]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/876</guid>
             <pubDate>Thu, 23 Jun 2022 01:44:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(497화 3부) 브로커]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/872</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/872</guid>
-            <pubDate>Wed, 22 Jun 2022 03:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>102분]]></content:encoded>
         </item>
     </channel>
 </rss>
