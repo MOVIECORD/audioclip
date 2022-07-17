@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 01:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 03:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[안나] '수지'라는 프리즘으로 본 빛나는 '거짓말', 하지만 아쉽다?('놓후영' 댓글 읽기) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/179</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/179</guid>
+            <pubDate>Sun, 17 Jul 2022 03:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220717_140/1658026933088decJL_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[톰 크루즈] 우리가 몰랐던 그의 과거? '친절한 톰 아저씨'의 리즈 시절을 담은 영화 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/178</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/178</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/175</guid>
             <pubDate>Sun, 10 Jul 2022 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220710_288/1657450056583lghNP_JPEG/a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[잔고: 분노의 적자] '백승기' 감독의 한국판 서부극 도전기(부천국제영화제 특집) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/170</guid>
             <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 우리가 '탑건: 매버릭'을 꼭 봐야 하는 이유(ft.허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/169</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/169</guid>
-            <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
