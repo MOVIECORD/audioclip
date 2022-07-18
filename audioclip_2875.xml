@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 09:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[플립] '첫사랑' 영화? 이 영화 제목이 '플립'인 몇 가지 이유(여름 감성 영화 추천)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/180</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/180</guid>
+            <pubDate>Mon, 18 Jul 2022 10:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220718_9/1658136000258dczB0_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[안나] '수지'라는 프리즘으로 본 빛나는 '거짓말', 하지만 아쉽다?('놓후영' 댓글 읽기)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/179</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/176</guid>
             <pubDate>Mon, 11 Jul 2022 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220711_49/1657498383905BKh1k_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이상한 변호사 우영우] 최근 신작 이야기 및 '놓후영' 댓글 읽기]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/171</guid>
             <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[세 얼간이] '꿈'과 '성공' 사이에서 고민해본 적 있는 모든 청춘에게...]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/170</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/170</guid>
-            <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
         </item>
     </channel>
 </rss>
