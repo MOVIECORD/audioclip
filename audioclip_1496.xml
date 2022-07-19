@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 02:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(501화 2부) 니콜라스 케이지 스페셜]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/887</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/887</guid>
+            <pubDate>Tue, 19 Jul 2022 02:06:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220719_71/1658191460048s5t5Y_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(501화 1부) 무진기행을 아시나요]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/886</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/883</guid>
             <pubDate>Wed, 13 Jul 2022 01:53:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220713_33/1657673042422Q2Np5_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(500화 2부) 아재들의 오페라]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/877</guid>
             <pubDate>Thu, 30 Jun 2022 05:25:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>96분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(498화 1부) 잭디가 긴자로 간 까닭은?]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/878</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/878</guid>
-            <pubDate>Thu, 30 Jun 2022 05:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
         </item>
     </channel>
 </rss>
