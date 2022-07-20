@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 14:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 15:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화 추천] 색다른 매력을 가진 일본 장르 영화 모음.Zip]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/181</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/181</guid>
+            <pubDate>Wed, 20 Jul 2022 15:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220720_106/1658326117468dOs9T_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[플립] '첫사랑' 영화? 이 영화 제목이 '플립'인 몇 가지 이유(여름 감성 영화 추천)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/180</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/177</guid>
             <pubDate>Tue, 12 Jul 2022 15:26:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220712_187/16576323696555Fyoo_JPEG/136a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박쥐] '헤어질 결심' 서래(탕웨이)와 '박쥐' 태주(김옥빈)의 연관성?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/172</guid>
             <pubDate>Sun, 03 Jul 2022 15:19:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화잡썰] '스타트업' 대표가 말하는 최악의 스타트업 대표가 나온 드라마]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/171</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/171</guid>
-            <pubDate>Fri, 01 Jul 2022 16:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
         </item>
     </channel>
 </rss>
