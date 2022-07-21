@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.7.21]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2241</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2241</guid>
+            <pubDate>Thu, 21 Jul 2022 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220721_266/1658387652196gUDMI_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (주현영) - 2022.7.20]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2240</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2237</guid>
             <pubDate>Sun, 17 Jul 2022 12:33:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220717_208/1658058247878T5dws_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.7.16]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2232</guid>
             <pubDate>Tue, 12 Jul 2022 07:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 씨네맛 천국 (파란달) - 2022.7.11]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2231</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2231</guid>
-            <pubDate>Mon, 11 Jul 2022 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
     </channel>
 </rss>
