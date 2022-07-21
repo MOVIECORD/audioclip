@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 01:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나인틴 블랙 5화 어나더 라운드 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/889</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/889</guid>
+            <pubDate>Thu, 21 Jul 2022 01:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220721_57/1658364249644c5K3Q_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[나인틴 블랙 4화 연극 <임대아파트> (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/888</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/888</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/885</guid>
             <pubDate>Fri, 15 Jul 2022 02:05:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_147/1657845850228DTBOn_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(500화 4부) 헤어질 결심 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/880</guid>
             <pubDate>Tue, 05 Jul 2022 01:49:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(499화 1부) 거없네 집에는 뭐가 있을까 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/879</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/879</guid>
-            <pubDate>Mon, 04 Jul 2022 03:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[영화 추천] 색다른 매력을 가진 일본 장르 영화 모음.Zip (오디오클립 ─ 놓치면 후회할 영화)]]></title>
