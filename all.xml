@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 02:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 03:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[민용준의 영쾌한담-잇시네마] 할 수 있을 때 재미있게 해! '호아킨 피닉스'의 인터뷰 여정, '컴온 컴온' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/182</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/182</guid>
+            <pubDate>Sun, 24 Jul 2022 03:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220724_261/16586306115064X3IO_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 추천] 색다른 매력을 가진 일본 장르 영화 모음.Zip (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/181</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/181</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/178</guid>
             <pubDate>Thu, 14 Jul 2022 21:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_134/16578187515561aGAv_JPEG/132b%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '토르: 러브 앤 썬더'는 '크리스찬 베일'만 보였던 영화?(ft.정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/173</guid>
             <pubDate>Tue, 05 Jul 2022 15:25:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[키스 식스 센스] 이번 달 '디즈니플러스'를 구독해야만 하는 이유 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/172</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/172</guid>
-            <pubDate>Sun, 03 Jul 2022 15:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
