@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 07:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 한드의 품격 - 2022.7.24 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2244</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2244</guid>
+            <pubDate>Sun, 24 Jul 2022 08:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220724_81/1658650442006jcdDv_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.7.23 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2243</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2243</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2240</guid>
             <pubDate>Wed, 20 Jul 2022 07:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220720_284/16583012412531lnm2_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 소통데이 - 2022.7.19 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2235</guid>
             <pubDate>Fri, 15 Jul 2022 07:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 씨네초대석 (신현준) - 2022.7.14 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2234</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2234</guid>
-            <pubDate>Thu, 14 Jul 2022 07:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(502화 1부) 잭디의 먹부림 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
