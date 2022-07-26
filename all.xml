@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 02:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나인틴 블랙 6화 헤어진 이들은 홍콩에서 다시 만난다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/892</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/892</guid>
+            <pubDate>Tue, 26 Jul 2022 02:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220726_98/16587962914301h9vK_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(502화 2부) 엘비스 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/891</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/891</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/888</guid>
             <pubDate>Wed, 20 Jul 2022 01:51:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220720_104/1658277875946laKdu_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(501화 2부) 니콜라스 케이지 스페셜 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/883</guid>
             <pubDate>Wed, 13 Jul 2022 01:53:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(500화 2부) 아재들의 오페라 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/882</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/882</guid>
-            <pubDate>Tue, 12 Jul 2022 01:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 할 수 있을 때 재미있게 해! '호아킨 피닉스'의 인터뷰 여정, '컴온 컴온' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
