@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 04:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(503화 1부) 여름선물 나눠드립니다]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/893</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/893</guid>
+            <pubDate>Thu, 28 Jul 2022 05:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220728_230/16589852815077MI34_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[나인틴 블랙 6화 헤어진 이들은 홍콩에서 다시 만난다]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/892</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/889</guid>
             <pubDate>Thu, 21 Jul 2022 01:53:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220721_57/1658364249644c5K3Q_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 4화 연극 <임대아파트>]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/884</guid>
             <pubDate>Thu, 14 Jul 2022 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(500화 3부) 농장주님은 이걸 언제 들으려나?]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/883</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/883</guid>
-            <pubDate>Wed, 13 Jul 2022 01:53:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
     </channel>
 </rss>
