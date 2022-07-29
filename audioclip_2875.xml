@@ -4,11 +4,19 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 16:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 17:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '외계+인'의 흥행 부진 이유(ft.허남웅 평론가)]]></title>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '한산'이 '이순신'을 영화적으로 소환하는 방법(ft.허남웅 평론가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/185</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/185</guid>
+            <pubDate>Fri, 29 Jul 2022 17:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220730_291/1659112802779wG8su_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '외계+인' 반응이 왜 이래? 흥행 부진의 이유(ft.허남웅 평론가)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/184</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/184</guid>
             <pubDate>Fri, 29 Jul 2022 15:24:48 GMT</pubDate>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/181</guid>
             <pubDate>Wed, 20 Jul 2022 15:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220720_106/1658326117468dOs9T_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[플립] '첫사랑' 영화? 이 영화 제목이 '플립'인 몇 가지 이유(여름 감성 영화 추천)]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/2875/clips/176</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/176</guid>
             <pubDate>Mon, 11 Jul 2022 09:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이상한 변호사 우영우] 최근 신작 이야기 및 '놓후영' 댓글 읽기]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/175</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/175</guid>
-            <pubDate>Sun, 10 Jul 2022 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
