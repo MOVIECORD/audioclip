@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 02:01:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(503화 2부) 문신은 과학일까? (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/894</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/894</guid>
+            <pubDate>Fri, 29 Jul 2022 02:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220729_208/1659055455391laCuE_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(503화 1부) 여름선물 나눠드립니다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/893</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/893</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/890</guid>
             <pubDate>Fri, 22 Jul 2022 05:28:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220722_57/1658466839723cKINT_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 5화 어나더 라운드 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/885</guid>
             <pubDate>Fri, 15 Jul 2022 02:05:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(500화 4부) 헤어질 결심 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/884</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/884</guid>
-            <pubDate>Thu, 14 Jul 2022 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[장화, 홍련] 이 공포 영화가 슬펐던 이유(feat. 장화홍련전) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
