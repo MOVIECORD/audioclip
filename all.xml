@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '외계+인'의 흥행 부진 이유(ft.허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/184</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/184</guid>
+            <pubDate>Fri, 29 Jul 2022 15:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220729_255/16591047702189PtRT_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[장화, 홍련] 이 공포 영화가 슬펐던 이유(feat. 장화홍련전) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/183</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/183</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/180</guid>
             <pubDate>Mon, 18 Jul 2022 10:23:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220718_9/1658136000258dczB0_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[안나] '수지'라는 프리즘으로 본 빛나는 '거짓말', 하지만 아쉽다?('놓후영' 댓글 읽기) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/175</guid>
             <pubDate>Sun, 10 Jul 2022 11:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[잔고: 분노의 적자] '백승기' 감독의 한국판 서부극 도전기(부천국제영화제 특집) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/174</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/174</guid>
-            <pubDate>Thu, 07 Jul 2022 21:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
