@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 08:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 09:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>101분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 한드의 품격 (스페셜DJ 류수영) - 2022.7.31 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2251</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2251</guid>
+            <pubDate>Sun, 31 Jul 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220731_291/1659258824966pzN4R_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 (스페셜DJ 류수영) - 2022.7.30 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2250</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2250</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2247</guid>
             <pubDate>Wed, 27 Jul 2022 07:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220727_120/16589042663588Gusp_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 소통데이 (스페셜DJ 류수영) - 2022.7.26 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2242</guid>
             <pubDate>Fri, 22 Jul 2022 07:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.7.21 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2241</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2241</guid>
-            <pubDate>Thu, 21 Jul 2022 07:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(503화 2부) 문신은 과학일까? (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
