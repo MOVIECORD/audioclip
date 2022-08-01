@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 소통데이 (스페셜DJ 류수영) - 2022.8.1]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2252</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2252</guid>
+            <pubDate>Mon, 01 Aug 2022 07:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220801_135/1659336227613kkFN1_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 (스페셜DJ 류수영) - 2022.7.31]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2251</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2248</guid>
             <pubDate>Thu, 28 Jul 2022 07:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220728_53/1658992463997tpivO_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (스페셜DJ 류수영, 류준열) - 2022.7.27]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2243</guid>
             <pubDate>Sat, 23 Jul 2022 14:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.7.22]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2242</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2242</guid>
-            <pubDate>Fri, 22 Jul 2022 07:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
         </item>
     </channel>
 </rss>
