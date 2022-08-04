@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 01:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(504화 2부) 김뿅뿅님의 바캉스]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/899</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/899</guid>
+            <pubDate>Thu, 04 Aug 2022 01:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220804_126/1659575668735r62dS_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(504화 1부) 사연에 msg를 뿌려라]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/898</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/895</guid>
             <pubDate>Mon, 01 Aug 2022 02:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220801_251/165931465717146BpU_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(503화 2부) 문신은 과학일까?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/890</guid>
             <pubDate>Fri, 22 Jul 2022 05:28:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 5화 어나더 라운드]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/889</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/889</guid>
-            <pubDate>Thu, 21 Jul 2022 01:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
         </item>
     </channel>
 </rss>
