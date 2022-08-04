@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 06:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 07:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 씨네맛 천국 (스페셜DJ 류수영, 파란달) - 2022.8.4]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2255</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2255</guid>
+            <pubDate>Thu, 04 Aug 2022 07:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220804_239/1659595472875JtWuF_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (스페셜DJ 류수영, 주원) - 2022.8.3]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2254</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2251</guid>
             <pubDate>Sun, 31 Jul 2022 09:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220731_291/1659258824966pzN4R_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 (스페셜DJ 류수영) - 2022.7.30]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2246</guid>
             <pubDate>Tue, 26 Jul 2022 07:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 뮤지컬라보 (박준면) - 2022.7.25]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2245</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2245</guid>
-            <pubDate>Mon, 25 Jul 2022 07:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
