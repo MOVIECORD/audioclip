@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 06:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 소통데이 - 2022.8.8 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2259</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2259</guid>
+            <pubDate>Mon, 08 Aug 2022 07:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220808_21/1659941065186PIDgv_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 한드의 품격 (스페셜DJ 류수영) - 2022.8.7 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2258</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2258</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2255</guid>
             <pubDate>Thu, 04 Aug 2022 07:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220804_239/1659595472875JtWuF_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (스페셜DJ 류수영, 주원) - 2022.8.3 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2250</guid>
             <pubDate>Sat, 30 Jul 2022 13:27:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 위클리매거진 (스페셜DJ 류수영, 박혜은 편집장) - 2022.7.29 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2249</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2249</guid>
-            <pubDate>Fri, 29 Jul 2022 07:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 8화 1부 뛰지마라 지친다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
