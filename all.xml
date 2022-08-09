@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 01:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나인틴 블랙 8화 2부 뛰지마라 지친다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/902</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/902</guid>
+            <pubDate>Tue, 09 Aug 2022 01:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220809_266/1660004046683PycnS_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[나인틴 블랙 8화 1부 뛰지마라 지친다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/901</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/901</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/898</guid>
             <pubDate>Wed, 03 Aug 2022 06:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220803_78/1659503884685MtwYO_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(503화 4부) 외계인 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/893</guid>
             <pubDate>Thu, 28 Jul 2022 05:27:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 6화 헤어진 이들은 홍콩에서 다시 만난다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/892</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/892</guid>
-            <pubDate>Tue, 26 Jul 2022 02:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 동력을 잃고 방황하다 추락한 '비상선언' (ft.정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
