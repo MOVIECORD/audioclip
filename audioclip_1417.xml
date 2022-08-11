@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.8.11]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2262</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2262</guid>
+            <pubDate>Thu, 11 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220811_38/16602002868682zoc5_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 퀴즈쇼 - 식스센스 - 2022.8.10]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2261</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2258</guid>
             <pubDate>Sun, 07 Aug 2022 10:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220807_181/1659867252542OSv0r_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 (스페셜DJ 류수영) - 2022.8.6]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2253</guid>
             <pubDate>Tue, 02 Aug 2022 07:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 소통데이 (스페셜DJ 류수영) - 2022.8.1]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2252</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2252</guid>
-            <pubDate>Mon, 01 Aug 2022 07:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
     </channel>
 </rss>
