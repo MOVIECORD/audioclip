@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 23:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 01:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(505화 2부) 비상선언 하편]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/905</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/905</guid>
+            <pubDate>Fri, 12 Aug 2022 01:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>86분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_145/1660263236442S68I8_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(505화 1부) 비상선언 상편]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/904</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/901</guid>
             <pubDate>Mon, 08 Aug 2022 01:47:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220808_77/16599177270997rWRE_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(504화 3부) 한산]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/896</guid>
             <pubDate>Tue, 02 Aug 2022 02:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 7화 제천국제음악영화제 스페셜]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/895</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/895</guid>
-            <pubDate>Mon, 01 Aug 2022 02:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
         </item>
     </channel>
 </rss>
