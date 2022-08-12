@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-잇시네마] 나쁜 엄마라서 좋았다? 신화화된 '모성'에서 해방된 여성 '로스트 도터']]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/190</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/190</guid>
+            <pubDate>Fri, 12 Aug 2022 09:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_167/1660274801471VRHba_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '정우성', '이정재'는 이런 장면도 멋있다? '헌트' (ft.정시우 기자)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/189</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/186</guid>
             <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220802_81/1659444065239HdmFF_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '한산'이 '이순신'을 영화적으로 소환하는 방법(ft.허남웅 평론가)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/181</guid>
             <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[플립] '첫사랑' 영화? 이 영화 제목이 '플립'인 몇 가지 이유(여름 감성 영화 추천)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/180</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/180</guid>
-            <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
         </item>
     </channel>
 </rss>
