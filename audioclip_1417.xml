@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 11:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 12:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.8.13]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2264</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2264</guid>
+            <pubDate>Sat, 13 Aug 2022 12:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220813_212/1660392863731C9q0r_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.8.12]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2263</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2260</guid>
             <pubDate>Tue, 09 Aug 2022 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220809_129/1660027452085rODpo_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 소통데이 - 2022.8.8]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2255</guid>
             <pubDate>Thu, 04 Aug 2022 07:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 씨네초대석 (스페셜DJ 류수영, 주원) - 2022.8.3]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2254</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2254</guid>
-            <pubDate>Wed, 03 Aug 2022 07:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
         </item>
     </channel>
 </rss>
