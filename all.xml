@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 23:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 01:59:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나인틴 블랙 9화 ABA육아법 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/906</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/906</guid>
+            <pubDate>Mon, 15 Aug 2022 01:58:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220815_68/1660526055389f3EpR_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(505화 2부) 비상선언 하편 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/905</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/905</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/902</guid>
             <pubDate>Tue, 09 Aug 2022 01:59:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220809_266/1660004046683PycnS_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 8화 1부 뛰지마라 지친다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/897</guid>
             <pubDate>Wed, 03 Aug 2022 01:53:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(503화 3부) 외계인 상 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/896</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/896</guid>
-            <pubDate>Tue, 02 Aug 2022 02:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 나쁜 엄마라서 좋았다? 신화화된 '모성'에서 해방된 여성 '로스트 도터' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
