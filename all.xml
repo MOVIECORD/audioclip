@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 06:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(수) - 씨네체크인 (알베르토) - 2022.8.17 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2268</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2268</guid>
+            <pubDate>Wed, 17 Aug 2022 07:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220817_77/1660718635755PBf5A_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(화) - 소통데이 - 2022.8.16 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2267</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2267</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2264</guid>
             <pubDate>Sat, 13 Aug 2022 12:32:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220813_212/1660392863731C9q0r_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 초희's 초이스 (김초희 감독) - 2022.8.12 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2259</guid>
             <pubDate>Mon, 08 Aug 2022 07:18:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 (스페셜DJ 류수영) - 2022.8.7 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2258</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2258</guid>
-            <pubDate>Sun, 07 Aug 2022 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 10화 매버릭 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
