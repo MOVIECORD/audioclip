@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 13:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 14:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송강호, 이창동, 소지섭... 그걸 왜 이 분들께 질문해? 사건이 일어날 것만 같았던 인터뷰(w. 이중옥, 김대건)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/192</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/192</guid>
+            <pubDate>Wed, 17 Aug 2022 14:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220817_264/1660744483828GJbeR_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진범은 아들? 정체불명 외지인? '파로호' 모텔 실종 사건의 진실(w.'이중옥', '김대건' 프로파일러)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/191</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/191</guid>
+            <pubDate>Wed, 17 Aug 2022 14:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220817_210/1660743149406kWWaM_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 나쁜 엄마라서 좋았다? 신화화된 '모성'에서 해방된 여성 '로스트 도터']]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/190</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/188</guid>
             <pubDate>Mon, 08 Aug 2022 13:43:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220808_292/1659956635154hP9Po_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[큐어] 기묘한 연쇄 살인 사건에 숨겨진 섬뜩한 비밀(w.유튜버 '백수골방')]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/187</guid>
             <pubDate>Fri, 05 Aug 2022 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220806_141/1659711613529hKNO1_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[외계+인] 아쉬워? 그래도 이 영화를 한국에서만 만들 수 있는 이유(w.유튜버 '백수골방')]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/183</guid>
             <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-잇시네마] 할 수 있을 때 재미있게 해! '호아킨 피닉스'의 인터뷰 여정, '컴온 컴온']]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/182</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/182</guid>
-            <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 추천] 색다른 매력을 가진 일본 장르 영화 모음.Zip]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/181</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/181</guid>
-            <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
     </channel>
 </rss>
