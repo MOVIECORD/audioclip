@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 06:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 07:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 우리가 영화롭다면 (주종혁) - 2022.8.19]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2270</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2270</guid>
+            <pubDate>Fri, 19 Aug 2022 07:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220819_164/1660891441669SbwSM_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.8.18]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2269</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2266</guid>
             <pubDate>Mon, 15 Aug 2022 14:20:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220815_166/1660572865618cDcTT_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.8.14]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2261</guid>
             <pubDate>Wed, 10 Aug 2022 07:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 뮤지컬라보 (박준면) - 2022.8.9]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2260</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2260</guid>
-            <pubDate>Tue, 09 Aug 2022 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
