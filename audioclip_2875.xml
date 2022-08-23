@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 13:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 14:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 영화의 역사를 소환해 새로 쓴 '조던 필'의 '놉'(ft.허남웅 평론가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/193</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/193</guid>
+            <pubDate>Tue, 23 Aug 2022 14:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220823_148/1661253332721ViNSp_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송강호, 이창동, 소지섭... 그 질문을 왜 이 분들께? 사건이 일어날 것만 같았던 인터뷰(w.이중옥, 김대건 배우)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/192</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/189</guid>
             <pubDate>Wed, 10 Aug 2022 09:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220810_202/1660114323300ctsPX_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 동력을 잃고 방황하다 추락한 '비상선언' (ft.정시우 기자)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/184</guid>
             <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[장화, 홍련] 이 공포 영화가 슬펐던 이유(feat. 장화홍련전)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/183</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/183</guid>
-            <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
     </channel>
 </rss>
