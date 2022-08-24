@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 02:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(506화 2부) 옆집 남자의 정체 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/909</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/909</guid>
+            <pubDate>Wed, 24 Aug 2022 02:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220824_162/16613019068249AehP_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(506화 1부) 추억의 영퀴방 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/908</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/908</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/905</guid>
             <pubDate>Fri, 12 Aug 2022 01:48:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>86분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220812_145/1660263236442S68I8_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(505화 1부) 비상선언 상편 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/900</guid>
             <pubDate>Fri, 05 Aug 2022 01:51:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(504화 2부) 김뿅뿅님의 바캉스 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/899</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/899</guid>
-            <pubDate>Thu, 04 Aug 2022 01:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 영화의 역사를 소환해 새로 쓴 '조던 필'의 '놉'(ft.허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
