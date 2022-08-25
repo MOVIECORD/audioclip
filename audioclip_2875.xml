@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 13:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 14:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 출구 없는 '브래드 피트'의 액션! '불릿 트레인'(ft.허남웅 평론가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/194</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/194</guid>
+            <pubDate>Thu, 25 Aug 2022 14:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220825_131/1661408192515zuMR1_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 영화의 역사를 소환해 새로 쓴 '조던 필'의 '놉'(ft.허남웅 평론가)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/193</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/190</guid>
             <pubDate>Fri, 12 Aug 2022 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220812_167/1660274801471VRHba_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '정우성', '이정재'는 이런 장면도 멋있다? '헌트' (ft.정시우 기자)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/185</guid>
             <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '외계+인' 반응이 왜 이래? 흥행 부진의 이유(ft.허남웅 평론가)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/184</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/184</guid>
-            <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
         </item>
     </channel>
 </rss>
