@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2022.8.29]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2280</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2280</guid>
+            <pubDate>Mon, 29 Aug 2022 08:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220829_95/1661759064875LdDMY_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.8.28]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2279</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2276</guid>
             <pubDate>Thu, 25 Aug 2022 07:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220825_155/1661409852873XMOqC_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (성지루, 임세미) - 2022.8.24]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2271</guid>
             <pubDate>Sat, 20 Aug 2022 10:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 우리가 영화롭다면 (주종혁) - 2022.8.19]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2270</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2270</guid>
-            <pubDate>Fri, 19 Aug 2022 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
         </item>
     </channel>
 </rss>
