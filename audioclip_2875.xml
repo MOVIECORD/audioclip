@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비상선언 특집] 위기 속 비행기를 배경으로 한 영화 추천]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/195</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/195</guid>
+            <pubDate>Wed, 31 Aug 2022 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220831_223/1661922785832vH4g5_JPEG/1a2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 출구 없는 '브래드 피트'의 액션! '불릿 트레인'(ft.허남웅 평론가)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/194</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/191</guid>
             <pubDate>Wed, 17 Aug 2022 14:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220817_210/1660743149406kWWaM_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 나쁜 엄마라서 좋았다? 신화화된 '모성'에서 해방된 여성 '로스트 도터']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/186</guid>
             <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '한산'이 '이순신'을 영화적으로 소환하는 방법(ft.허남웅 평론가)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/185</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/185</guid>
-            <pubDate>Wed, 03 Aug 2022 20:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
         </item>
     </channel>
 </rss>
