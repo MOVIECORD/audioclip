@@ -4,9 +4,33 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 04:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 05:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(509화) 볼프강 피터젠 스페셜]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/915</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/915</guid>
+            <pubDate>Thu, 01 Sep 2022 05:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>99분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220901_161/1662011053349x8vs4_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(508화 3부) 그레이맨 vs 불릿트레인 2부]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/913</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/913</guid>
+            <pubDate>Thu, 01 Sep 2022 05:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220901_240/1662009264670fvrgK_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(508화 2부) 그레이맨 vs 불릿트레인 1부]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/914</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/914</guid>
+            <pubDate>Thu, 01 Sep 2022 05:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220901_134/1662009266178ubbi6_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(508화 1부) 왕밤빵~~~~~]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/911</link>
@@ -21,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/912</guid>
             <pubDate>Fri, 26 Aug 2022 02:05:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>124분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220826_113/1661474663549pepiQ_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(506화 3부) 헌트]]></title>
@@ -29,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/910</guid>
             <pubDate>Thu, 25 Aug 2022 02:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>109분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220825_131/1661388252737wTlc8_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(506화 2부) 옆집 남자의 정체]]></title>
@@ -37,7 +59,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/909</guid>
             <pubDate>Wed, 24 Aug 2022 02:00:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220824_162/16613019068249AehP_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(506화 1부) 추억의 영퀴방]]></title>
@@ -59,27 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/906</guid>
             <pubDate>Mon, 15 Aug 2022 01:58:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(505화 2부) 비상선언 하편]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/905</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/905</guid>
-            <pubDate>Fri, 12 Aug 2022 01:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>86분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(505화 1부) 비상선언 상편]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/904</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/904</guid>
-            <pubDate>Thu, 11 Aug 2022 05:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 8화 3부 뛰지마라 지친다]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/903</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/903</guid>
-            <pubDate>Wed, 10 Aug 2022 01:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
     </channel>
 </rss>
