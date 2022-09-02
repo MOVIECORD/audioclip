@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 07:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 씨네초대석 (허광한) - 2022.9.2 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2284</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2284</guid>
+            <pubDate>Fri, 02 Sep 2022 07:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220902_16/1662102841847aORxF_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.9.1 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2283</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2283</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2280</guid>
             <pubDate>Mon, 29 Aug 2022 08:25:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220829_95/1661759064875LdDMY_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.8.28 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2275</guid>
             <pubDate>Wed, 24 Aug 2022 07:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네마음(心)카페 (신애라) - 2022.8.23 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2274</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2274</guid>
-            <pubDate>Tue, 23 Aug 2022 07:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(509화) 볼프강 피터젠 스페셜 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
