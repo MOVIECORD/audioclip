@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(510화 1부) 지~~~~~미 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/916</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/916</guid>
+            <pubDate>Tue, 06 Sep 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220906_5/1662444903480j5Ys3_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(509화) 볼프강 피터젠 스페셜 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/915</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/915</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/911</guid>
             <pubDate>Fri, 26 Aug 2022 02:05:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220826_120/1661474661998tuHWs_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(507화) 놉 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/907</guid>
             <pubDate>Tue, 16 Aug 2022 02:01:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 9화 ABA육아법 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/906</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/906</guid>
-            <pubDate>Mon, 15 Aug 2022 01:58:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[비상선언 특집] 위기 속 비행기를 배경으로 한 영화 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
