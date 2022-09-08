@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 13:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 14:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 전작보다 스케일은 커지고, 촌스러워진 추석 영화, '공조2' (ft.정시우 기자)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/197</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/197</guid>
+            <pubDate>Thu, 08 Sep 2022 14:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220908_121/1662618743694OIeB4_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 당신의 그 시절은 어땠나요? '성적표의 김민영']]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/196</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/193</guid>
             <pubDate>Tue, 23 Aug 2022 14:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220823_148/1661253332721ViNSp_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송강호, 이창동, 소지섭... 그 질문을 왜 이 분들께? 사건이 일어날 것만 같았던 인터뷰(w.이중옥, 김대건 배우)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/188</guid>
             <pubDate>Mon, 08 Aug 2022 13:43:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[큐어] 기묘한 연쇄 살인 사건에 숨겨진 섬뜩한 비밀(w.유튜버 '백수골방')]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/187</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/187</guid>
-            <pubDate>Fri, 05 Aug 2022 15:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
         </item>
     </channel>
 </rss>
