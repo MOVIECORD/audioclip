@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(수) - 꼬꼬무 (김지용 전문의) - 2022.9.14 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2296</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2296</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220914_294/1663139684437Cn4A0_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(화) - 초희's 초이스 (김초희 감독) - 2022.9.13 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2295</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2295</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2292</guid>
             <pubDate>Sat, 10 Sep 2022 14:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220910_6/16628174404049WAU0_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 추석 교통특집 함께하는 추석, 나누는 기쁨 <서프라이즈! 놀라운 추석> - 2022.9.9 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2287</guid>
             <pubDate>Mon, 05 Sep 2022 07:32:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 한드의 품격 - 2022.9.4 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2286</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2286</guid>
-            <pubDate>Sun, 04 Sep 2022 14:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 12화 추석특집 헤어진 이들은 홍콩에서 다시 만난다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
