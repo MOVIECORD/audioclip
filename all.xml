@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 02:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 04:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(510화 2부) 지~~~~~미 2 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/919</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/919</guid>
+            <pubDate>Thu, 15 Sep 2022 04:49:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220915_3/1663217031764rPrXi_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[나인틴 블랙 12화 추석특집 헤어진 이들은 홍콩에서 다시 만난다 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/918</link>
             <guid>https://audioclip.naver.com/channels/1496/clips/918</guid>
@@ -185,7 +193,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/915</guid>
             <pubDate>Thu, 01 Sep 2022 05:51:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>99분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220901_161/1662011053349x8vs4_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(508화 3부) 그레이맨 vs 불릿트레인 2부 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
@@ -221,13 +228,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/910</guid>
             <pubDate>Thu, 25 Aug 2022 02:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>109분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(506화 2부) 옆집 남자의 정체 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/909</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/909</guid>
-            <pubDate>Wed, 24 Aug 2022 02:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[중경삼림] '왕가위'가 필름에 담은 그 시절 사랑과 홍콩의 이미지 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
