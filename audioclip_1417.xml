@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 씨네초대석 (진영, 백아연) - 2022.9.16]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2298</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2298</guid>
+            <pubDate>Fri, 16 Sep 2022 07:30:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220916_22/1663312451755bSufn_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2022.9.15]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2297</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2294</guid>
             <pubDate>Mon, 12 Sep 2022 12:45:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220912_250/1662984872444hQ2Vx_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 추석 특집 좋아하면 들리는 퀴즈 스페셜 - 2022.9.11]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2289</guid>
             <pubDate>Wed, 07 Sep 2022 07:42:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 뮤지컬라보 (박준면) - 2022.9.6]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2288</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2288</guid>
-            <pubDate>Tue, 06 Sep 2022 08:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
     </channel>
 </rss>
