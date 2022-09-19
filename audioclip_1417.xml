@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 씨네초대석 (정성화) - 2022.9.19]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2301</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2301</guid>
+            <pubDate>Mon, 19 Sep 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220919_24/1663568035402GDhbL_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 한드의 품격 - 2022.9.18]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2300</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2297</guid>
             <pubDate>Thu, 15 Sep 2022 07:32:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220915_93/1663226037733Tuuaf_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 꼬꼬무 (김지용 전문의) - 2022.9.14]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2292</guid>
             <pubDate>Sat, 10 Sep 2022 14:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 추석 교통특집 함께하는 추석, 나누는 기쁨 <서프라이즈! 놀라운 추석> - 2022.9.9]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2291</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2291</guid>
-            <pubDate>Fri, 09 Sep 2022 14:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
     </channel>
 </rss>
