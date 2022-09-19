@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 23:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 02:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(511화 1부) 라성에 가면]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/922</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/922</guid>
+            <pubDate>Mon, 19 Sep 2022 02:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220919_199/1663550080090VmxyS_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(510화 4부) 수리남 2]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/921</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/918</guid>
             <pubDate>Thu, 08 Sep 2022 06:02:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220908_95/16626122576426EMox_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 11화 스타 이즈 본]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/914</guid>
             <pubDate>Thu, 01 Sep 2022 05:51:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(508화 1부) 왕밤빵~~~~~]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/911</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/911</guid>
-            <pubDate>Fri, 26 Aug 2022 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
         </item>
     </channel>
 </rss>
