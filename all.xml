@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[민용준의 영쾌한담-잇시네마] '어머니'라는 역할에 던지는 파격적인 질문 '같은 속옷을 입는 두 여자' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/209</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/209</guid>
+            <pubDate>Tue, 22 Nov 2022 15:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221122_22/1669127089681AI5RE_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '마블'이 히어로와 이별하는 방법 '블랙 팬서: 와칸다 포에버'(ft.정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/208</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/208</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/205</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221025_62/1666706650965IaypS_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] DC의 수호자 '블랙 아담'? DC 이대로 괜찮을까(ft.허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/200</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[기차 영화 추천] 기차를 배경으로 사건이 펼쳐지는 영화 추천 (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/199</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/199</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
