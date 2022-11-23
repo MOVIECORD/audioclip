@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -259,7 +259,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/206</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221101_276/1667305586925kQNXV_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 우리의 삶이 '멀티버스'라면? '에브리씽 에브리웨어 올 앳 원스' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -333,7 +332,6 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/319</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220410_126/1649522218231mgkp7_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나이트메어 앨리'X'인민을 위해 복무하라' 비교체험 극과극 (YCU 42화) (오디오클립 ─ 시네마 바)]]></title>
