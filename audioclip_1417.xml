@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 06:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 07:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 씨네초대석 (류준열) - 2022.11.24]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2367</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2367</guid>
+            <pubDate>Thu, 24 Nov 2022 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221124_193/1669274037781rBPrY_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2022.11.23]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2366</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2363</guid>
             <pubDate>Sun, 20 Nov 2022 13:27:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221120_278/1668950041865xkvgl_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.11.19]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2358</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 씨네초대석 (김영광, 강해림) - 2022.11.14]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2357</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2357</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
