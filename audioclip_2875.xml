@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 15:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 16:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 이 영화는 영화관의 '데시벨'을 올릴 수 있을까?(ft.정시우 기자)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/210</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/210</guid>
+            <pubDate>Fri, 25 Nov 2022 16:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221126_120/1669390394673s9M6N_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] '어머니'라는 역할에 던지는 파격적인 질문 '같은 속옷을 입는 두 여자']]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/209</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/206</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221101_276/1667305586925kQNXV_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 우리의 삶이 '멀티버스'라면? '에브리씽 에브리웨어 올 앳 원스']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/201</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 이 노래, 어디서 들었지? 추억과 함께 찾아온 '인생은 아름다워'(ft.허남웅 평론가)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/200</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/200</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
     </channel>
 </rss>
