@@ -4,9 +4,33 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 04:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(518화 3부) 미스틱 리버]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/948</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/948</guid>
+            <pubDate>Fri, 25 Nov 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_1/1669351456456OShmz_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(518화 2부) 나인틴 이즈 백 2]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/949</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/949</guid>
+            <pubDate>Fri, 25 Nov 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_293/1669351456772dFVhG_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(518화 1부) 나인틴 이즈 백]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/950</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/950</guid>
+            <pubDate>Fri, 25 Nov 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_154/1669351457206xukR6_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나인틴 블랙 18화 창밖은 겨울]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/946</link>
@@ -21,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/947</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221109_110/1667969047153BvjbS_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 17화 초선]]></title>
@@ -29,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/944</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221028_101/1666923236319RD90D_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(516화 2부) 라스트 나잇 인 소호]]></title>
@@ -37,7 +59,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/943</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221027_74/1666847632256gtHAA_JPEG/a30dce20f68cd6a6befb6c02b2545e668902f39df0f53b1736caba97a298ccf7bb59d4da25edbffd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(516화 1부) 원앙굿 해주실분?]]></title>
@@ -59,27 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/940</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 16화 2부 답답해서 찾아왔습니다]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/939</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/939</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 16화 1부 답답해서 찾아왔습니다]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/938</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/938</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 15화 배창호 감독 스페셜]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/937</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/937</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
     </channel>
 </rss>
