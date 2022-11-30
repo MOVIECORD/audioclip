@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 김혜리의 필름클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 02:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 03:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[170회 2부 - 블랙팬서: 와칸다 포에버]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/220</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/220</guid>
+            <pubDate>Wed, 30 Nov 2022 03:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221130_181/1669778039169BRh3N_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[170회 1부 - 기쁘다 수정 오셨네]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/219</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/216</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221019_72/1666154630505qwbjK_JPEG/b0989d42fc1393d7e091cd48652a569eed0607a82a71a06be1b56f38cef328b0c62ab4641c759cbd.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[168회 1부 - 에브리씽 에브리웨어 올 앳 원스(1)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/211</guid>
             <pubDate>Wed, 16 Nov 2022 17:26:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[165회 브리핑 1부 - 로스트 도터]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/210</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/210</guid>
-            <pubDate>Wed, 16 Nov 2022 17:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>77분]]></content:encoded>
         </item>
     </channel>
 </rss>
