@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 15:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 16:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님을 잠금해제] ①사장님이 스마트폰에 갇혔다고? 이 감성을 드라마에 담을 수 있다고?(w.'김형민' 작가)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/211</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/211</guid>
+            <pubDate>Sat, 03 Dec 2022 16:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221204_29/1670080337841EEkya_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 이 영화는 영화관의 '데시벨'을 올릴 수 있을까?(ft.정시우 기자)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/210</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/207</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221108_254/1667915320024RPLht_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '자백'과 함께 드러나는 충격적인 진실(ft.허남웅 평론가)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/202</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 솔직히 아쉽다? 정직하게 털어놓은 '정직한 후보2' 후기(ft.허남웅 평론가]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/201</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/201</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
     </channel>
 </rss>
