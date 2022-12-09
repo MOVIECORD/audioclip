@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 07:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 08:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2022.12.9]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2382</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2382</guid>
+            <pubDate>Fri, 09 Dec 2022 08:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221209_229/1670571859760tBEsr_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 씨네체크인 (알파고) - 2022.12.8]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2381</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2378</guid>
             <pubDate>Mon, 05 Dec 2022 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221205_279/1670222672564RgXaI_JPEG/0fc9b3ee3da22e3d46bccfd83d410a426f83408ff4806a9b6b9f1691ecf50aa1d0670aca7bc70412.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2022.12.4]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2373</guid>
             <pubDate>Wed, 30 Nov 2022 07:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 소통데이 - 2022.11.29]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2372</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2372</guid>
-            <pubDate>Tue, 29 Nov 2022 07:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
     </channel>
 </rss>
