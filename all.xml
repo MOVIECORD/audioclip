@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2022.12.13 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2386</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2386</guid>
+            <pubDate>Tue, 13 Dec 2022 07:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221213_55/1670913834832gIkah_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2022.12.12 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2385</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2385</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2382</guid>
             <pubDate>Fri, 09 Dec 2022 08:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221209_229/1670571859760tBEsr_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네체크인 (알파고) - 2022.12.8 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2377</guid>
             <pubDate>Sun, 04 Dec 2022 14:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.12.3 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2376</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2376</guid>
-            <pubDate>Sat, 03 Dec 2022 15:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(520화 5부) 본즈 앤 올 2 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
