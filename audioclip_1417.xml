@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 13:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 14:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2022.12.18]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2391</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2391</guid>
+            <pubDate>Sun, 18 Dec 2022 14:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221218_270/1671371035795CTUEL_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2022.12.17]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2390</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2387</guid>
             <pubDate>Wed, 14 Dec 2022 07:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221214_89/1671000237244R8dnY_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2022.12.13]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2382</guid>
             <pubDate>Fri, 09 Dec 2022 08:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 씨네체크인 (알파고) - 2022.12.8]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2381</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2381</guid>
-            <pubDate>Thu, 08 Dec 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
         </item>
     </channel>
 </rss>
