@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 20:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 21:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '아바타: 물의 길'을 꼭 영화관에서 봐야 하는 이유(ft.정시우 기자)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/215</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/215</guid>
+            <pubDate>Tue, 20 Dec 2022 21:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_286/1671556874386sNKp1_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-잇시네마] 사실, 여러분이 저의 진짜 '메뉴'였습니다! ('더 메뉴')]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/214</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/211</guid>
             <pubDate>Sat, 03 Dec 2022 16:22:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221204_29/1670080337841EEkya_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] 이 영화는 영화관의 '데시벨'을 올릴 수 있을까?(ft.정시우 기자)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/206</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-잇시네마] 우리의 삶이 '멀티버스'라면? '에브리씽 에브리웨어 올 앳 원스']]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/205</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/205</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
     </channel>
 </rss>
