@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 23:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 01:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(521화) 제임스 그레이 특집]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/963</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/963</guid>
+            <pubDate>Wed, 21 Dec 2022 01:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_160/1671583480007aA9wD_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나인틴 블랙 19화 2부 우물밖의 개구리가 보는 한국사]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/961</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/957</guid>
             <pubDate>Mon, 12 Dec 2022 05:15:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221212_11/1670822037069CUJhG_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(520화 3부) 개소리 2]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/954</guid>
             <pubDate>Fri, 02 Dec 2022 01:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(519화 3부) 서부전선 이상없다 1]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/955</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/955</guid>
-            <pubDate>Fri, 02 Dec 2022 01:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
 </rss>
