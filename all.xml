@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 14:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 15:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.1.7 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2411</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2411</guid>
+            <pubDate>Sat, 07 Jan 2023 15:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230107_149/1673101105765UYFhA_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 소통데이 - 2023.1.6 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2410</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2410</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2407</guid>
             <pubDate>Tue, 03 Jan 2023 07:14:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230103_239/1672728433941uVngS_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.1.2 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2402</guid>
             <pubDate>Thu, 29 Dec 2022 07:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 씨네맛 천국 (파란달) - 2022.12.28 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2401</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2401</guid>
-            <pubDate>Wed, 28 Dec 2022 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(523화 3부) 2022결산 3 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
