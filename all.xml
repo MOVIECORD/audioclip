@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 07:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 08:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[173회 2부 - 아바타:물의 길 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/226</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/226</guid>
+            <pubDate>Tue, 10 Jan 2023 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230110_83/1673336839910R8OXe_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[173회 1부 - 공개방송을 추억하고 새해결심을 말하다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/225</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/222</guid>
             <pubDate>Mon, 12 Dec 2022 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221212_298/1670831034136Q3d0c_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[171회 1부 - 연말결산: 기예르모 델 토로의 피노키오, 놉, 본즈 앤 올, 소설가의 영화 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/217</guid>
             <pubDate>Fri, 02 Dec 2022 20:17:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[168회 2부 - 에브리씽 에브리웨어 올 앳 원스(2) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/216</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/216</guid>
-            <pubDate>Fri, 02 Dec 2022 20:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(화) - 뮤지컬라보 (박준면) - 2023.1.10 (오디오클립 ─ 씨네타운)]]></title>
