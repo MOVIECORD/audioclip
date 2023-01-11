@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 01:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(525화 1부) 다시 태어난 나인틴]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/970</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/970</guid>
+            <pubDate>Wed, 11 Jan 2023 02:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230111_23/1673400317505HUtov_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(523화 3부) 2022결산 3]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/969</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/964</guid>
             <pubDate>Fri, 23 Dec 2022 05:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221223_236/1671772437609yynpl_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(522화 2부) 영화 [영웅]을 둘러싼 논란]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/962</guid>
             <pubDate>Tue, 20 Dec 2022 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(520화 5부) 본즈 앤 올 2]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/960</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/960</guid>
-            <pubDate>Tue, 13 Dec 2022 01:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
     </channel>
 </rss>
