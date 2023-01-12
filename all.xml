@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 12:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 13:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,7 +242,7 @@
             <link>https://audioclip.naver.com/channels/2875/clips/217</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
             <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230112_280/1673462980013lu8wP_JPEG/1a%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
