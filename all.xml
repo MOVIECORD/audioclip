@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 14:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 15:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.1.14 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2418</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2418</guid>
+            <pubDate>Sat, 14 Jan 2023 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230114_82/1673707540283h5Tim_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(금) - 소통데이 - 2023.1.13 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2417</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2417</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2414</guid>
             <pubDate>Tue, 10 Jan 2023 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230110_140/1673333238524B7eQx_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 씨네체크인 (프래) - 2023.1.9 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2409</guid>
             <pubDate>Thu, 05 Jan 2023 08:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 씨네초대석 (권상우, 마대윤 감독) - 2023.1.4 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2408</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2408</guid>
-            <pubDate>Wed, 04 Jan 2023 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(525화 2부) 나이브스 아웃 글래스 어니언 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
