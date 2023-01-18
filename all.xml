@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 21:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 22:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 2부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/220</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/220</guid>
+            <pubDate>Wed, 18 Jan 2023 22:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230119_48/1674076629493CMTna_JPEG/2b%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 1부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/219</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/219</guid>
+            <pubDate>Wed, 18 Jan 2023 22:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230119_296/1674076125392Fm8Qw_JPEG/2a%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 한국 영화  Best10  - 2부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/218</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/218</guid>
@@ -243,7 +259,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
             <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230112_280/1673462980013lu8wP_JPEG/1a%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '뮤지컬'을 향한 존중과 이해 사이의 간극(feat. 허남웅 평론가, 정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -251,7 +266,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/216</guid>
             <pubDate>Tue, 27 Dec 2022 14:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221227_35/1672148650493oJJsV_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '아바타: 물의 길'을 꼭 영화관에서 봐야 하는 이유(ft.정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -287,20 +301,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/211</guid>
             <pubDate>Sat, 03 Dec 2022 16:22:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] 이 영화는 영화관의 '데시벨'을 올릴 수 있을까?(ft.정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/210</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/210</guid>
-            <pubDate>Fri, 25 Nov 2022 16:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-잇시네마] '어머니'라는 역할에 던지는 파격적인 질문 '같은 속옷을 입는 두 여자' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/209</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/209</guid>
-            <pubDate>Tue, 22 Nov 2022 15:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
