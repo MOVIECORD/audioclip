@@ -4,9 +4,33 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 23:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 01:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(526화 3부) 슬램덩크 후반전]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/972</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/972</guid>
+            <pubDate>Fri, 20 Jan 2023 01:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230120_62/1674175455986Pi9do_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(526화 2부) 슬램덩크 하프타임]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/973</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/973</guid>
+            <pubDate>Fri, 20 Jan 2023 01:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230120_259/1674175456494OIik9_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(526화 1부) 슬램덩크 전반전]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/974</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/974</guid>
+            <pubDate>Fri, 20 Jan 2023 01:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>124분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230120_198/1674175456783bbVq3_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(525화 2부) 나이브스 아웃 글래스 어니언]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/971</link>
@@ -21,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/970</guid>
             <pubDate>Wed, 11 Jan 2023 02:42:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230111_23/1673400317505HUtov_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(523화 3부) 2022결산 3]]></title>
@@ -29,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/969</guid>
             <pubDate>Fri, 06 Jan 2023 01:20:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230106_126/1672964336173FVc5o_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(523화 2부) 2022결산 2]]></title>
@@ -37,7 +59,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/967</guid>
             <pubDate>Thu, 05 Jan 2023 04:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230105_54/1672892299468Cmrm5_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(523화 1부) 2022결산 1]]></title>
@@ -59,27 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/965</guid>
             <pubDate>Fri, 23 Dec 2022 05:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(522화 1부) 메리 크리스마스]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/966</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/966</guid>
-            <pubDate>Fri, 23 Dec 2022 05:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(521화) 제임스 그레이 특집]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/963</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/963</guid>
-            <pubDate>Wed, 21 Dec 2022 01:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인틴 블랙 19화 2부 우물밖의 개구리가 보는 한국사]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/961</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/961</guid>
-            <pubDate>Tue, 20 Dec 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
