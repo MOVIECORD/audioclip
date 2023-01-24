@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 14:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 15:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2023.1.24]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2428</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2428</guid>
+            <pubDate>Tue, 24 Jan 2023 15:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230124_152/1674569707406DCpOD_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(월) - 설 특집 좋아하면 들리는 퀴즈 스페셜 - 2023.1.23]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2427</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2424</guid>
             <pubDate>Fri, 20 Jan 2023 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230120_191/1674198824168VcBNi_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.1.19]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2419</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2419</guid>
             <pubDate>Sun, 15 Jan 2023 12:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.1.14]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2418</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2418</guid>
-            <pubDate>Sat, 14 Jan 2023 15:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
     </channel>
