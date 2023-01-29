@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 15:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,6 +81,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.1.29 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2433</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2433</guid>
+            <pubDate>Sun, 29 Jan 2023 15:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230129_80/16750017225153Y235_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.1.28 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2432</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2432</guid>
@@ -102,7 +110,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2430</guid>
             <pubDate>Thu, 26 Jan 2023 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230126_273/1674715421429Aq6xl_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 소통데이 - 2023.1.25 (오디오클립 ─ 씨네타운)]]></title>
@@ -145,13 +152,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2424</guid>
             <pubDate>Fri, 20 Jan 2023 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.1.19 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2423</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2423</guid>
-            <pubDate>Thu, 19 Jan 2023 07:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 20화 야 너두 할 수 있어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
