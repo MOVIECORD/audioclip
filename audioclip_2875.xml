@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
             <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230112_280/1673462980013lu8wP_JPEG/1a%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '뮤지컬'을 향한 존중과 이해 사이의 간극(feat. 허남웅 평론가, 정시우 기자)]]></title>

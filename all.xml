@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/225</guid>
             <pubDate>Tue, 24 Jan 2023 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230104_18/1672825634836NMH5n_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[172회 2부 - 6주년 특집 공개방송(2) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -258,6 +259,7 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
             <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230112_280/1673462980013lu8wP_JPEG/1a%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '뮤지컬'을 향한 존중과 이해 사이의 간극(feat. 허남웅 평론가, 정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -331,6 +333,7 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/319</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_126/1649522218231mgkp7_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나이트메어 앨리'X'인민을 위해 복무하라' 비교체험 극과극 (YCU 42화) (오디오클립 ─ 시네마 바)]]></title>

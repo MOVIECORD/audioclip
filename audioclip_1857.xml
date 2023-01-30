@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 시네마 바</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 14:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/1857/clips/319</guid>
             <pubDate>Wed, 16 Nov 2022 17:27:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_126/1649522218231mgkp7_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['나이트메어 앨리'X'인민을 위해 복무하라' 비교체험 극과극 (YCU 42화)]]></title>
