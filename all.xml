@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 09:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 10:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[175회 - 특집 "고민과 질문" 추천 맛집부터 인생의 꿀팁까지 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/229</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/229</guid>
+            <pubDate>Tue, 31 Jan 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230131_34/1675160025401arbfp_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[174회 2부 - 서부전선 이상없다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/228</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/225</guid>
             <pubDate>Tue, 24 Jan 2023 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_18/1672825634836NMH5n_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[172회 2부 - 6주년 특집 공개방송(2) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/220</guid>
             <pubDate>Tue, 24 Jan 2023 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[170회 1부 - 기쁘다 수정 오셨네 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/219</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/219</guid>
-            <pubDate>Tue, 24 Jan 2023 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(화) - 뮤지컬라보 (박준면) - 2023.1.31 (오디오클립 ─ 씨네타운)]]></title>
