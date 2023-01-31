@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 14:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 15:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 퍼스트 슬램덩크] 현역 스포츠 PD가 '슬램덩크'를 보고 놀란 이유(w.'야구잡썰' 정현호 PD)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/221</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/221</guid>
+            <pubDate>Tue, 31 Jan 2023 15:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230131_175/1675175591843CIj6N_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 2부(feat. 허남웅 평론가)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/220</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
             <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230112_280/1673462980013lu8wP_JPEG/1a%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-옐로무비] '뮤지컬'을 향한 존중과 이해 사이의 간극(feat. 허남웅 평론가, 정시우 기자)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/212</guid>
             <pubDate>Sun, 04 Dec 2022 15:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사장님을 잠금해제] ①사장님이 스마트폰에 갇혔다고? 이 감성을 드라마에 담을 수 있다고?(w.'김형민' 작가)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/211</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/211</guid>
-            <pubDate>Sat, 03 Dec 2022 16:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
         </item>
     </channel>
 </rss>
