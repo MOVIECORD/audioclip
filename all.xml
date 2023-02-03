@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 06:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[176회 - 애프터썬 (After Sun) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/230</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/230</guid>
+            <pubDate>Fri, 03 Feb 2023 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_262/1675403019480pWJni_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[175회 - 특집 "고민과 질문" 추천 맛집부터 인생의 꿀팁까지 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/229</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/226</guid>
             <pubDate>Tue, 31 Jan 2023 23:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230110_83/1673336839910R8OXe_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[173회 1부 - 공개방송을 추억하고 새해결심을 말하다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/221</guid>
             <pubDate>Tue, 31 Jan 2023 23:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[170회 2부 - 블랙팬서: 와칸다 포에버 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/220</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/220</guid>
-            <pubDate>Tue, 31 Jan 2023 23:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.2.2 (오디오클립 ─ 씨네타운)]]></title>
