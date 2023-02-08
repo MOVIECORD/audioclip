@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 06:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(수) - 씨네초대석 (이동휘) - 2023.2.8 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2443</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2443</guid>
+            <pubDate>Wed, 08 Feb 2023 07:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230208_277/1675838618422PrdDz_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(화) - 꼬꼬무 (김지용 전문의) - 2023.2.7 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2442</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2442</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2439</guid>
             <pubDate>Sat, 04 Feb 2023 15:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230204_296/1675521892924OjVHK_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 씨네초대석 (배두나, 김시은) - 2023.2.3 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2434</guid>
             <pubDate>Mon, 30 Jan 2023 08:21:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.1.29 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2433</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2433</guid>
-            <pubDate>Sun, 29 Jan 2023 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나인틴 블랙 21화 2부 올빼미 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
