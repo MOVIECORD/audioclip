@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(527화 2부) 마지막 진심 하]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/978</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/978</guid>
+            <pubDate>Tue, 14 Feb 2023 03:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230214_208/16763444287191Jk1o_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(527화 1부) 마지막 진심 상]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/979</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/979</guid>
+            <pubDate>Tue, 14 Feb 2023 03:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230214_1/1676344429084WpRb2_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나인틴 블랙 21화 2부 올빼미 하]]></title>
             <link>https://audioclip.naver.com/channels/1496/clips/977</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/975</guid>
             <pubDate>Fri, 20 Jan 2023 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230120_19/1674195426241jCVKV_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(526화 3부) 슬램덩크 후반전]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/972</guid>
             <pubDate>Fri, 20 Jan 2023 01:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230120_62/1674175455986Pi9do_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(526화 2부) 슬램덩크 하프타임]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1496/clips/970</guid>
             <pubDate>Wed, 11 Jan 2023 02:42:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(523화 3부) 2022결산 3]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/969</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/969</guid>
-            <pubDate>Fri, 06 Jan 2023 01:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(523화 2부) 2022결산 2]]></title>
-            <link>https://audioclip.naver.com/channels/1496/clips/967</link>
-            <guid>https://audioclip.naver.com/channels/1496/clips/967</guid>
-            <pubDate>Thu, 05 Jan 2023 04:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
     </channel>
 </rss>
