@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 06:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[178회 2부 - 바빌론 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/233</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/233</guid>
+            <pubDate>Mon, 20 Feb 2023 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230220_19/167687279063972e33_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[178회 1부 - 인생은 피드백 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/232</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/229</guid>
             <pubDate>Tue, 14 Feb 2023 18:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230131_34/1675160025401arbfp_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[174회 2부 - 서부전선 이상없다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/224</guid>
             <pubDate>Tue, 14 Feb 2023 18:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[172회 1부 - 6주년 특집 공개방송(1) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/223</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/223</guid>
-            <pubDate>Tue, 14 Feb 2023 18:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.2.19 (오디오클립 ─ 씨네타운)]]></title>
