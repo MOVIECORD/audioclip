@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 15:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 16:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[피지컬: 100] 이 서바이벌 프로그램이 멋있는 이유, 그래서 우승은?(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/224</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/224</guid>
+            <pubDate>Tue, 21 Feb 2023 16:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230222_23/16769927209664Ryn9_PNG/2a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[타이타닉] '제임스 카메론'의 '타이타닉'이 여전히 빛나는 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/223</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/223</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/220</guid>
             <pubDate>Wed, 18 Jan 2023 22:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230119_48/1674076629493CMTna_JPEG/2b%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 1부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/215</guid>
             <pubDate>Tue, 20 Dec 2022 21:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-잇시네마] 사실, 여러분이 저의 진짜 '메뉴'였습니다! ('더 메뉴') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/214</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/214</guid>
-            <pubDate>Thu, 15 Dec 2022 15:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
