@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 위클리매거진 (박혜은 편집장) - 2023.2.24 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2459</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2459</guid>
+            <pubDate>Fri, 24 Feb 2023 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230224_293/1677224373878MCgOL_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 퀴즈쇼 - 식스센스 - 2023.2.23 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2458</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2458</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2455</guid>
             <pubDate>Mon, 20 Feb 2023 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230220_105/1676877767546vRdgX_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.2.19 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2450</guid>
             <pubDate>Wed, 15 Feb 2023 08:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네체크인 (엘로디) - 2023.2.14 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2449</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2449</guid>
-            <pubDate>Tue, 14 Feb 2023 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
