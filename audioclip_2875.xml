@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[너의 이름은.] '신카이 마코토' 세계관의 성장과 성취를 보여준 작품(w.영화 유튜버 '백수골방')]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/225</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/225</guid>
+            <pubDate>Tue, 28 Feb 2023 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230228_284/16775449930673Gu37_PNG/3a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피지컬: 100] 이 서바이벌 프로그램이 멋있는 이유, 그래서 우승은?(w.영화 유튜버 '백수골방')]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/224</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/221</guid>
             <pubDate>Tue, 31 Jan 2023 15:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230131_175/1675175591843CIj6N_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 2부(feat. 허남웅 평론가)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/216</guid>
             <pubDate>Tue, 27 Dec 2022 14:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '아바타: 물의 길'을 꼭 영화관에서 봐야 하는 이유(ft.정시우 기자)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/215</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/215</guid>
-            <pubDate>Tue, 20 Dec 2022 21:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
         </item>
     </channel>
 </rss>
