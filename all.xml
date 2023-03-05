@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 12:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 13:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[날씨의 아이] '신카이 마코토'의 한계와 이를 보완한 '스즈메의 문단속' (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/226</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/226</guid>
+            <pubDate>Sun, 05 Mar 2023 13:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230305_165/1678018680691YXr2D_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[너의 이름은.] '신카이 마코토' 세계관의 성장과 성취를 보여준 작품(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/225</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/225</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/222</guid>
             <pubDate>Thu, 02 Feb 2023 15:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230202_154/1675349334233m6Nds_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 퍼스트 슬램덩크] 현역 스포츠 PD가 '슬램덩크'를 보고 놀란 이유(w.'야구잡썰' 정현호 PD) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
             <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-옐로무비] '뮤지컬'을 향한 존중과 이해 사이의 간극(feat. 허남웅 평론가, 정시우 기자) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/216</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/216</guid>
-            <pubDate>Tue, 27 Dec 2022 14:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
