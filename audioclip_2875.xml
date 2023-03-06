@@ -4,11 +4,19 @@
         <title>오디오클립 ─ 놓치면 후회할 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 13:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 14:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨의 아이] '신카이 마코토'의 한계와 이를 보완한 '스즈메의 문단속']]></title>
+            <title><![CDATA[[서치 2] '서치' 시리즈의 속편이 만들어질 수 있는/없는 이유(w.영화 유튜버 '백수골방')]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/227</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/227</guid>
+            <pubDate>Mon, 06 Mar 2023 14:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230306_187/1678110066625y8xDc_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨의 아이] '신카이 마코토'의 한계와 이를 보완한 '스즈메의 문단속'(w.영화 유튜버 '백수골방')]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/226</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/226</guid>
             <pubDate>Sun, 05 Mar 2023 13:21:18 GMT</pubDate>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/223</guid>
             <pubDate>Fri, 17 Feb 2023 09:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230217_274/16765955634739jBsg_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%281%29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['야구잡썰'은 KBS에 공채 시험 때 썼던 프로그램이다?(w.'야구잡썰' 정현호 PD)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/218</guid>
             <pubDate>Wed, 11 Jan 2023 22:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 한국 영화  Best10  - 1부(feat. 허남웅 평론가)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/217</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/217</guid>
-            <pubDate>Wed, 11 Jan 2023 21:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
     </channel>
 </rss>
