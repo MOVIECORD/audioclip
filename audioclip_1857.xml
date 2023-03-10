@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1857</id>
-    <title>오디오클립 ─ 시네마 바</title>
-    <updated>2023-03-10T01:43:02.445Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 시네마 바</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 Mar 2023 02:57:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/322</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/322</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_89/1649522936861ugsGU_JPEG/movie_image-%285%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 3부 (YCU 45화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/321</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/321</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_7/1649522807830LOcVn_JPEG/movie_image-%284%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 2부 (YCU 44화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/320</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/320</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_221/16495226123733xuTb_JPEG/movie_image-%283%29-RE2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 1부 (YCU 43화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/319</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/319</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_126/1649522218231mgkp7_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나이트메어 앨리'X'인민을 위해 복무하라' 비교체험 극과극 (YCU 42화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/318</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/318</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['리코리쉬 피자' 거장, 폴 토마스 앤더슨 감독의 청춘 로맨스 (YCU 41화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/317</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/317</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['시라노' 준비했는데, 아카데미 작품상 후보 이야기만 했어요 (YCU 40화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/316</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/316</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['크루엘라' 영화에서 악인에게 서사를 주면 어때? (YCU 39화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/315</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/315</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['틱, 틱... 붐!' 훌륭한 뮤지컬 영화, 아카데미 받을까? (YCU 38화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/314</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/314</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['돈 룩 업' 6개월 후 혜성이 지구에 충돌한다면? (YCU 37화)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/313</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/313</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

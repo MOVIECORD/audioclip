@@ -1,7 +1,381 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/audioclip/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-03-10T01:43:02.454Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 Mar 2023 02:57:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[178회 2부 - 바빌론 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/233</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/233</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230220_19/167687279063972e33_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[178회 1부 - 인생은 피드백 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/232</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/232</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230216_43/1676533426616d6Qyk_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[177회 - 다음 소희 with 배두나 배우, 정주리 감독 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/231</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/231</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230208_62/16758174392229a37N_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[176회 - 애프터썬 (After Sun) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/230</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/230</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_262/1675403019480pWJni_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[175회 - 특집 "고민과 질문" 추천 맛집부터 인생의 꿀팁까지 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/229</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/229</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[174회 2부 - 서부전선 이상없다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/228</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/228</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[174회 1부 - 영화를 못봐서 안듣는다는 말은 하지말아요... (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/227</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/227</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[173회 2부 - 아바타:물의 길 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/226</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/226</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[173회 1부 - 공개방송을 추억하고 새해결심을 말하다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/225</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/225</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[172회 2부 - 6주년 특집 공개방송(2) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/224</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/224</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.3.9 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2472</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2472</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230309_251/1678344240172Js0z4_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(수) - 씨네체크인 (닉) - 2023.3.8 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2471</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2471</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230308_14/1678259509768X4orR_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.3.7 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2470</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2470</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230307_77/1678171445511jGVs3_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.3.6 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2469</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2469</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230306_64/1678085637098gMdzO_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.3.5 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2468</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2468</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.3.4 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2467</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2467</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(금) - 소통데이 - 2023.3.3 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2466</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2466</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(목) - 씨네초대석 (윤찬영, 방민아) - 2023.3.2 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2465</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2465</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2023.3.1 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2464</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2464</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2023.2.28 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2463</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2463</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/978</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/978</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230214_208/16763444287191Jk1o_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(527화 1부) 마지막 진심 상 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/979</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/979</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230214_1/1676344429084WpRb2_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나인틴 블랙 21화 2부 올빼미 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/977</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/977</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230208_185/1675817441095D7JXU_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나인틴 블랙 21화 1부 올빼미 상 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/976</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/976</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230207_15/16757453215219qPjx_JPEG/glC1648542813483.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나인틴 블랙 20화 야 너두 할 수 있어 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/975</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/975</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(526화 3부) 슬램덩크 후반전 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/972</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/972</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(526화 2부) 슬램덩크 하프타임 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/973</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/973</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(526화 1부) 슬램덩크 전반전 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/974</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/974</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>124분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(525화 2부) 나이브스 아웃 글래스 어니언 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/971</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/971</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(525화 1부) 다시 태어난 나인틴 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
+            <link>https://audioclip.naver.com/channels/1496/clips/970</link>
+            <guid>https://audioclip.naver.com/channels/1496/clips/970</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[서치 2] '서치' 시리즈의 속편이 만들어질 수 있는/없는 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/227</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/227</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230306_187/1678110066625y8xDc_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨의 아이] '신카이 마코토'의 한계와 이를 보완한 '스즈메의 문단속'(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/226</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/226</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230305_165/1678018680691YXr2D_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[너의 이름은.] '신카이 마코토' 세계관의 성장과 성취를 보여준 작품(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/225</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/225</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230228_284/16775449930673Gu37_PNG/3a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피지컬: 100] 이 서바이벌 프로그램이 멋있는 이유, 그래서 우승은?(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/224</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/224</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230222_23/16769927209664Ryn9_PNG/2a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[타이타닉] '제임스 카메론'의 '타이타닉'이 여전히 빛나는 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/223</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/223</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['야구잡썰'은 KBS에 공채 시험 때 썼던 프로그램이다?(w.'야구잡썰' 정현호 PD) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/222</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/222</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[더 퍼스트 슬램덩크] 현역 스포츠 PD가 '슬램덩크'를 보고 놀란 이유(w.'야구잡썰' 정현호 PD) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/221</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/221</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 2부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/220</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/220</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 1부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/219</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/219</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 한국 영화  Best10  - 2부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/218</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/218</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/322</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/322</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_89/1649522936861ugsGU_JPEG/movie_image-%285%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 3부 (YCU 45화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/321</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/321</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_7/1649522807830LOcVn_JPEG/movie_image-%284%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 2부 (YCU 44화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/320</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/320</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_221/16495226123733xuTb_JPEG/movie_image-%283%29-RE2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 1부 (YCU 43화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/319</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/319</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220410_126/1649522218231mgkp7_JPEG/movie_image-%282%29-RE.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나이트메어 앨리'X'인민을 위해 복무하라' 비교체험 극과극 (YCU 42화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/318</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/318</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['리코리쉬 피자' 거장, 폴 토마스 앤더슨 감독의 청춘 로맨스 (YCU 41화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/317</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/317</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['시라노' 준비했는데, 아카데미 작품상 후보 이야기만 했어요 (YCU 40화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/316</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/316</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['크루엘라' 영화에서 악인에게 서사를 주면 어때? (YCU 39화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/315</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/315</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['틱, 틱... 붐!' 훌륭한 뮤지컬 영화, 아카데미 받을까? (YCU 38화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/314</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/314</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['돈 룩 업' 6개월 후 혜성이 지구에 충돌한다면? (YCU 37화) (오디오클립 ─ 시네마 바)]]></title>
+            <link>https://audioclip.naver.com/channels/1857/clips/313</link>
+            <guid>https://audioclip.naver.com/channels/1857/clips/313</guid>
+            <pubDate>Fri, 10 Mar 2023 02:57:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
