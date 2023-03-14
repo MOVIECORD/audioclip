@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[스마트폰을 떨어뜨렸을 뿐인데] '스마트폰' 분실이 무서운 진짜 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/228</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/228</guid>
+            <pubDate>Tue, 14 Mar 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230314_83/1678756276135PvYOz_JPEG/2a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[서치 2] '서치' 시리즈의 속편이 만들어질 수 있는/없는 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/227</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/227</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/224</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230222_23/16769927209664Ryn9_PNG/2a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[타이타닉] '제임스 카메론'의 '타이타닉'이 여전히 빛나는 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/219</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 한국 영화  Best10  - 2부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/218</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/218</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
