@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 15:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 16:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[바빌론] 초창기 할리우드의 빛과 그림자, 그리고 무성 영화(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/230</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/230</guid>
+            <pubDate>Tue, 21 Mar 2023 16:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230322_276/1679411095215xw3d8_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스즈메의 문단속] 포스트 '미야자키 하야오'에 조금 더 가까워진 '신카이 마코토'(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/229</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/229</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/226</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230305_165/1678018680691YXr2D_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[너의 이름은.] '신카이 마코토' 세계관의 성장과 성취를 보여준 작품(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/221</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[민용준의 영쾌한담-연말결산] 2022년 외국 영화 Best10 - 2부(feat. 허남웅 평론가) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/220</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/220</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
