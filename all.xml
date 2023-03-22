@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 08:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[180회 1부 - 클러버들이 들려준 영화이야기 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/235</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/235</guid>
+            <pubDate>Wed, 22 Mar 2023 09:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230322_272/1679474746900RcRm3_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[179회 - 소울메이트 with 전소니 배우 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/234</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/231</guid>
             <pubDate>Tue, 14 Mar 2023 16:28:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230208_62/16758174392229a37N_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[176회 - 애프터썬 (After Sun) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/226</guid>
             <pubDate>Tue, 14 Mar 2023 16:28:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[173회 1부 - 공개방송을 추억하고 새해결심을 말하다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/225</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/225</guid>
-            <pubDate>Tue, 14 Mar 2023 16:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(수) - 가장 보통의 영화 (김보통) - 2023.3.22 (오디오클립 ─ 씨네타운)]]></title>
