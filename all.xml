@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 14:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[대외비] 기획 영화의 몰락? 이 영화의 태생적 한계(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/231</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/231</guid>
+            <pubDate>Fri, 24 Mar 2023 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230324_96/1679667973853k0bCo_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[바빌론] 초창기 할리우드의 빛과 그림자, 그리고 무성 영화(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/230</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/230</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/227</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230306_187/1678110066625y8xDc_JPEG/1a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨의 아이] '신카이 마코토'의 한계와 이를 보완한 '스즈메의 문단속'(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -293,13 +300,6 @@
             <title><![CDATA['야구잡썰'은 KBS에 공채 시험 때 썼던 프로그램이다?(w.'야구잡썰' 정현호 PD) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/222</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/222</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[더 퍼스트 슬램덩크] 현역 스포츠 PD가 '슬램덩크'를 보고 놀란 이유(w.'야구잡썰' 정현호 PD) (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/221</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/221</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
