@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 08:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 09:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.4.4 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2498</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2498</guid>
+            <pubDate>Tue, 04 Apr 2023 09:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230404_87/1680592825986L6bKD_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.4.3 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2497</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2497</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2495</guid>
             <pubDate>Sat, 01 Apr 2023 16:19:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230402_148/16803617558423s9ur_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.3.30 (오디오클립 ─ 씨네타운)]]></title>
@@ -146,13 +153,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2489</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2489</guid>
             <pubDate>Sun, 26 Mar 2023 15:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.3.25 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2488</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2488</guid>
-            <pubDate>Sat, 25 Mar 2023 15:15:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[서부 전선 이상 없다] '전쟁'이 현재진행형인 시대에 던지는 서글픈 메시지(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/233</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/233</guid>
+            <pubDate>Tue, 04 Apr 2023 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230404_142/1680572309075ISbOg_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[나는 신이다] 다큐멘터리의 시선과 수용에 관한 고민(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/232</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/232</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/229</guid>
             <pubDate>Sat, 18 Mar 2023 05:15:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230318_254/1679112010745Kg9GN_JPEG/3a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스마트폰을 떨어뜨렸을 뿐인데] '스마트폰' 분실이 무서운 진짜 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/224</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[타이타닉] '제임스 카메론'의 '타이타닉'이 여전히 빛나는 이유(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/223</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/223</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
