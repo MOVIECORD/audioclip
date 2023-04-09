@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 14:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 15:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.4.9]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2503</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2503</guid>
+            <pubDate>Sun, 09 Apr 2023 15:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230409_119/1681051536922bqvEi_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.4.8]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2502</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2498</guid>
             <pubDate>Tue, 04 Apr 2023 09:15:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230404_87/1680592825986L6bKD_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.4.3]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2493</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2493</guid>
             <pubDate>Thu, 30 Mar 2023 08:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 가장 보통의 영화 (김보통) - 2023.3.29]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2492</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2492</guid>
-            <pubDate>Wed, 29 Mar 2023 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
     </channel>
