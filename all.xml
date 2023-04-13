@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 14:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 15:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[더 글로리] 전 세계가 열광한 복수극, 그리고 우리의 현실(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
+            <link>https://audioclip.naver.com/channels/2875/clips/234</link>
+            <guid>https://audioclip.naver.com/channels/2875/clips/234</guid>
+            <pubDate>Thu, 13 Apr 2023 15:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230413_160/1681353806544ffp2c_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[서부 전선 이상 없다] '전쟁'이 현재진행형인 시대에 던지는 서글픈 메시지(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
             <link>https://audioclip.naver.com/channels/2875/clips/233</link>
             <guid>https://audioclip.naver.com/channels/2875/clips/233</guid>
@@ -259,7 +267,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/230</guid>
             <pubDate>Tue, 21 Mar 2023 16:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230322_276/1679411095215xw3d8_JPEG/4a.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스즈메의 문단속] 포스트 '미야자키 하야오'에 조금 더 가까워진 '신카이 마코토'(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
@@ -295,13 +302,6 @@
             <guid>https://audioclip.naver.com/channels/2875/clips/225</guid>
             <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[피지컬: 100] 이 서바이벌 프로그램이 멋있는 이유, 그래서 우승은?(w.영화 유튜버 '백수골방') (오디오클립 ─ 놓치면 후회할 영화)]]></title>
-            <link>https://audioclip.naver.com/channels/2875/clips/224</link>
-            <guid>https://audioclip.naver.com/channels/2875/clips/224</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KBO리그 40주년 특집! 한국야구영화 연대기 4부 (YCU 46화) (오디오클립 ─ 시네마 바)]]></title>
