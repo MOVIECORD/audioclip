@@ -4,17 +4,9 @@
         <title>오디오클립 ─ 김혜리의 필름클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[영화 속 클래식] 사랑할 땐 누구나 최악이 된다, 서부전선 이상없다, 파벨만스]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/240</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/240</guid>
-            <pubDate>Wed, 26 Apr 2023 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230426_44/1682477015541kclrP_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[182회 - 존 윅 4]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/239</link>
@@ -45,6 +37,7 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/236</guid>
             <pubDate>Tue, 11 Apr 2023 14:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230324_88/1679643877575xIN2L_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[180회 1부 - 클러버들이 들려준 영화이야기]]></title>
@@ -80,6 +73,13 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/231</guid>
             <pubDate>Tue, 11 Apr 2023 14:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[176회 - 애프터썬 (After Sun)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/230</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/230</guid>
+            <pubDate>Thu, 27 Apr 2023 03:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
     </channel>
 </rss>
