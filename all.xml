@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 씨네맛 천국 (파란달) - 2023.5.12 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2536</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2536</guid>
+            <pubDate>Fri, 12 May 2023 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230512_162/1683875621891Tz41U_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 가장 보통의 영화 (김보통) - 2023.5.11 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2535</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2535</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2532</guid>
             <pubDate>Mon, 08 May 2023 08:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230508_66/1683531828109R0Avz_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.5.7 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2527</guid>
             <pubDate>Wed, 03 May 2023 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네초대석 (최정원, 박준면) - 2023.5.2 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2526</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2526</guid>
-            <pubDate>Tue, 02 May 2023 07:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
