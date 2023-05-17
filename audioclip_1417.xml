@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1417</id>
-    <title>오디오클립 ─ 씨네타운</title>
-    <updated>2023-05-17T21:14:45.628Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 씨네타운</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 May 2023 22:15:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(수) - 씨네맘(心)카페 (별) - 2023.5.17]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2541</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2541</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230517_133/16843076278453I94M_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.5.16]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2540</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2540</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230516_145/1684232041103wtDle_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(월) - 소통데이 - 2023.5.15]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2539</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2539</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230515_164/1684133018700TLzHF_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.5.14]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2538</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2538</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230515_212/1684077224931NGJMS_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.5.13]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2537</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2537</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(금) - 씨네맛 천국 (파란달) - 2023.5.12]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2536</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2536</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(목) - 가장 보통의 영화 (김보통) - 2023.5.11]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2535</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2535</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2023.5.10]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2534</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2534</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.5.9]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2533</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2533</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(월) - 씨네체크인 (프래) - 2023.5.8]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2532</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2532</guid>
+            <pubDate>Wed, 17 May 2023 22:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
