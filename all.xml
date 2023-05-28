@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 14:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 15:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.5.28 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2552</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2552</guid>
+            <pubDate>Sun, 28 May 2023 15:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230529_173/1685286823846PGlNN_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.5.27 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2551</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2551</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2548</guid>
             <pubDate>Wed, 24 May 2023 08:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230524_79/1684914223079iFbls_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2023.5.23 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2543</guid>
             <pubDate>Fri, 19 May 2023 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.5.18 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2542</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2542</guid>
-            <pubDate>Thu, 18 May 2023 07:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
