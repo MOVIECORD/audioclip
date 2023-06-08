@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 06:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 07:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.6.8]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2563</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2563</guid>
+            <pubDate>Thu, 08 Jun 2023 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230608_247/1686206619043uxgdN_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 퀴즈쇼 - 식스센스 - 2023.6.7]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2562</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2559</guid>
             <pubDate>Sun, 04 Jun 2023 16:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230605_165/1685893428100HXuNS_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.6.3]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2554</guid>
             <pubDate>Tue, 30 May 2023 07:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 퀴즈쇼 - 식스센스 - 2023.5.29]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2553</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2553</guid>
-            <pubDate>Mon, 29 May 2023 15:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
     </channel>
 </rss>
