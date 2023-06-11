@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 15:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.6.11]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2566</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2566</guid>
+            <pubDate>Sun, 11 Jun 2023 15:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230612_119/1686496423377IPH7w_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.6.10]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2565</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2562</guid>
             <pubDate>Wed, 07 Jun 2023 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230607_224/1686122015146NurgM_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 뮤지컬라보 (박준면) - 2023.6.6]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2557</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2557</guid>
             <pubDate>Fri, 02 Jun 2023 07:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.6.1]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2556</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2556</guid>
-            <pubDate>Thu, 01 Jun 2023 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
