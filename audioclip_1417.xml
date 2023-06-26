@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1417</id>
-    <title>오디오클립 ─ 씨네타운</title>
-    <updated>2023-06-26T13:27:45.146Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 씨네타운</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Jun 2023 14:17:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.6.26]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2581</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2581</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230626_231/1687761828051VoJrp_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.6.25]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2580</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2580</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230625_229/1687702430613NcmiK_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.6.24]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2579</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2579</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230625_160/1687621416653CfVoj_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(금) - 씨네체크인 (피터) - 2023.6.23]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2578</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2578</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230623_169/16875026588939rMU1_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.6.22]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2577</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2577</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(수) - 씨네초대석 (김선호, 강태주) - 2023.6.21]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2576</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2576</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.6.20]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2575</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2575</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(월) - 씨네초대석 (김태희) - 2023.6.19]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2574</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2574</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.6.18]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2573</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2573</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.6.17]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2572</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2572</guid>
+            <pubDate>Mon, 26 Jun 2023 14:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
