@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 23:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 01:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[187회 1부 - 오랜만에 수다를 떨어봅시다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/247</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/247</guid>
+            <pubDate>Tue, 27 Jun 2023 01:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230627_221/168782662693297Qma_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[186회 - [팝업음악실] 류이치 사카모토 with 김한주 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/246</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/243</guid>
             <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230502_219/1682991836437KjAY5_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영화 속 클래식] 사랑할 땐 누구나 최악이 된다, 서부전선 이상없다, 파벨만스 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/236</guid>
             <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[180회 1부 - 클러버들이 들려준 영화이야기 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/235</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/235</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.6.26 (오디오클립 ─ 씨네타운)]]></title>
