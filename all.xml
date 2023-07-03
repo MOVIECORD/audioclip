@@ -4,83 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 13:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 14:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[187회 2부 - 스파이더맨 어크로스 더 유니버스 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/248</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/248</guid>
-            <pubDate>Thu, 29 Jun 2023 03:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230629_100/1688003032060f8k5q_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[187회 1부 - 오랜만에 수다를 떨어봅시다 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/247</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/247</guid>
-            <pubDate>Tue, 27 Jun 2023 01:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[186회 - [팝업음악실] 류이치 사카모토 with 김한주 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/246</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/246</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>146분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[185회 - 범죄도시3 with 이준혁 배우 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/245</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/245</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[184회 - 토리와 로키타 + 즐겁게 한 것들 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/244</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/244</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[183회 - 클로즈 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/243</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/243</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[영화 속 클래식] 사랑할 땐 누구나 최악이 된다, 서부전선 이상없다, 파벨만스 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/242</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/242</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[182회 - 존 윅 4 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/239</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/239</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[181회 2부 - 파벨만스(2) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/238</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/238</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[181회 1부 - 파벨만스(1) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/237</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/237</guid>
-            <pubDate>Mon, 26 Jun 2023 14:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.7.3 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2588</link>
