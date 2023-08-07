@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 김혜리의 필름클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 01:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 02:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 안보고 들어도 되는 190회 1부]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/251</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/251</guid>
+            <pubDate>Mon, 07 Aug 2023 02:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[189회 - 미션 임파서블 데드 레코닝 Part1]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/250</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/247</guid>
             <pubDate>Mon, 03 Jul 2023 15:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[186회 - [팝업음악실] 류이치 사카모토 with 김한주]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/242</guid>
             <pubDate>Mon, 03 Jul 2023 15:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[182회 - 존 윅 4]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/239</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/239</guid>
-            <pubDate>Mon, 03 Jul 2023 15:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
         </item>
     </channel>
 </rss>
