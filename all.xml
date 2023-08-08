@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 06:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 07:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.8.8 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2624</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2624</guid>
+            <pubDate>Tue, 08 Aug 2023 07:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.8.7 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2623</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2623</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2620</guid>
             <pubDate>Fri, 04 Aug 2023 07:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.8.3 (오디오클립 ─ 씨네타운)]]></title>
@@ -146,13 +153,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2615</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2615</guid>
             <pubDate>Sun, 30 Jul 2023 16:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.7.29 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2614</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2614</guid>
-            <pubDate>Sat, 29 Jul 2023 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
