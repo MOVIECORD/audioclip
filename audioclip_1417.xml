@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 06:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 07:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2023.8.24]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2640</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2640</guid>
+            <pubDate>Thu, 24 Aug 2023 07:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 씨네체크인 (샤바) - 2023.8.23]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2639</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2636</guid>
             <pubDate>Sun, 20 Aug 2023 16:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 좋아하면 들리는 퀴즈 - 2023.8.19]]></title>
@@ -71,13 +78,6 @@
             <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2023.8.15]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2631</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2631</guid>
-            <pubDate>Fri, 18 Aug 2023 20:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 꼬꼬무 (김지용 전문의) - 2023.8.14]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2630</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2630</guid>
             <pubDate>Fri, 18 Aug 2023 20:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
