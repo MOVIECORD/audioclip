@@ -4,9 +4,83 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 02:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[196회 - 괴인 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/258</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/258</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[195회 - 플라워 킬링 문 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/257</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/257</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>103분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[194회 - 너와 나 with 조현철 감독 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/256</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/256</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>120분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[193회 - 당나귀EO (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/255</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/255</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[192회 - 거미집 with 김지운 감독 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/254</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/254</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[191회 - 오펜하이머 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/253</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/253</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[190회 2부 - 바비 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/252</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/252</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영화 안보고 들어도 되는 190회 1부 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/251</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/251</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[189회 - 미션 임파서블 데드 레코닝 Part1 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/250</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/250</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[188회 - 비밀의 언덕 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/249</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/249</guid>
+            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[(화) - 씨네맛 천국 (파란달) - 2023.11.28 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2736</link>
