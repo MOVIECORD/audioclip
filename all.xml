@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 06:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[198회 2부 - 연말결산: 애프터썬, 어파이어, 파벨만스, 플라워 킬링 문 그리고 '내맘대로 어워즈' (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/261</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/261</guid>
+            <pubDate>Wed, 20 Dec 2023 06:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[198회 1부 - 연말결산: 괴물, 당나귀EO, 더 킬러, 비밀의 언덕, 사랑은 낙엽을 타고 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/260</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/257</guid>
             <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>103분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[194회 - 너와 나 with 조현철 감독 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -75,11 +82,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영화 안보고 들어도 되는 190회 1부 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/251</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/251</guid>
-            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2023.12.20 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2758</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2758</guid>
+            <pubDate>Wed, 20 Dec 2023 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.12.19 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2754</guid>
             <pubDate>Sat, 16 Dec 2023 16:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 씨네비하인드 (썬킴) - 2023.12.15 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2749</guid>
             <pubDate>Mon, 11 Dec 2023 05:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.12.10 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2748</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2748</guid>
-            <pubDate>Sun, 10 Dec 2023 15:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
