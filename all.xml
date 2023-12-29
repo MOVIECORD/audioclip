@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 04:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 연말특집 씨네초대석 배우들의 플레이리스트 - 2023.12.29 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2767</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2767</guid>
+            <pubDate>Fri, 29 Dec 2023 05:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 박하선 영화제 - 2023.12.28 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2766</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2766</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2763</guid>
             <pubDate>Mon, 25 Dec 2023 14:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2023.12.24 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2758</guid>
             <pubDate>Wed, 20 Dec 2023 06:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 퀴즈쇼 - 식스센스 - 2023.12.19 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2757</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2757</guid>
-            <pubDate>Tue, 19 Dec 2023 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
