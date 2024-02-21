@@ -4,83 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 11:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 12:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[203회 1부 - 고민과 질문, 추락의 해부 그 이후 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/267</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/267</guid>
-            <pubDate>Mon, 19 Feb 2024 02:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[202회 - 추락의 해부 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/266</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/266</guid>
-            <pubDate>Thu, 08 Feb 2024 04:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>86분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[201회 - 특집 "고민과 질문" 요즘 듣는 음악부터 휴식의 기술까지 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/265</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/265</guid>
-            <pubDate>Thu, 01 Feb 2024 04:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[200회 - 노 베어스 + 즐겁게 한 것들 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/264</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/264</guid>
-            <pubDate>Fri, 19 Jan 2024 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 속 클래식] 거미집, 괴인, 너와나, 당나귀EO, 바비 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/263</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/263</guid>
-            <pubDate>Thu, 18 Jan 2024 04:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[199회 - 7주년 특집: 필름클럽의 2023년 with 클러버 (전화연결) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/262</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/262</guid>
-            <pubDate>Wed, 27 Dec 2023 02:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[198회 2부 - 연말결산: 애프터썬, 어파이어, 파벨만스, 플라워 킬링 문 그리고 '내맘대로 어워즈' (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/261</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/261</guid>
-            <pubDate>Wed, 20 Dec 2023 06:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[198회 1부 - 연말결산: 괴물, 당나귀EO, 더 킬러, 비밀의 언덕, 사랑은 낙엽을 타고 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/260</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/260</guid>
-            <pubDate>Fri, 15 Dec 2023 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[197회 - 괴물 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/259</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/259</guid>
-            <pubDate>Mon, 04 Dec 2023 04:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[196회 - 괴인 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/258</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/258</guid>
-            <pubDate>Wed, 29 Nov 2023 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2024.2.21 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2821</link>
