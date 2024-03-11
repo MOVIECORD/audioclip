@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 08:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[205회 - 가여운 것들 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/271</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/271</guid>
+            <pubDate>Mon, 11 Mar 2024 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>106분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[204회 2부 - 듄: 파트2 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/270</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/267</guid>
             <pubDate>Wed, 21 Feb 2024 13:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_121/1687886450322r2F9u_JPEG/dTR1651028463046.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[202회 - 추락의 해부 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -75,11 +82,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[198회 2부 - 연말결산: 애프터썬, 어파이어, 파벨만스, 플라워 킬링 문 그리고 '내맘대로 어워즈' (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/261</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/261</guid>
-            <pubDate>Wed, 21 Feb 2024 13:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <title><![CDATA[(월) - 취향저격! MBTI 영화매칭 - 2024.3.11 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2840</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2840</guid>
+            <pubDate>Mon, 11 Mar 2024 08:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2024.3.10 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2836</guid>
             <pubDate>Thu, 07 Mar 2024 04:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 취향저격! MBTI 영화매칭 - 2024.3.6 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2831</guid>
             <pubDate>Sat, 02 Mar 2024 08:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 씨네비하인드 (썬킴) - 2024.3.1 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2830</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2830</guid>
-            <pubDate>Fri, 01 Mar 2024 18:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
