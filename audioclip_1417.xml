@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 04:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 05:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2024.5.17]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2908</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2908</guid>
+            <pubDate>Fri, 17 May 2024 05:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2024.5.16]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2907</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2904</guid>
             <pubDate>Mon, 13 May 2024 05:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2024.5.12]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2899</guid>
             <pubDate>Wed, 08 May 2024 04:16:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 내 인생의 영화 (문희경) - 2024.5.7]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2898</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2898</guid>
-            <pubDate>Tue, 07 May 2024 05:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
         </item>
     </channel>
 </rss>
