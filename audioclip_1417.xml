@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 04:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 05:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2024.6.14]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2935</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2935</guid>
+            <pubDate>Fri, 14 Jun 2024 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2024.6.13]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2936</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2936</guid>
+            <pubDate>Fri, 14 Jun 2024 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2024.6.13]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2932</guid>
             <pubDate>Tue, 11 Jun 2024 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 취향저격! MBTI 영화매칭 - 2024.6.10]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2933</guid>
             <pubDate>Tue, 11 Jun 2024 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2024.6.9]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2928</guid>
             <pubDate>Thu, 06 Jun 2024 13:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 영화 주제에 - 2024.6.5]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2927</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2927</guid>
-            <pubDate>Wed, 05 Jun 2024 05:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네 파고파고 (기묘한 케이지) - 2024.6.4]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2926</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2926</guid>
-            <pubDate>Tue, 04 Jun 2024 05:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
     </channel>
 </rss>
