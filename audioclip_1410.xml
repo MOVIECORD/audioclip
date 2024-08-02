@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1410</id>
-    <title>오디오클립 ─ 김혜리의 필름클럽</title>
-    <updated>2024-08-02T05:17:20.852Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 김혜리의 필름클럽</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 02 Aug 2024 06:26:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[211회 - 러브 라이즈 블리딩]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/278</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/278</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[210회 - 탈주]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/277</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/277</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[209회 2부 - 존 오브 인터레스트(2) *쿠키있음]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/276</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/276</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[209회 1부 - 존 오브 인터레스트(1)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/275</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/275</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[208회 - 퓨리오사: 매드맥스 사가]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/274</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/274</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[207회 - 정순 with 정지혜 감독, 김금순 배우]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/273</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/273</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[206회 - 2024 아카데미 시상식 특집]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/272</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/272</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[205회 - 가여운 것들]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/271</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/271</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>106분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[204회 2부 - 듄: 파트2]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/270</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/270</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[204회 1부 - 홍보사 관계자분들, 필름클럽으로 연락주세요]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/269</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/269</guid>
+            <pubDate>Fri, 02 Aug 2024 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
