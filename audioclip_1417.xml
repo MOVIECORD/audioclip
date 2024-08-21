@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 02:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 03:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(수) - 씨네초대석 (유재명) - 2024.8.21]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
+            <pubDate>Mon, 19 Aug 2024 03:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(화) - 내 인생의 영화 (바이올리니스트 대니구) - 2024.8.20]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3002</link>
@@ -20,14 +28,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/3003</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3003</guid>
             <pubDate>Tue, 20 Aug 2024 03:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 씨네 파고파고 (기묘한 케이지) - 2024.8.19]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
-            <pubDate>Mon, 19 Aug 2024 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
