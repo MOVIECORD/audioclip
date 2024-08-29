@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 04:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 05:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(목) - 씨네초대석 (강철원 주키퍼) - 2024.8.29 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3012</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3012</guid>
+            <pubDate>Thu, 29 Aug 2024 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(수) - 릴스 무비 (하지형 성우) - 2024.8.28 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3011</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3011</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3008</guid>
             <pubDate>Sun, 25 Aug 2024 07:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 씬과 함께 - 2024.8.24 (오디오클립 ─ 씨네타운)]]></title>
@@ -146,13 +153,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
             <pubDate>Mon, 19 Aug 2024 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 내 인생의 영화 (바이올리니스트 대니구) - 2024.8.20 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3002</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3002</guid>
-            <pubDate>Tue, 20 Aug 2024 03:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
         </item>
         <item>
