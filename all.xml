@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 08:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 09:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2024.9.1 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3014</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3014</guid>
+            <pubDate>Sun, 01 Sep 2024 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(토) - 씬과 함께 - 2024.8.31 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3015</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3015</guid>
+            <pubDate>Sun, 01 Sep 2024 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(토) - 씬과 함께 - 2024.8.31 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
@@ -103,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3012</guid>
             <pubDate>Thu, 29 Aug 2024 05:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 릴스 무비 (하지형 성우) - 2024.8.28 (오디오클립 ─ 씨네타운)]]></title>
@@ -111,7 +126,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3011</guid>
             <pubDate>Wed, 28 Aug 2024 05:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 씨네초대석 (손호준, 이유진) - 2024.8.27 (오디오클립 ─ 씨네타운)]]></title>
@@ -140,20 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3007</guid>
             <pubDate>Sat, 24 Aug 2024 09:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 릴스 무비 (하지형, 김한나 성우) - 2024.8.23 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3006</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3006</guid>
-            <pubDate>Fri, 23 Aug 2024 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2024.8.22 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3004</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3004</guid>
-            <pubDate>Thu, 22 Aug 2024 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
