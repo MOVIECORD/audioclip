@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Nov 2024 10:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 11:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2024.11.3]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3078</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3078</guid>
+            <pubDate>Sun, 03 Nov 2024 11:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(토) - 씬과 함께 - 2024.11.2]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3077</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3073</guid>
             <pubDate>Wed, 30 Oct 2024 03:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(화) - 씨네 파고파고 (기묘한 케이지) - 2024.10.29]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3070</guid>
             <pubDate>Sat, 26 Oct 2024 12:33:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2024.10.25]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3069</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3069</guid>
-            <pubDate>Fri, 25 Oct 2024 06:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
     </channel>
 </rss>
