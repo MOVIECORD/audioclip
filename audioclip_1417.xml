@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 13:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 14:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(토) - 씬과 함께 - 2024.12.21]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3126</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3126</guid>
+            <pubDate>Sat, 21 Dec 2024 14:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2024.12.20]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3125</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3122</guid>
             <pubDate>Tue, 17 Dec 2024 04:24:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 씨네초대석 (김윤석, 박수영) - 2024.12.16]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3117</guid>
             <pubDate>Thu, 12 Dec 2024 05:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 씨네 파고파고 (기묘한 케이지) - 2024.12.11]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3116</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3116</guid>
-            <pubDate>Wed, 11 Dec 2024 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
