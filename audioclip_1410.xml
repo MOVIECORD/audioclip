@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 김혜리의 필름클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 02:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 03:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[222회 2부 - 연말결산: 메이 디셈버, 바튼 아카데미, 아노라, 여행자의 필요, 존 오브 엔터레스트, 추락의 해부]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/292</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/292</guid>
+            <pubDate>Mon, 30 Dec 2024 03:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[222회 1부 - 연말결산: 로봇 드림, 레벨 리지, 러브 라이즈 블리딩, 듄2, 노베어스]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/291</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/288</guid>
             <pubDate>Fri, 22 Nov 2024 04:24:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>111분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[218회 - 아노라]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/283</guid>
             <pubDate>Fri, 20 Sep 2024 08:23:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>88분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[214회 - 비틀쥬스 비틀쥬스]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/282</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/282</guid>
-            <pubDate>Fri, 06 Sep 2024 08:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
         </item>
     </channel>
 </rss>
