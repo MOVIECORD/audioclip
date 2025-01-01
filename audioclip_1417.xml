@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 11:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 12:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(수) - 사연과 신청곡 - 2025.1.1]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3137</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3137</guid>
+            <pubDate>Wed, 01 Jan 2025 12:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(화) - 사랑하는 사람에게 전하고픈 한 마디 - 2024.12.31]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3136</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3133</guid>
             <pubDate>Sat, 28 Dec 2024 12:33:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2024.12.27]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
             <pubDate>Tue, 24 Dec 2024 03:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 씨네초대석 (옹성우, 김지은) - 2024.12.23]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3128</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3128</guid>
-            <pubDate>Mon, 23 Dec 2024 08:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
     </channel>
 </rss>
