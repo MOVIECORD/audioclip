@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 02:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>88분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 씨네초대석 (송중기, 이희준) - 2025.1.10 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
+            <pubDate>Mon, 06 Jan 2025 03:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 씨네초대석 (박강현, 민경아, 정원영) - 2025.1.9 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3145</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3145</guid>
@@ -110,14 +118,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/3143</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3143</guid>
             <pubDate>Tue, 07 Jan 2025 05:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(월) - 씨네 파고파고 (기묘한 케이지) - 2025.1.6 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
-            <pubDate>Mon, 06 Jan 2025 03:27:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
         <item>
