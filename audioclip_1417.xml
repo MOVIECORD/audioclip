@@ -4,9 +4,25 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 03:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 04:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(화) - 씨네 파고파고 (기묘한 케이지) - 2025.1.21]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3156</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3156</guid>
+            <pubDate>Tue, 21 Jan 2025 04:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(월) - 씨네초대석 (조우진, 우민호 감독) - 2025.1.20]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3157</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3157</guid>
+            <pubDate>Tue, 21 Jan 2025 04:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(월) - 씨네초대석 (조우진, 우민호 감독) - 2025.1.20]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3154</guid>
             <pubDate>Sat, 18 Jan 2025 09:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2025.1.17]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3153</guid>
             <pubDate>Fri, 17 Jan 2025 04:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (박지현, 최시원) - 2025.1.16]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3149</guid>
             <pubDate>Mon, 13 Jan 2025 04:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2025.1.12]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3148</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3148</guid>
-            <pubDate>Sun, 12 Jan 2025 07:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 씬과 함께 - 2025.1.11]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3146</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3146</guid>
-            <pubDate>Sat, 11 Jan 2025 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
