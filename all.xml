@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 10:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[224회 - 서브스턴스(The Substance) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
+            <link>https://audioclip.naver.com/channels/1410/clips/294</link>
+            <guid>https://audioclip.naver.com/channels/1410/clips/294</guid>
+            <pubDate>Thu, 23 Jan 2025 10:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[223회 - 쇼잉 업(Showing Up) (오디오클립 ─ 김혜리의 필름클럽)]]></title>
             <link>https://audioclip.naver.com/channels/1410/clips/293</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/290</guid>
             <pubDate>Fri, 20 Dec 2024 10:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240605_90/1717551855226eVfu2_JPEG/Yqc1717550363234.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[220회 - RM: Right People Wrong Place (오디오클립 ─ 김혜리의 필름클럽)]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1410/clips/285</guid>
             <pubDate>Tue, 12 Nov 2024 16:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[216회 1부 - 사연을 스킵했던 사람이 사연을 보낸 사연+즐겁게 한 것들 (오디오클립 ─ 김혜리의 필름클럽)]]></title>
-            <link>https://audioclip.naver.com/channels/1410/clips/284</link>
-            <guid>https://audioclip.naver.com/channels/1410/clips/284</guid>
-            <pubDate>Tue, 12 Nov 2024 16:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(목) - 씨네초대석 (한혜진, 유이, 유나) - 2025.1.23 (오디오클립 ─ 씨네타운)]]></title>
