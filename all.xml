@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 08:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(금) - 릴스 무비 (하지형 성우) - 2025.1.24 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3160</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3160</guid>
+            <pubDate>Fri, 24 Jan 2025 09:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(목) - 씨네초대석 (한혜진, 유이, 유나) - 2025.1.23 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3158</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3158</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3156</guid>
             <pubDate>Tue, 21 Jan 2025 04:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(월) - 씨네초대석 (조우진, 우민호 감독) - 2025.1.20 (오디오클립 ─ 씨네타운)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3152</guid>
             <pubDate>Thu, 16 Jan 2025 04:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(수) - 위클리매거진 (박혜은 편집장) - 2025.1.15 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3150</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3150</guid>
-            <pubDate>Wed, 15 Jan 2025 04:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(527화 2부) 마지막 진심 하 (오디오클립 ─ 씨네타운 나인틴 - 풍문으로 듣는 방송)]]></title>
