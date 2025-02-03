@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 02:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 03:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 귀를 기울이면 - 2025.2.3 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
+            <pubDate>Mon, 06 Jan 2025 03:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2025.2.2 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3169</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3169</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3166</guid>
             <pubDate>Thu, 30 Jan 2025 14:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 설날 교통특집 - 2025.1.29 (오디오클립 ─ 씨네타운)]]></title>
@@ -125,13 +132,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/3165</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3165</guid>
             <pubDate>Wed, 29 Jan 2025 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네초대석 (고아라, 장률, 찬희) - 2025.1.28 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
-            <pubDate>Mon, 06 Jan 2025 03:27:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
