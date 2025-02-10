@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 04:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 05:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>100분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(월) - 베트맨 - 2025.2.10 (오디오클립 ─ 씨네타운)]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3177</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3177</guid>
+            <pubDate>Mon, 10 Feb 2025 05:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2025.2.9 (오디오클립 ─ 씨네타운)]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3176</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3176</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3173</guid>
             <pubDate>Thu, 06 Feb 2025 03:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (김강우, 이유진) - 2025.2.5 (오디오클립 ─ 씨네타운)]]></title>
@@ -146,13 +153,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/3169</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3169</guid>
             <pubDate>Sun, 02 Feb 2025 09:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(토) - 씬과 함께 - 2025.2.1 (오디오클립 ─ 씨네타운)]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3168</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3168</guid>
-            <pubDate>Sat, 01 Feb 2025 07:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
