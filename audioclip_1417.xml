@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 02:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 03:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(월) - 꼬꼬무 - 2025.2.24]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
+            <pubDate>Tue, 18 Feb 2025 03:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2025.2.23]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3190</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3187</guid>
             <pubDate>Thu, 20 Feb 2025 05:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(수) - 씨네초대석 (최다니엘, 정혜인) - 2025.2.19]]></title>
@@ -51,13 +58,6 @@
             <link>https://audioclip.naver.com/channels/1417/clips/3186</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/3186</guid>
             <pubDate>Wed, 19 Feb 2025 03:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 씨네 파고파고 (기묘한 케이지) - 2025.2.18]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
-            <pubDate>Tue, 18 Feb 2025 03:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
         <item>
