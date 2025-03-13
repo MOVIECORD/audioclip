@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 05:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 06:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(목) - 위클리매거진 (박혜은 편집장) - 2025.3.13]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3208</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3208</guid>
+            <pubDate>Thu, 13 Mar 2025 06:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(수) - 씨네 파고파고 (기묘한 케이지) - 2025.3.12]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/3207</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3204</guid>
             <pubDate>Sun, 09 Mar 2025 04:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(토) - 씬과 함께 - 2025.3.8]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3200</guid>
             <pubDate>Wed, 05 Mar 2025 03:28:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(화) - 위클리매거진 (박혜은 편집장) - 2025.3.4]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3199</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3199</guid>
-            <pubDate>Tue, 04 Mar 2025 04:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
     </channel>
 </rss>
