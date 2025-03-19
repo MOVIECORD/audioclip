@@ -4,14 +4,22 @@
         <title>오디오클립 ─ 씨네타운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 02:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 03:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[(화) - 씨네 파고파고 (기묘한 케이지) - 2025.3.18]]></title>
+            <title><![CDATA[(수) - 씨네초대석 (곽선영, 유리) - 2025.3.19]]></title>
             <link>https://audioclip.naver.com/channels/1417/clips/2871</link>
             <guid>https://audioclip.naver.com/channels/1417/clips/2871</guid>
             <pubDate>Tue, 18 Mar 2025 03:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(화) - 씨네 파고파고 (기묘한 케이지) - 2025.3.18]]></title>
+            <link>https://audioclip.naver.com/channels/1417/clips/3213</link>
+            <guid>https://audioclip.naver.com/channels/1417/clips/3213</guid>
+            <pubDate>Wed, 19 Mar 2025 03:33:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3210</guid>
             <pubDate>Sat, 15 Mar 2025 16:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_256/1687886452768XMRNm_JPEG/bFF1603434434564.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(금) - 릴스 무비 (하지형, 이지선 성우) - 2025.3.14]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1417/clips/3205</guid>
             <pubDate>Mon, 10 Mar 2025 05:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(일) - 좋아하면 들리는 퀴즈 - 2025.3.9]]></title>
-            <link>https://audioclip.naver.com/channels/1417/clips/3204</link>
-            <guid>https://audioclip.naver.com/channels/1417/clips/3204</guid>
-            <pubDate>Sun, 09 Mar 2025 04:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
